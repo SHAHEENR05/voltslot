@@ -1,0 +1,157 @@
+id,user_id,type,title,message,payload,is_read,status,snoozed_until,created_at
+1,611,SYSTEM,Off-peak pricing,Charge between 22:00 and 06:00 and save 15% on tariffs.,,1,DONE,,2025-07-24 15:24:00
+2,617,SYSTEM,Welcome to VoltSlot,"Find chargers, book slots and get smart recharge reminders.",,1,DONE,,2025-07-28 03:28:00
+3,507,SYSTEM,New hub live,A new fast-charging hub is now live in your area.,,1,DONE,,2025-07-29 05:06:00
+4,577,SYSTEM,Welcome to VoltSlot,"Find chargers, book slots and get smart recharge reminders.",,1,DONE,,2025-07-29 23:03:00
+5,615,SYSTEM,App update,Version 2.1 brings faster station search and wallet top-up improvements.,,1,DONE,,2025-08-08 10:20:00
+6,289,SYSTEM,Welcome to VoltSlot,"Find chargers, book slots and get smart recharge reminders.",,1,DONE,,2025-08-11 12:05:00
+7,653,SYSTEM,New hub live,A new fast-charging hub is now live in your area.,,1,DONE,,2025-08-21 20:54:00
+8,98,SYSTEM,New hub live,A new fast-charging hub is now live in your area.,,1,DONE,,2025-08-23 10:50:00
+9,288,SYSTEM,Welcome to VoltSlot,"Find chargers, book slots and get smart recharge reminders.",,1,DONE,,2025-09-15 14:35:00
+10,281,SYSTEM,New hub live,A new fast-charging hub is now live in your area.,,1,DONE,,2025-09-30 21:50:00
+11,78,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Andheri East Hub – MIDC Road on 02 Oct at 14:00. Ref VSL-WTUA7B.,"{""bookingId"":30,""stationId"":6}",1,DONE,,2025-10-02 02:58:20
+12,554,CHARGE_COMPLETE,Charging complete,Your vehicle received 2.3 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 2.4 kg of tailpipe CO2.,"{""bookingId"":88,""stationId"":3}",1,DONE,,2025-10-05 09:56:41
+13,617,CHARGE_COMPLETE,Charging complete,Your vehicle received 36.1 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 27.9 kg of tailpipe CO2.,"{""bookingId"":168,""stationId"":3}",1,DONE,,2025-10-09 06:58:53
+14,510,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Andheri East Hub – MIDC Road on 13 Oct at 18:30. Ref VSL-NF5B8X.,"{""bookingId"":271,""stationId"":6}",1,DONE,,2025-10-12 22:39:50
+15,437,CHARGE_COMPLETE,Charging complete,Your vehicle received 2.3 kWh at GreenPlug Lower Parel Hub – Mill Compound. You avoided 2.4 kg of tailpipe CO2.,"{""bookingId"":332,""stationId"":4}",1,DONE,,2025-10-15 13:05:01
+16,161,CHARGE_COMPLETE,Charging complete,Your vehicle received 3.2 kWh at EcoJuice Dadar Silver Oak Society. You avoided 3.3 kg of tailpipe CO2.,"{""bookingId"":477,""stationId"":12}",1,DONE,,2025-10-21 11:05:32
+17,313,CHARGE_COMPLETE,Charging complete,Your vehicle received 33.2 kWh at VoltGrid Chembur Zenith Mall. You avoided 25.7 kg of tailpipe CO2.,"{""bookingId"":480,""stationId"":23}",1,DONE,,2025-10-21 19:44:48
+18,201,CHARGE_COMPLETE,Charging complete,Your vehicle received 27.7 kWh at ZapStation Andheri East Hub – MIDC Road. You avoided 21.4 kg of tailpipe CO2.,"{""bookingId"":587,""stationId"":6}",1,DONE,,2025-10-26 12:20:50
+19,542,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at GreenPlug Lower Parel Hub – Mill Compound on 27 Oct at 15:30. Ref VSL-W3CEA9.,"{""bookingId"":609,""stationId"":4}",1,DONE,,2025-10-26 13:19:37
+20,557,CHARGE_COMPLETE,Charging complete,Your vehicle received 1.9 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 2.0 kg of tailpipe CO2.,"{""bookingId"":668,""stationId"":3}",1,DONE,,2025-10-29 18:55:47
+21,60,CHARGE_COMPLETE,Charging complete,Your vehicle received 26.2 kWh at GreenPlug Lower Parel Hub – Mill Compound. You avoided 18.0 kg of tailpipe CO2.,"{""bookingId"":724,""stationId"":4}",1,DONE,,2025-10-31 09:57:22
+22,470,CHARGE_COMPLETE,Charging complete,Your vehicle received 2.7 kWh at GreenPlug Lower Parel Hub – Mill Compound. You avoided 2.8 kg of tailpipe CO2.,"{""bookingId"":704,""stationId"":4}",1,DONE,,2025-10-31 13:51:58
+23,527,CHARGE_COMPLETE,Charging complete,Your vehicle received 2.9 kWh at EcoJuice Kharghar Hub – Central Park Rd. You avoided 2.9 kg of tailpipe CO2.,"{""bookingId"":766,""stationId"":8}",1,DONE,,2025-11-02 19:26:15
+24,307,NO_SHOW,Missed slot,You did not check in for VSL-LP57XW. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":916,""stationId"":19}",1,DONE,,2025-11-11 22:46:00
+25,570,CHARGE_COMPLETE,Charging complete,Your vehicle received 2.0 kWh at EcoJuice Kharghar Hub – Central Park Rd. You avoided 2.0 kg of tailpipe CO2.,"{""bookingId"":930,""stationId"":8}",1,DONE,,2025-11-12 19:32:58
+26,589,CHARGE_COMPLETE,Charging complete,Your vehicle received 20.6 kWh at EcoJuice Kharghar Hub – Central Park Rd. You avoided 17.0 kg of tailpipe CO2.,"{""bookingId"":1024,""stationId"":8}",1,DONE,,2025-11-17 02:58:20
+27,616,BOOKING_SOON,Charging starts soon,Your slot at ZapStation Andheri East Hub – MIDC Road starts in 60 minutes.,"{""bookingId"":1189,""stationId"":6}",1,DONE,,2025-11-24 07:00:00
+28,655,CHARGE_COMPLETE,Charging complete,Your vehicle received 35.5 kWh at ChargeNest Powai Hub – Lakeside. You avoided 24.3 kg of tailpipe CO2.,"{""bookingId"":1108,""stationId"":2}",1,DONE,,2025-11-24 19:07:27
+29,133,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at VoltGrid BKC Hub – G Block on 28 Nov at 20:30. Ref VSL-JXBYWA.,"{""bookingId"":1271,""stationId"":1}",1,DONE,,2025-11-28 04:43:51
+30,531,CHARGE_COMPLETE,Charging complete,Your vehicle received 2.1 kWh at ChargeNest Powai Hub – Lakeside. You avoided 2.1 kg of tailpipe CO2.,"{""bookingId"":1270,""stationId"":2}",1,DONE,,2025-11-28 20:30:14
+31,598,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Thane West Hub – Ghodbunder Rd on 03 Dec at 21:00. Ref VSL-A26554.,"{""bookingId"":1314,""stationId"":3}",1,DONE,,2025-11-30 10:32:57
+32,468,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-238Q2R was cancelled. Refund has been processed as per policy.,"{""bookingId"":1418,""stationId"":3}",1,DISMISSED,,2025-12-06 17:15:37
+33,424,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-7646JX was cancelled. Refund has been processed as per policy.,"{""bookingId"":1442,""stationId"":13}",1,DISMISSED,,2025-12-09 12:09:32
+34,554,CHARGE_COMPLETE,Charging complete,Your vehicle received 1.7 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 1.8 kg of tailpipe CO2.,"{""bookingId"":1655,""stationId"":3}",1,DONE,,2025-12-15 18:28:54
+35,329,CHARGE_COMPLETE,Charging complete,Your vehicle received 27.8 kWh at ChargeNest Powai Hub – Lakeside. You avoided 23.1 kg of tailpipe CO2.,"{""bookingId"":1652,""stationId"":2}",1,DONE,,2025-12-15 19:49:25
+36,555,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at VoltGrid BKC Hub – G Block and was held for you for 10 minutes.,"{""bookingId"":1692,""stationId"":1}",1,DONE,,2025-12-17 10:27:47
+37,442,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at ZapStation Andheri East Hub – MIDC Road and was held for you for 10 minutes.,"{""bookingId"":1712,""stationId"":6}",1,DONE,,2025-12-18 07:04:58
+38,508,CHARGE_COMPLETE,Charging complete,Your vehicle received 33.1 kWh at EcoJuice Kharghar Hub – Central Park Rd. You avoided 27.4 kg of tailpipe CO2.,"{""bookingId"":1677,""stationId"":8}",1,DONE,,2025-12-18 13:22:48
+39,488,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-7V5ABX was cancelled. Refund has been processed as per policy.,"{""bookingId"":1719,""stationId"":2}",1,DISMISSED,,2025-12-18 23:04:15
+40,472,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Thane West Hub – Ghodbunder Rd on 20 Dec at 16:30. Ref VSL-QATUZN.,"{""bookingId"":1745,""stationId"":3}",1,DONE,,2025-12-19 18:01:01
+41,37,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at ChargeNest Powai Hub – Lakeside and was held for you for 10 minutes.,"{""bookingId"":1773,""stationId"":2}",1,DONE,,2025-12-21 06:24:02
+42,524,CHARGE_COMPLETE,Charging complete,Your vehicle received 21.6 kWh at VoltGrid Mulund Vertex Tower. You avoided 16.7 kg of tailpipe CO2.,"{""bookingId"":1777,""stationId"":22}",1,DONE,,2025-12-22 01:59:44
+43,584,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Thane West Hub – Ghodbunder Rd on 24 Dec at 18:00. Ref VSL-DGHK2U.,"{""bookingId"":1820,""stationId"":3}",1,DONE,,2025-12-23 22:38:44
+44,89,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ChargeNest Powai Hub – Lakeside on 26 Dec at 09:30. Ref VSL-XACB3Q.,"{""bookingId"":1874,""stationId"":2}",1,DONE,,2025-12-26 08:10:52
+45,127,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Andheri East Hub – MIDC Road on 29 Dec at 13:30. Ref VSL-HDH88Q.,"{""bookingId"":1936,""stationId"":6}",1,DONE,,2025-12-29 03:59:17
+46,467,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Mulund Cascade Mall on 02 Jan at 21:30. Ref VSL-TWAQWA.,"{""bookingId"":2027,""stationId"":21}",1,DONE,,2026-01-02 06:50:46
+47,377,CHARGE_COMPLETE,Charging complete,Your vehicle received 21.1 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 16.3 kg of tailpipe CO2.,"{""bookingId"":2066,""stationId"":3}",1,DONE,,2026-01-05 11:30:44
+48,240,BOOKING_SOON,Charging starts soon,Your slot at AmpereHub Thane West Hub – Ghodbunder Rd starts in 60 minutes.,"{""bookingId"":2095,""stationId"":3}",1,DONE,,2026-01-06 17:30:00
+49,651,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at VoltGrid BKC Hub – G Block and was held for you for 10 minutes.,"{""bookingId"":2310,""stationId"":1}",1,DONE,,2026-01-16 09:26:33
+50,311,NO_SHOW,Missed slot,You did not check in for VSL-9M5ZDT. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":2406,""stationId"":1}",1,DONE,,2026-01-20 10:16:00
+51,323,CHARGE_COMPLETE,Charging complete,Your vehicle received 18.8 kWh at ZapStation Andheri East Hub – MIDC Road. You avoided 16.6 kg of tailpipe CO2.,"{""bookingId"":2598,""stationId"":6}",1,DONE,,2026-01-27 22:27:15
+52,324,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Kalyan Silver Oak Society on 01 Feb at 00:30. Ref VSL-LCF657.,"{""bookingId"":2692,""stationId"":30}",1,DONE,,2026-01-31 15:15:49
+53,3,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-CAG9PF was cancelled. Refund has been processed as per policy.,"{""bookingId"":2725,""stationId"":8}",1,DISMISSED,,2026-02-02 23:19:00
+54,383,BOOKING_SOON,Charging starts soon,Your slot at UrjaCharge Goregaon Lakeshore Towers starts in 60 minutes.,"{""bookingId"":2775,""stationId"":18}",1,DONE,,2026-02-04 01:30:00
+55,207,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ChargeNest Powai Hub – Lakeside on 04 Feb at 14:00. Ref VSL-BRKWAT.,"{""bookingId"":2781,""stationId"":2}",1,DONE,,2026-02-04 08:23:42
+56,242,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at EcoJuice Kharghar Hub – Central Park Rd on 09 Feb at 18:00. Ref VSL-DQ3Y92.,"{""bookingId"":2878,""stationId"":8}",1,DONE,,2026-02-09 03:14:12
+57,593,CHARGE_COMPLETE,Charging complete,Your vehicle received 21.6 kWh at MetroCharge Airport Hub – Sahar Link Rd. You avoided 16.7 kg of tailpipe CO2.,"{""bookingId"":2892,""stationId"":7}",1,DONE,,2026-02-09 22:00:31
+58,221,NO_SHOW,Missed slot,You did not check in for VSL-KMSPWT. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":2941,""stationId"":4}",1,DONE,,2026-02-12 12:16:00
+59,408,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at VoltGrid BKC Hub – G Block and was held for you for 10 minutes.,"{""bookingId"":2980,""stationId"":1}",1,DONE,,2026-02-13 07:13:02
+60,565,CHARGE_COMPLETE,Charging complete,Your vehicle received 30.4 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 23.5 kg of tailpipe CO2.,"{""bookingId"":2982,""stationId"":3}",1,DONE,,2026-02-13 23:45:16
+61,207,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ChargeNest Powai Hub – Lakeside on 17 Feb at 10:30. Ref VSL-XYFR3P.,"{""bookingId"":3058,""stationId"":2}",1,DONE,,2026-02-16 17:08:55
+62,472,CHARGE_COMPLETE,Charging complete,Your vehicle received 29.9 kWh at ZapStation Andheri East Hub – MIDC Road. You avoided 23.1 kg of tailpipe CO2.,"{""bookingId"":3179,""stationId"":6}",1,DONE,,2026-02-22 14:22:23
+63,266,CHARGE_COMPLETE,Charging complete,Your vehicle received 38.7 kWh at UrjaCharge Malad Sapphire Mall. You avoided 29.9 kg of tailpipe CO2.,"{""bookingId"":3175,""stationId"":15}",1,DONE,,2026-02-22 22:54:00
+64,474,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-ZJYBC4 was cancelled. Refund has been processed as per policy.,"{""bookingId"":3386,""stationId"":29}",1,DISMISSED,,2026-03-03 19:31:29
+65,476,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at VoltGrid Ghatkopar Palm Court on 05 Mar at 02:30. Ref VSL-LKKHAR.,"{""bookingId"":3399,""stationId"":20}",1,DONE,,2026-03-04 08:16:33
+66,17,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-KAXGBH was cancelled. Refund has been processed as per policy.,"{""bookingId"":3397,""stationId"":3}",1,DISMISSED,,2026-03-04 18:06:20
+67,199,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-CHQV7V was cancelled. Refund has been processed as per policy.,"{""bookingId"":3429,""stationId"":2}",1,DISMISSED,,2026-03-06 07:05:23
+68,233,NO_SHOW,Missed slot,You did not check in for VSL-GBSYDD. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":3497,""stationId"":1}",1,DONE,,2026-03-09 09:46:00
+69,207,CHARGE_COMPLETE,Charging complete,Your vehicle received 23.8 kWh at VoltGrid BKC Hub – G Block. You avoided 18.4 kg of tailpipe CO2.,"{""bookingId"":3462,""stationId"":1}",1,DONE,,2026-03-09 10:38:34
+70,268,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at MetroCharge Worli Harbour View Complex on 16 Mar at 09:00. Ref VSL-7X5M4U.,"{""bookingId"":3696,""stationId"":10}",1,DONE,,2026-03-16 06:58:03
+71,592,CHARGE_COMPLETE,Charging complete,Your vehicle received 15.4 kWh at UrjaCharge Vashi Hub – Sector 17. You avoided 17.0 kg of tailpipe CO2.,"{""bookingId"":3688,""stationId"":5}",1,DONE,,2026-03-16 13:58:05
+72,427,CHARGE_COMPLETE,Charging complete,Your vehicle received 13.0 kWh at ChargeNest Borivali Greenfield Residency. You avoided 11.5 kg of tailpipe CO2.,"{""bookingId"":3703,""stationId"":14}",1,DONE,,2026-03-16 21:17:04
+73,204,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Andheri East Hub – MIDC Road on 18 Mar at 10:30. Ref VSL-MYKNCJ.,"{""bookingId"":3721,""stationId"":6}",1,DONE,,2026-03-17 18:43:24
+74,69,BOOKING_SOON,Charging starts soon,Your slot at ZapStation Andheri East Hub – MIDC Road starts in 60 minutes.,"{""bookingId"":3729,""stationId"":6}",1,DONE,,2026-03-18 14:00:00
+75,408,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-RDP72T was cancelled. Refund has been processed as per policy.,"{""bookingId"":4090,""stationId"":2}",1,DISMISSED,,2026-04-01 11:45:29
+76,96,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at ChargeNest Powai Hub – Lakeside and was held for you for 10 minutes.,"{""bookingId"":4131,""stationId"":2}",1,DONE,,2026-04-02 14:43:48
+77,324,NO_SHOW,Missed slot,You did not check in for VSL-R9CC6D. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":4118,""stationId"":31}",1,DONE,,2026-04-03 00:46:00
+78,510,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Andheri East Hub – MIDC Road on 07 Apr at 10:00. Ref VSL-RXES8H.,"{""bookingId"":4223,""stationId"":6}",1,DONE,,2026-04-06 15:13:44
+79,511,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Thane West Hub – Ghodbunder Rd on 09 Apr at 08:00. Ref VSL-JR9WB9.,"{""bookingId"":4290,""stationId"":3}",1,DONE,,2026-04-08 14:46:02
+80,513,NO_SHOW,Missed slot,You did not check in for VSL-JFZ8MJ. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":4339,""stationId"":4}",1,DONE,,2026-04-10 20:16:00
+81,638,CHARGE_COMPLETE,Charging complete,Your vehicle received 31.7 kWh at VoltGrid BKC Hub – G Block. You avoided 21.7 kg of tailpipe CO2.,"{""bookingId"":4331,""stationId"":1}",1,DONE,,2026-04-10 21:00:22
+82,451,SYSTEM,Off-peak pricing,Charge between 22:00 and 06:00 and save 15% on tariffs.,,1,DONE,,2026-04-11 15:12:00
+83,560,CHARGE_COMPLETE,Charging complete,Your vehicle received 18.1 kWh at VoltGrid BKC Hub – G Block. You avoided 13.9 kg of tailpipe CO2.,"{""bookingId"":4423,""stationId"":1}",1,DONE,,2026-04-13 09:39:45
+84,455,CHARGE_COMPLETE,Charging complete,Your vehicle received 28.5 kWh at EcoJuice Kharghar Hub – Central Park Rd. You avoided 23.6 kg of tailpipe CO2.,"{""bookingId"":4376,""stationId"":8}",1,DONE,,2026-04-16 14:24:26
+85,56,CHARGE_COMPLETE,Charging complete,Your vehicle received 24.4 kWh at GreenPlug Lower Parel Hub – Mill Compound. You avoided 20.2 kg of tailpipe CO2.,"{""bookingId"":4629,""stationId"":4}",1,DONE,,2026-04-21 19:45:16
+86,121,CHARGE_COMPLETE,Charging complete,Your vehicle received 19.8 kWh at ZapStation Andheri East Hub – MIDC Road. You avoided 16.4 kg of tailpipe CO2.,"{""bookingId"":4684,""stationId"":6}",1,DONE,,2026-04-22 20:28:33
+87,147,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Andheri East Hub – MIDC Road on 23 Apr at 19:30. Ref VSL-KVDZCL.,"{""bookingId"":4708,""stationId"":6}",1,DONE,,2026-04-23 15:48:46
+88,656,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Thane West Hub – Ghodbunder Rd on 24 Apr at 18:30. Ref VSL-ABBG2E.,"{""bookingId"":4729,""stationId"":3}",1,DONE,,2026-04-24 06:05:57
+89,601,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at VoltGrid BKC Hub – G Block on 27 Apr at 19:30. Ref VSL-Y2RHAD.,"{""bookingId"":4830,""stationId"":1}",1,DONE,,2026-04-27 02:19:56
+90,616,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at VoltGrid BKC Hub – G Block and was held for you for 10 minutes.,"{""bookingId"":4860,""stationId"":1}",1,DONE,,2026-04-28 04:13:31
+91,620,NO_SHOW,Missed slot,You did not check in for VSL-GDSJZD. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":4921,""stationId"":1}",1,DONE,,2026-05-01 20:16:00
+92,73,NO_SHOW,Missed slot,You did not check in for VSL-TLY3KY. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":4981,""stationId"":2}",1,DONE,,2026-05-04 14:46:00
+93,268,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-YX5G7G was cancelled. Refund has been processed as per policy.,"{""bookingId"":5145,""stationId"":6}",1,DISMISSED,,2026-05-12 17:49:16
+94,67,BOOKING_SOON,Charging starts soon,Your slot at GreenPlug Kalyan Lotus Corporate Park starts in 60 minutes.,"{""bookingId"":5237,""stationId"":29}",1,DONE,,2026-05-12 19:00:00
+95,127,CHARGE_COMPLETE,Charging complete,Your vehicle received 25.5 kWh at ChargeNest Powai Hub – Lakeside. You avoided 21.1 kg of tailpipe CO2.,"{""bookingId"":5208,""stationId"":2}",1,DONE,,2026-05-12 22:14:48
+96,540,NO_SHOW,Missed slot,You did not check in for VSL-XQMHMM. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":5265,""stationId"":1}",1,DONE,,2026-05-14 20:16:00
+97,522,BOOKING_SOON,Charging starts soon,Your slot at ZapStation Ghatkopar Crescent Business Park starts in 60 minutes.,"{""bookingId"":5419,""stationId"":19}",1,DONE,,2026-05-20 08:30:00
+98,651,NO_SHOW,Missed slot,You did not check in for VSL-74K2FS. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":5514,""stationId"":1}",1,DONE,,2026-05-25 10:46:00
+99,179,CHARGE_COMPLETE,Charging complete,Your vehicle received 15.8 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 17.4 kg of tailpipe CO2.,"{""bookingId"":5539,""stationId"":3}",1,DONE,,2026-05-26 00:36:03
+100,148,BOOKING_SOON,Charging starts soon,Your slot at AmpereHub Thane West Hub – Ghodbunder Rd starts in 60 minutes.,"{""bookingId"":5574,""stationId"":3}",1,DONE,,2026-05-27 14:30:00
+101,133,CHARGE_COMPLETE,Charging complete,Your vehicle received 15.6 kWh at VoltGrid BKC Hub – G Block. You avoided 12.9 kg of tailpipe CO2.,"{""bookingId"":5590,""stationId"":1}",1,DONE,,2026-05-27 20:59:57
+102,41,CHARGE_COMPLETE,Charging complete,Your vehicle received 25.7 kWh at MetroCharge Airport Hub – Sahar Link Rd. You avoided 21.3 kg of tailpipe CO2.,"{""bookingId"":5542,""stationId"":7}",1,DONE,,2026-05-30 20:38:44
+103,47,CHARGE_COMPLETE,Charging complete,Your vehicle received 46.0 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 30.5 kg of tailpipe CO2.,"{""bookingId"":5651,""stationId"":3}",1,DONE,,2026-05-30 22:29:16
+104,485,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at UrjaCharge Vashi Hub – Sector 17 and was held for you for 10 minutes.,"{""bookingId"":5695,""stationId"":5}",1,DONE,,2026-05-31 10:58:00
+105,169,NO_SHOW,Missed slot,You did not check in for VSL-Z5STMQ. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":5711,""stationId"":5}",1,DONE,,2026-06-01 10:46:00
+106,269,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at GreenPlug Dombivli Greenfield Residency on 12 Jun at 00:00. Ref VSL-MK7CXB.,"{""bookingId"":5987,""stationId"":32}",1,DONE,,2026-06-11 12:58:05
+107,47,BOOKING_SOON,Charging starts soon,Your slot at ChargeNest Borivali Greenfield Residency starts in 60 minutes.,"{""bookingId"":6024,""stationId"":14}",1,DONE,,2026-06-13 16:30:00
+108,593,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-VHCM5Y was cancelled. Refund has been processed as per policy.,"{""bookingId"":6064,""stationId"":1}",1,DISMISSED,,2026-06-15 03:29:31
+109,155,CHARGE_COMPLETE,Charging complete,Your vehicle received 41.4 kWh at ZapStation Andheri East Hub – MIDC Road. You avoided 27.4 kg of tailpipe CO2.,"{""bookingId"":6066,""stationId"":6}",1,DONE,,2026-06-15 11:47:28
+110,479,SYSTEM,App update,Version 2.1 brings faster station search and wallet top-up improvements.,,1,DONE,,2026-06-20 22:27:00
+111,574,SYSTEM,Off-peak pricing,Charge between 22:00 and 06:00 and save 15% on tariffs.,,1,DONE,,2026-06-24 21:40:00
+112,618,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-CXMX5E was cancelled. Refund has been processed as per policy.,"{""bookingId"":6404,""stationId"":8}",1,DISMISSED,,2026-06-26 23:31:56
+113,397,CHARGE_COMPLETE,Charging complete,Your vehicle received 1.9 kWh at ChargeNest Powai Hub – Lakeside. You avoided 1.9 kg of tailpipe CO2.,"{""bookingId"":6476,""stationId"":2}",1,DONE,,2026-06-29 18:37:01
+114,283,CHARGE_COMPLETE,Charging complete,Your vehicle received 20.4 kWh at ZapStation Andheri East Hub – MIDC Road. You avoided 18.0 kg of tailpipe CO2.,"{""bookingId"":6424,""stationId"":6}",1,DONE,,2026-06-29 23:28:02
+115,593,BOOKING_SOON,Charging starts soon,Your slot at GreenPlug Worli Maple Heights starts in 60 minutes.,"{""bookingId"":6553,""stationId"":9}",1,DONE,,2026-07-02 17:00:00
+116,87,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at VoltGrid BKC Hub – G Block on 06 Jul at 10:30. Ref VSL-63D9B5.,"{""bookingId"":6658,""stationId"":1}",1,DONE,,2026-07-06 02:18:54
+117,444,CHARGE_COMPLETE,Charging complete,Your vehicle received 17.6 kWh at ChargeNest Powai Hub – Lakeside. You avoided 14.5 kg of tailpipe CO2.,"{""bookingId"":6680,""stationId"":2}",1,DONE,,2026-07-07 19:57:26
+118,369,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at VoltGrid BKC Hub – G Block on 16 Jul at 14:00. Ref VSL-JDHJZ9.,"{""bookingId"":6750,""stationId"":1}",1,DONE,,2026-07-09 15:56:57
+119,296,CHARGE_COMPLETE,Charging complete,Your vehicle received 27.3 kWh at MetroCharge Goregaon Atlas Mall. You avoided 21.1 kg of tailpipe CO2.,"{""bookingId"":6773,""stationId"":17}",1,DONE,,2026-07-10 21:30:31
+120,4,CHARGE_COMPLETE,Charging complete,Your vehicle received 28.6 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 22.1 kg of tailpipe CO2.,"{""bookingId"":6795,""stationId"":3}",1,DONE,,2026-07-11 20:45:36
+121,454,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at VoltGrid BKC Hub – G Block on 18 Jul at 14:00. Ref VSL-Q6PUAQ.,"{""bookingId"":6821,""stationId"":1}",1,DONE,,2026-07-12 09:41:23
+122,304,CHARGE_COMPLETE,Charging complete,Your vehicle received 18.8 kWh at MetroCharge Worli Harbour View Complex. You avoided 16.6 kg of tailpipe CO2.,"{""bookingId"":6827,""stationId"":10}",1,DONE,,2026-07-12 20:48:15
+123,249,CHARGE_COMPLETE,Charging complete,Your vehicle received 33.4 kWh at GreenPlug Dombivli Greenfield Residency. You avoided 22.8 kg of tailpipe CO2.,"{""bookingId"":7048,""stationId"":32}",1,DONE,,2026-07-21 06:22:12
+124,162,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ChargeNest Powai Hub – Lakeside on 23 Jul at 19:30. Ref VSL-H2CXZL.,"{""bookingId"":7128,""stationId"":2}",1,DONE,,2026-07-23 17:38:38
+125,92,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Nerul Sapphire Plaza on 24 Jul at 22:00. Ref VSL-GCJY3A.,"{""bookingId"":7134,""stationId"":26}",1,DONE,,2026-07-23 23:55:09
+126,385,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at AmpereHub Thane West Hub – Ghodbunder Rd and was held for you for 10 minutes.,"{""bookingId"":7141,""stationId"":3}",1,DONE,,2026-07-24 05:50:58
+127,385,CHARGE_COMPLETE,Charging complete,Your vehicle received 30.4 kWh at ChargeNest Powai Hub – Lakeside. You avoided 23.5 kg of tailpipe CO2.,"{""bookingId"":7231,""stationId"":2}",1,DONE,,2026-07-27 15:54:31
+128,67,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at AmpereHub Thane West Hub – Ghodbunder Rd and was held for you for 10 minutes.,"{""bookingId"":7294,""stationId"":3}",1,DONE,,2026-07-29 12:50:00
+129,243,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ChargeNest Powai Hub – Lakeside on 30 Jul at 20:00. Ref VSL-B93MSF.,"{""bookingId"":7321,""stationId"":2}",1,DONE,,2026-07-30 05:08:19
+130,86,SYSTEM,App update,Version 2.1 brings faster station search and wallet top-up improvements.,,1,DONE,,2026-08-01 19:39:00
+131,19,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-H24F5K was cancelled. Refund has been processed as per policy.,"{""bookingId"":7525,""stationId"":5}",1,DISMISSED,,2026-08-06 12:16:47
+132,348,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at AmpereHub Thane West Hub – Ghodbunder Rd and was held for you for 10 minutes.,"{""bookingId"":7658,""stationId"":3}",1,DONE,,2026-08-11 07:02:42
+133,107,BOOKING_SOON,Charging starts soon,Your slot at ChargeNest Powai Hub – Lakeside starts in 60 minutes.,"{""bookingId"":7644,""stationId"":2}",1,DONE,,2026-08-11 13:00:00
+134,4,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-ZKA9B7 was cancelled and refunded in full.,"{""bookingId"":7769,""stationId"":3}",1,DISMISSED,,2026-08-14 07:56:44
+135,414,CHARGE_COMPLETE,Charging complete,Your vehicle received 23.8 kWh at VoltGrid BKC Hub – G Block. You avoided 18.4 kg of tailpipe CO2.,"{""bookingId"":7807,""stationId"":1}",1,DONE,,2026-08-15 19:34:00
+136,128,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ChargeNest Powai Hub – Lakeside on 16 Aug at 13:30. Ref VSL-H24BR3.,"{""bookingId"":7819,""stationId"":2}",1,DONE,,2026-08-15 22:47:30
+137,408,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Thane West Hub – Ghodbunder Rd on 16 Aug at 19:00. Ref VSL-D4PFX8.,"{""bookingId"":7827,""stationId"":3}",1,DONE,,2026-08-16 08:05:04
+138,3,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-V5GHLP was cancelled. Refund has been processed as per policy.,"{""bookingId"":7840,""stationId"":8}",1,DISMISSED,,2026-08-17 12:17:21
+139,382,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Thane West Hub – Ghodbunder Rd on 20 Aug at 22:00. Ref VSL-CJYUUA.,"{""bookingId"":7940,""stationId"":3}",1,DONE,,2026-08-20 17:01:56
+140,467,CHARGE_COMPLETE,Charging complete,Your vehicle received 13.3 kWh at GreenPlug Lower Parel Hub – Mill Compound. You avoided 11.0 kg of tailpipe CO2.,"{""bookingId"":8023,""stationId"":4}",1,DONE,,2026-08-24 13:23:40
+141,444,CHARGE_COMPLETE,Charging complete,Your vehicle received 29.1 kWh at VoltGrid BKC Hub – G Block. You avoided 24.1 kg of tailpipe CO2.,"{""bookingId"":8024,""stationId"":1}",1,DONE,,2026-08-28 20:48:21
+142,394,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at ZapStation Andheri East Hub – MIDC Road on 01 Sep at 14:30. Ref VSL-A6K362.,"{""bookingId"":8242,""stationId"":6}",1,DONE,,2026-08-30 21:19:31
+143,39,CHARGE_COMPLETE,Charging complete,Your vehicle received 22.1 kWh at VoltGrid BKC Hub – G Block. You avoided 18.3 kg of tailpipe CO2.,"{""bookingId"":8311,""stationId"":1}",1,DONE,,2026-09-02 11:31:00
+144,403,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-HU7CUZ was cancelled. Refund has been processed as per policy.,"{""bookingId"":8553,""stationId"":1}",1,DISMISSED,,2026-09-10 08:19:11
+145,169,CHARGE_COMPLETE,Charging complete,Your vehicle received 34.3 kWh at MetroCharge Airport Hub – Sahar Link Rd. You avoided 26.5 kg of tailpipe CO2.,"{""bookingId"":8636,""stationId"":7}",1,DONE,,2026-09-12 22:44:45
+146,323,NO_SHOW,Missed slot,You did not check in for VSL-TFG9ZR. A 25% no-show fee was retained and the rest refunded.,"{""bookingId"":8676,""stationId"":1}",1,DONE,,2026-09-14 11:46:00
+147,48,BOOKING_CANCELLED,Booking cancelled,Your booking VSL-VVXTMM was cancelled. Refund has been processed as per policy.,"{""bookingId"":8706,""stationId"":8}",1,DISMISSED,,2026-09-15 09:33:42
+148,238,CHARGE_COMPLETE,Charging complete,Your vehicle received 18.6 kWh at ZapStation Andheri East Hub – MIDC Road. You avoided 15.4 kg of tailpipe CO2.,"{""bookingId"":8574,""stationId"":6}",1,DONE,,2026-09-16 11:00:52
+149,656,CHARGE_COMPLETE,Charging complete,Your vehicle received 2.3 kWh at EcoJuice Kharghar Hub – Central Park Rd. You avoided 2.4 kg of tailpipe CO2.,"{""bookingId"":8809,""stationId"":8}",1,DONE,,2026-09-18 20:16:54
+150,197,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at EcoJuice Kharghar Hub – Central Park Rd on 22 Sep at 02:00. Ref VSL-VYTL9G.,"{""bookingId"":8909,""stationId"":8}",1,DONE,,2026-09-21 19:31:53
+151,166,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at EcoJuice Kharghar Hub – Central Park Rd on 24 Sep at 17:30. Ref VSL-34QBVG.,"{""bookingId"":9000,""stationId"":8}",1,DONE,,2026-09-24 09:54:37
+152,467,CHARGE_COMPLETE,Charging complete,Your vehicle received 23.6 kWh at ChargeNest Powai Hub – Lakeside. You avoided 19.5 kg of tailpipe CO2.,"{""bookingId"":8986,""stationId"":2}",1,DONE,,2026-09-25 00:18:39
+153,140,WAITLIST_PROMOTED,A slot opened up,Good news - a slot opened at AmpereHub Thane West Hub – Ghodbunder Rd and was held for you for 10 minutes.,"{""bookingId"":9183,""stationId"":3}",1,DONE,,2026-09-30 04:11:55
+154,4,CHARGE_COMPLETE,Charging complete,Your Nexon EV received 2.1 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 2.2 kg of tailpipe CO2.,"{""bookingId"":9207,""stationId"":3}",1,DONE,,2026-10-01 19:59:13
+155,479,CHARGE_COMPLETE,Charging complete,Your vehicle received 21.3 kWh at AmpereHub Thane West Hub – Ghodbunder Rd. You avoided 17.6 kg of tailpipe CO2.,"{""bookingId"":9177,""stationId"":3}",1,DONE,,2026-10-02 03:40:41
+156,4,BOOKING_CONFIRMED,Booking confirmed,Slot confirmed at AmpereHub Thane West Hub – Ghodbunder Rd on 05 Oct at 18:00. Ref VSL-YRBF9C.,"{""bookingId"":9493,""stationId"":3}",0,ACTIVE,,2026-10-03 00:40:00

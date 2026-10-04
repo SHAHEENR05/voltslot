@@ -1,0 +1,3611 @@
+[
+  {
+    "summary": {
+      "id": 1,
+      "name": "VoltGrid BKC Hub – G Block",
+      "address": "Plot C-54, G Block, Bandra Kurla Complex, Mumbai 400051",
+      "zone": "BKC",
+      "city": "Mumbai",
+      "latitude": 19.070067,
+      "longitude": 72.86436,
+      "tier": "HUB",
+      "operatorId": 1,
+      "operatorName": "VoltGrid",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "CCS2",
+          "count": 3,
+          "maxKw": 120.0
+        },
+        {
+          "code": "CHADEMO",
+          "count": 1,
+          "maxKw": 50.0
+        },
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 6,
+      "activePoints": 6,
+      "minTariff": 9.0,
+      "avgRating": 4.18,
+      "reviewCount": 237,
+      "reliabilityScore": 79.8,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 5,
+      "crowdingIndexNow": 86.5,
+      "crowdingLevelNow": "HIGH"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 6,
+        "name": "Lounge",
+        "icon": "sofa"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      }
+    ],
+    "points": [
+      {
+        "id": 1,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 120.0,
+        "tariffPerKwh": 22.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 2,
+        "label": "DC-2",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 19.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 3,
+        "label": "DC-3",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 4,
+        "label": "DC-4",
+        "connectorCode": "CHADEMO",
+        "connectorName": "CHAdeMO",
+        "currentType": "DC",
+        "powerKw": 50.0,
+        "tariffPerKwh": 17.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 5,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 6,
+        "label": "DC-5",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 2,
+      "2": 6,
+      "3": 37,
+      "4": 94,
+      "5": 98
+    },
+    "sentiment": {
+      "positivePct": 73,
+      "neutralPct": 11,
+      "negativePct": 16
+    },
+    "uptimePct": 99.2
+  },
+  {
+    "summary": {
+      "id": 2,
+      "name": "ChargeNest Powai Hub – Lakeside",
+      "address": "Lakeside Drive, Near Central Avenue, Powai, Mumbai 400076",
+      "zone": "Powai",
+      "city": "Mumbai",
+      "latitude": 19.120678,
+      "longitude": 72.908722,
+      "tier": "HUB",
+      "operatorId": 2,
+      "operatorName": "ChargeNest",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "CCS2",
+          "count": 3,
+          "maxKw": 120.0
+        },
+        {
+          "code": "TYPE2",
+          "count": 2,
+          "maxKw": 7.4
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 6,
+      "activePoints": 6,
+      "minTariff": 9.0,
+      "avgRating": 4.09,
+      "reviewCount": 208,
+      "reliabilityScore": 78.8,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 6,
+      "crowdingIndexNow": 83.3,
+      "crowdingLevelNow": "HIGH"
+    },
+    "amenities": [
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 6,
+        "name": "Lounge",
+        "icon": "sofa"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      },
+      {
+        "id": 9,
+        "name": "EV Mechanic",
+        "icon": "wrench"
+      }
+    ],
+    "points": [
+      {
+        "id": 7,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 120.0,
+        "tariffPerKwh": 23.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 8,
+        "label": "DC-2",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 9,
+        "label": "DC-3",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 10,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 11,
+        "label": "AC-2",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 12,
+        "label": "DC-4",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 7,
+      "3": 35,
+      "4": 98,
+      "5": 68
+    },
+    "sentiment": {
+      "positivePct": 68,
+      "neutralPct": 18,
+      "negativePct": 14
+    },
+    "uptimePct": 98.5
+  },
+  {
+    "summary": {
+      "id": 3,
+      "name": "AmpereHub Thane West Hub – Ghodbunder Rd",
+      "address": "Ghodbunder Road, Opp. Orchid Square, Thane West 400607",
+      "zone": "Thane West",
+      "city": "Thane",
+      "latitude": 19.217653,
+      "longitude": 72.975717,
+      "tier": "HUB",
+      "operatorId": 3,
+      "operatorName": "AmpereHub",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "CCS2",
+          "count": 2,
+          "maxKw": 120.0
+        },
+        {
+          "code": "CHADEMO",
+          "count": 1,
+          "maxKw": 50.0
+        },
+        {
+          "code": "TYPE2",
+          "count": 2,
+          "maxKw": 7.4
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 6,
+      "activePoints": 6,
+      "minTariff": 9.0,
+      "avgRating": 4.24,
+      "reviewCount": 240,
+      "reliabilityScore": 80.6,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 5,
+      "crowdingIndexNow": 72.6,
+      "crowdingLevelNow": "HIGH"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      },
+      {
+        "id": 9,
+        "name": "EV Mechanic",
+        "icon": "wrench"
+      }
+    ],
+    "points": [
+      {
+        "id": 13,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 120.0,
+        "tariffPerKwh": 23.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 14,
+        "label": "DC-2",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 15,
+        "label": "DC-3",
+        "connectorCode": "CHADEMO",
+        "connectorName": "CHAdeMO",
+        "currentType": "DC",
+        "powerKw": 50.0,
+        "tariffPerKwh": 17.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 16,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 17,
+        "label": "AC-2",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 18,
+        "label": "DC-4",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 48,
+      "4": 87,
+      "5": 105
+    },
+    "sentiment": {
+      "positivePct": 72,
+      "neutralPct": 15,
+      "negativePct": 12
+    },
+    "uptimePct": 99.6
+  },
+  {
+    "summary": {
+      "id": 4,
+      "name": "GreenPlug Lower Parel Hub – Mill Compound",
+      "address": "Senapati Bapat Marg, Mill Compound, Lower Parel, Mumbai 400013",
+      "zone": "Lower Parel",
+      "city": "Mumbai",
+      "latitude": 18.991578,
+      "longitude": 72.828207,
+      "tier": "HUB",
+      "operatorId": 4,
+      "operatorName": "GreenPlug",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "CCS2",
+          "count": 2,
+          "maxKw": 120.0
+        },
+        {
+          "code": "TYPE2",
+          "count": 2,
+          "maxKw": 7.4
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 5,
+      "activePoints": 5,
+      "minTariff": 9.0,
+      "avgRating": 3.94,
+      "reviewCount": 69,
+      "reliabilityScore": 76.7,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 5,
+      "crowdingIndexNow": 1.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 6,
+        "name": "Lounge",
+        "icon": "sofa"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      },
+      {
+        "id": 9,
+        "name": "EV Mechanic",
+        "icon": "wrench"
+      }
+    ],
+    "points": [
+      {
+        "id": 19,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 120.0,
+        "tariffPerKwh": 24.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 20,
+        "label": "DC-2",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 21,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 22,
+        "label": "AC-2",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 23,
+        "label": "DC-3",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 2,
+      "3": 17,
+      "4": 33,
+      "5": 17
+    },
+    "sentiment": {
+      "positivePct": 61,
+      "neutralPct": 23,
+      "negativePct": 16
+    },
+    "uptimePct": 97.5
+  },
+  {
+    "summary": {
+      "id": 5,
+      "name": "UrjaCharge Vashi Hub – Sector 17",
+      "address": "Sector 17, Palm Beach Link Road, Vashi, Navi Mumbai 400703",
+      "zone": "Vashi",
+      "city": "Navi Mumbai",
+      "latitude": 19.076401,
+      "longitude": 72.995471,
+      "tier": "HUB",
+      "operatorId": 5,
+      "operatorName": "UrjaCharge",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "CCS2",
+          "count": 2,
+          "maxKw": 60.0
+        },
+        {
+          "code": "BHARAT_DC",
+          "count": 1,
+          "maxKw": 15.0
+        },
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 5,
+      "activePoints": 5,
+      "minTariff": 9.0,
+      "avgRating": 4.15,
+      "reviewCount": 170,
+      "reliabilityScore": 79.5,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 5,
+      "crowdingIndexNow": 29.5,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      }
+    ],
+    "points": [
+      {
+        "id": 24,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 25,
+        "label": "DC-2",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 26,
+        "label": "DC-3",
+        "connectorCode": "BHARAT_DC",
+        "connectorName": "Bharat DC-001",
+        "currentType": "DC",
+        "powerKw": 15.0,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 27,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 28,
+        "label": "DC-4",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 4,
+      "3": 33,
+      "4": 67,
+      "5": 66
+    },
+    "sentiment": {
+      "positivePct": 69,
+      "neutralPct": 16,
+      "negativePct": 15
+    },
+    "uptimePct": 99.0
+  },
+  {
+    "summary": {
+      "id": 6,
+      "name": "ZapStation Andheri East Hub – MIDC Road",
+      "address": "MIDC Central Road, Andheri East, Mumbai 400093",
+      "zone": "Andheri East",
+      "city": "Mumbai",
+      "latitude": 19.114612,
+      "longitude": 72.87191,
+      "tier": "HUB",
+      "operatorId": 6,
+      "operatorName": "ZapStation",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "CCS2",
+          "count": 3,
+          "maxKw": 120.0
+        },
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 5,
+      "activePoints": 5,
+      "minTariff": 9.0,
+      "avgRating": 4.09,
+      "reviewCount": 152,
+      "reliabilityScore": 78.9,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 5,
+      "crowdingIndexNow": 33.2,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 6,
+        "name": "Lounge",
+        "icon": "sofa"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      },
+      {
+        "id": 9,
+        "name": "EV Mechanic",
+        "icon": "wrench"
+      }
+    ],
+    "points": [
+      {
+        "id": 29,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 120.0,
+        "tariffPerKwh": 22.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 30,
+        "label": "DC-2",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 31,
+        "label": "DC-3",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 32,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 33,
+        "label": "DC-4",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 36,
+      "4": 63,
+      "5": 52
+    },
+    "sentiment": {
+      "positivePct": 70,
+      "neutralPct": 18,
+      "negativePct": 12
+    },
+    "uptimePct": 98.7
+  },
+  {
+    "summary": {
+      "id": 7,
+      "name": "MetroCharge Airport Hub – Sahar Link Rd",
+      "address": "Sahar Link Road, Vile Parle East, Mumbai 400099",
+      "zone": "Airport",
+      "city": "Mumbai",
+      "latitude": 19.09311,
+      "longitude": 72.846828,
+      "tier": "HUB",
+      "operatorId": 7,
+      "operatorName": "MetroCharge",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "CCS2",
+          "count": 2,
+          "maxKw": 120.0
+        },
+        {
+          "code": "CHADEMO",
+          "count": 1,
+          "maxKw": 50.0
+        },
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "BHARAT_DC",
+          "count": 1,
+          "maxKw": 15.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 6,
+      "activePoints": 6,
+      "minTariff": 9.0,
+      "avgRating": 4.14,
+      "reviewCount": 124,
+      "reliabilityScore": 79.0,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 6,
+      "crowdingIndexNow": 17.2,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      },
+      {
+        "id": 9,
+        "name": "EV Mechanic",
+        "icon": "wrench"
+      }
+    ],
+    "points": [
+      {
+        "id": 34,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 120.0,
+        "tariffPerKwh": 23.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 35,
+        "label": "DC-2",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 36,
+        "label": "DC-3",
+        "connectorCode": "CHADEMO",
+        "connectorName": "CHAdeMO",
+        "currentType": "DC",
+        "powerKw": 50.0,
+        "tariffPerKwh": 17.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 37,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 11.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 38,
+        "label": "DC-4",
+        "connectorCode": "BHARAT_DC",
+        "connectorName": "Bharat DC-001",
+        "currentType": "DC",
+        "powerKw": 15.0,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 39,
+        "label": "DC-5",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 2,
+      "3": 16,
+      "4": 69,
+      "5": 37
+    },
+    "sentiment": {
+      "positivePct": 66,
+      "neutralPct": 25,
+      "negativePct": 9
+    },
+    "uptimePct": 98.4
+  },
+  {
+    "summary": {
+      "id": 8,
+      "name": "EcoJuice Kharghar Hub – Central Park Rd",
+      "address": "Central Park Road, Sector 20, Kharghar, Navi Mumbai 410210",
+      "zone": "Kharghar",
+      "city": "Navi Mumbai",
+      "latitude": 19.043433,
+      "longitude": 73.066682,
+      "tier": "HUB",
+      "operatorId": 8,
+      "operatorName": "EcoJuice",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 60.0
+        },
+        {
+          "code": "CHADEMO",
+          "count": 1,
+          "maxKw": 50.0
+        },
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 4,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.13,
+      "reviewCount": 128,
+      "reliabilityScore": 79.1,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 56.2,
+      "crowdingLevelNow": "MEDIUM"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      },
+      {
+        "id": 9,
+        "name": "EV Mechanic",
+        "icon": "wrench"
+      }
+    ],
+    "points": [
+      {
+        "id": 40,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 19.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 41,
+        "label": "DC-2",
+        "connectorCode": "CHADEMO",
+        "connectorName": "CHAdeMO",
+        "currentType": "DC",
+        "powerKw": 50.0,
+        "tariffPerKwh": 17.0,
+        "status": "MAINTENANCE"
+      },
+      {
+        "id": 42,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 43,
+        "label": "DC-3",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 8,
+      "3": 16,
+      "4": 55,
+      "5": 49
+    },
+    "sentiment": {
+      "positivePct": 70,
+      "neutralPct": 15,
+      "negativePct": 15
+    },
+    "uptimePct": 97.2
+  },
+  {
+    "summary": {
+      "id": 9,
+      "name": "GreenPlug Worli Maple Heights",
+      "address": "114, Maple Heights, Worli, Mumbai",
+      "zone": "Worli",
+      "city": "Mumbai",
+      "latitude": 19.018999,
+      "longitude": 72.814831,
+      "tier": "STANDARD",
+      "operatorId": 4,
+      "operatorName": "GreenPlug",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 60.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 3.88,
+      "reviewCount": 8,
+      "reliabilityScore": 77.1,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 44,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 45,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 19.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 46,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 5,
+      "5": 1
+    },
+    "sentiment": {
+      "positivePct": 75,
+      "neutralPct": 12,
+      "negativePct": 12
+    },
+    "uptimePct": 97.1
+  },
+  {
+    "summary": {
+      "id": 10,
+      "name": "MetroCharge Worli Harbour View Complex",
+      "address": "48, Harbour View Complex, Worli, Mumbai",
+      "zone": "Worli",
+      "city": "Mumbai",
+      "latitude": 19.016413,
+      "longitude": 72.820941,
+      "tier": "STANDARD",
+      "operatorId": 7,
+      "operatorName": "MetroCharge",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.58,
+      "reviewCount": 12,
+      "reliabilityScore": 83.8,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 5.5,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      }
+    ],
+    "points": [
+      {
+        "id": 47,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 11.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 48,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 49,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 5,
+      "5": 7
+    },
+    "sentiment": {
+      "positivePct": 67,
+      "neutralPct": 33,
+      "negativePct": 0
+    },
+    "uptimePct": 96.9
+  },
+  {
+    "summary": {
+      "id": 11,
+      "name": "MetroCharge Dadar City Square Mall",
+      "address": "130, Mall Road, Dadar, Mumbai",
+      "zone": "Dadar",
+      "city": "Mumbai",
+      "latitude": 19.012739,
+      "longitude": 72.848052,
+      "tier": "STANDARD",
+      "operatorId": 7,
+      "operatorName": "MetroCharge",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.32,
+      "reviewCount": 19,
+      "reliabilityScore": 81.2,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 6,
+      "closeHour": 23,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 34.1,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 5,
+        "name": "Mall",
+        "icon": "shopping-bag"
+      }
+    ],
+    "points": [
+      {
+        "id": 50,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 11.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 51,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 52,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 7,
+      "5": 9
+    },
+    "sentiment": {
+      "positivePct": 79,
+      "neutralPct": 16,
+      "negativePct": 5
+    },
+    "uptimePct": 98.7
+  },
+  {
+    "summary": {
+      "id": 12,
+      "name": "EcoJuice Dadar Silver Oak Society",
+      "address": "120, Silver Oak Society, Dadar, Mumbai",
+      "zone": "Dadar",
+      "city": "Mumbai",
+      "latitude": 19.014218,
+      "longitude": 72.848427,
+      "tier": "STANDARD",
+      "operatorId": 8,
+      "operatorName": "EcoJuice",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.33,
+      "reviewCount": 21,
+      "reliabilityScore": 81.1,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 34.1,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      }
+    ],
+    "points": [
+      {
+        "id": 53,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 54,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 55,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 8,
+      "5": 10
+    },
+    "sentiment": {
+      "positivePct": 76,
+      "neutralPct": 14,
+      "negativePct": 10
+    },
+    "uptimePct": 96.3
+  },
+  {
+    "summary": {
+      "id": 13,
+      "name": "EcoJuice Borivali Galleria Mall",
+      "address": "33, Mall Road, Borivali, Mumbai",
+      "zone": "Borivali",
+      "city": "Mumbai",
+      "latitude": 19.226539,
+      "longitude": 72.854461,
+      "tier": "STANDARD",
+      "operatorId": 8,
+      "operatorName": "EcoJuice",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 60.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.33,
+      "reviewCount": 9,
+      "reliabilityScore": 81.9,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 6,
+      "closeHour": 23,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 3.3,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 5,
+        "name": "Mall",
+        "icon": "shopping-bag"
+      }
+    ],
+    "points": [
+      {
+        "id": 56,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 11.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 57,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 19.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 58,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 4,
+      "5": 4
+    },
+    "sentiment": {
+      "positivePct": 78,
+      "neutralPct": 11,
+      "negativePct": 11
+    },
+    "uptimePct": 99.4
+  },
+  {
+    "summary": {
+      "id": 14,
+      "name": "ChargeNest Borivali Greenfield Residency",
+      "address": "105, Greenfield Residency, Borivali, Mumbai",
+      "zone": "Borivali",
+      "city": "Mumbai",
+      "latitude": 19.225552,
+      "longitude": 72.853145,
+      "tier": "STANDARD",
+      "operatorId": 2,
+      "operatorName": "ChargeNest",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 60.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.46,
+      "reviewCount": 24,
+      "reliabilityScore": 82.9,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 59.0,
+      "crowdingLevelNow": "MEDIUM"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      }
+    ],
+    "points": [
+      {
+        "id": 59,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 11.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 60,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 61,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 9,
+      "5": 13
+    },
+    "sentiment": {
+      "positivePct": 67,
+      "neutralPct": 29,
+      "negativePct": 4
+    },
+    "uptimePct": 98.9
+  },
+  {
+    "summary": {
+      "id": 15,
+      "name": "UrjaCharge Malad Sapphire Mall",
+      "address": "51, Mall Road, Malad, Mumbai",
+      "zone": "Malad",
+      "city": "Mumbai",
+      "latitude": 19.178538,
+      "longitude": 72.848937,
+      "tier": "STANDARD",
+      "operatorId": 5,
+      "operatorName": "UrjaCharge",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.08,
+      "reviewCount": 13,
+      "reliabilityScore": 78.7,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 6,
+      "closeHour": 23,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 5,
+        "name": "Mall",
+        "icon": "shopping-bag"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 62,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 63,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 64,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 5,
+      "5": 5
+    },
+    "sentiment": {
+      "positivePct": 77,
+      "neutralPct": 8,
+      "negativePct": 15
+    },
+    "uptimePct": 97.4
+  },
+  {
+    "summary": {
+      "id": 16,
+      "name": "AmpereHub Malad Sunrise Arcade",
+      "address": "99, Sunrise Arcade, Malad, Mumbai",
+      "zone": "Malad",
+      "city": "Mumbai",
+      "latitude": 19.18655,
+      "longitude": 72.847445,
+      "tier": "STANDARD",
+      "operatorId": 3,
+      "operatorName": "AmpereHub",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.05,
+      "reviewCount": 22,
+      "reliabilityScore": 77.5,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      }
+    ],
+    "points": [
+      {
+        "id": 65,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 66,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 67,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 4,
+      "4": 10,
+      "5": 7
+    },
+    "sentiment": {
+      "positivePct": 64,
+      "neutralPct": 18,
+      "negativePct": 18
+    },
+    "uptimePct": 98.1
+  },
+  {
+    "summary": {
+      "id": 17,
+      "name": "MetroCharge Goregaon Atlas Mall",
+      "address": "58, Mall Road, Goregaon, Mumbai",
+      "zone": "Goregaon",
+      "city": "Mumbai",
+      "latitude": 19.167282,
+      "longitude": 72.858788,
+      "tier": "STANDARD",
+      "operatorId": 7,
+      "operatorName": "MetroCharge",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        },
+        {
+          "code": "LECCS",
+          "count": 1,
+          "maxKw": 3.3
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 9.0,
+      "avgRating": 4.53,
+      "reviewCount": 19,
+      "reliabilityScore": 85.0,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 6,
+      "closeHour": 23,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 5,
+        "name": "Mall",
+        "icon": "shopping-bag"
+      }
+    ],
+    "points": [
+      {
+        "id": 68,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 69,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 70,
+        "label": "DC-2",
+        "connectorCode": "LECCS",
+        "connectorName": "LECCS (Light EV)",
+        "currentType": "DC",
+        "powerKw": 3.3,
+        "tariffPerKwh": 9.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 7,
+      "5": 11
+    },
+    "sentiment": {
+      "positivePct": 84,
+      "neutralPct": 16,
+      "negativePct": 0
+    },
+    "uptimePct": 98.9
+  },
+  {
+    "summary": {
+      "id": 18,
+      "name": "UrjaCharge Goregaon Lakeshore Towers",
+      "address": "59, Lakeshore Towers, Goregaon, Mumbai",
+      "zone": "Goregaon",
+      "city": "Mumbai",
+      "latitude": 19.162922,
+      "longitude": 72.850062,
+      "tier": "STANDARD",
+      "operatorId": 5,
+      "operatorName": "UrjaCharge",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 2,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 12.0,
+      "avgRating": 4.16,
+      "reviewCount": 31,
+      "reliabilityScore": 79.1,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 71,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 72,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 73,
+        "label": "AC-2",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 3,
+      "4": 17,
+      "5": 10
+    },
+    "sentiment": {
+      "positivePct": 65,
+      "neutralPct": 19,
+      "negativePct": 16
+    },
+    "uptimePct": 97.5
+  },
+  {
+    "summary": {
+      "id": 19,
+      "name": "ZapStation Ghatkopar Crescent Business Park",
+      "address": "149, Crescent Business Park, Ghatkopar, Mumbai",
+      "zone": "Ghatkopar",
+      "city": "Mumbai",
+      "latitude": 19.085452,
+      "longitude": 72.907857,
+      "tier": "STANDARD",
+      "operatorId": 6,
+      "operatorName": "ZapStation",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 1,
+      "minTariff": 11.0,
+      "avgRating": 3.94,
+      "reviewCount": 17,
+      "reliabilityScore": 75.7,
+      "sentimentLabel": "NEUTRAL",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 1,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 74,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 11.0,
+        "status": "OFFLINE"
+      },
+      {
+        "id": 75,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 3,
+      "4": 9,
+      "5": 4
+    },
+    "sentiment": {
+      "positivePct": 59,
+      "neutralPct": 12,
+      "negativePct": 29
+    },
+    "uptimePct": 99.5
+  },
+  {
+    "summary": {
+      "id": 20,
+      "name": "VoltGrid Ghatkopar Palm Court",
+      "address": "31, Palm Court, Ghatkopar, Mumbai",
+      "zone": "Ghatkopar",
+      "city": "Mumbai",
+      "latitude": 19.081527,
+      "longitude": 72.908604,
+      "tier": "STANDARD",
+      "operatorId": 1,
+      "operatorName": "VoltGrid",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 60.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 13.5,
+      "avgRating": 2.35,
+      "reviewCount": 17,
+      "reliabilityScore": 54.2,
+      "sentimentLabel": "NEGATIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      }
+    ],
+    "points": [
+      {
+        "id": 76,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 77,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 19.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 3,
+      "2": 7,
+      "3": 5,
+      "4": 2,
+      "5": 0
+    },
+    "sentiment": {
+      "positivePct": 24,
+      "neutralPct": 24,
+      "negativePct": 53
+    },
+    "uptimePct": 88.9
+  },
+  {
+    "summary": {
+      "id": 21,
+      "name": "ZapStation Mulund Cascade Mall",
+      "address": "41, Mall Road, Mulund, Mumbai",
+      "zone": "Mulund",
+      "city": "Mumbai",
+      "latitude": 19.176472,
+      "longitude": 72.944001,
+      "tier": "STANDARD",
+      "operatorId": 6,
+      "operatorName": "ZapStation",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 13.0,
+      "avgRating": 3.89,
+      "reviewCount": 9,
+      "reliabilityScore": 75.3,
+      "sentimentLabel": "NEUTRAL",
+      "openNow": true,
+      "openHour": 6,
+      "closeHour": 23,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 64.1,
+      "crowdingLevelNow": "MEDIUM"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 5,
+        "name": "Mall",
+        "icon": "shopping-bag"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      }
+    ],
+    "points": [
+      {
+        "id": 78,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 79,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 5,
+      "5": 2
+    },
+    "sentiment": {
+      "positivePct": 67,
+      "neutralPct": 11,
+      "negativePct": 22
+    },
+    "uptimePct": 98.8
+  },
+  {
+    "summary": {
+      "id": 22,
+      "name": "VoltGrid Mulund Vertex Tower",
+      "address": "69, Vertex Tower, Mulund, Mumbai",
+      "zone": "Mulund",
+      "city": "Mumbai",
+      "latitude": 19.178378,
+      "longitude": 72.948533,
+      "tier": "STANDARD",
+      "operatorId": 1,
+      "operatorName": "VoltGrid",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 12.0,
+      "avgRating": 4.13,
+      "reviewCount": 23,
+      "reliabilityScore": 79.8,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 80,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 81,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 5,
+      "4": 10,
+      "5": 8
+    },
+    "sentiment": {
+      "positivePct": 78,
+      "neutralPct": 13,
+      "negativePct": 9
+    },
+    "uptimePct": 96.7
+  },
+  {
+    "summary": {
+      "id": 23,
+      "name": "VoltGrid Chembur Zenith Mall",
+      "address": "134, Mall Road, Chembur, Mumbai",
+      "zone": "Chembur",
+      "city": "Mumbai",
+      "latitude": 19.057119,
+      "longitude": 72.897368,
+      "tier": "STANDARD",
+      "operatorId": 1,
+      "operatorName": "VoltGrid",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 13.5,
+      "avgRating": 4.08,
+      "reviewCount": 13,
+      "reliabilityScore": 78.7,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 6,
+      "closeHour": 23,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 5,
+        "name": "Mall",
+        "icon": "shopping-bag"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      }
+    ],
+    "points": [
+      {
+        "id": 82,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 83,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 6,
+      "5": 4
+    },
+    "sentiment": {
+      "positivePct": 69,
+      "neutralPct": 8,
+      "negativePct": 23
+    },
+    "uptimePct": 98.9
+  },
+  {
+    "summary": {
+      "id": 24,
+      "name": "ChargeNest Chembur Riverside Complex",
+      "address": "59, Riverside Complex, Chembur, Mumbai",
+      "zone": "Chembur",
+      "city": "Mumbai",
+      "latitude": 19.052517,
+      "longitude": 72.902754,
+      "tier": "STANDARD",
+      "operatorId": 2,
+      "operatorName": "ChargeNest",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 12.0,
+      "avgRating": 4.21,
+      "reviewCount": 19,
+      "reliabilityScore": 79.6,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 84,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 85,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 8,
+      "5": 8
+    },
+    "sentiment": {
+      "positivePct": 63,
+      "neutralPct": 21,
+      "negativePct": 16
+    },
+    "uptimePct": 96.6
+  },
+  {
+    "summary": {
+      "id": 25,
+      "name": "AmpereHub Nerul Meridian Mall",
+      "address": "54, Mall Road, Nerul, Navi Mumbai",
+      "zone": "Nerul",
+      "city": "Navi Mumbai",
+      "latitude": 19.031831,
+      "longitude": 73.032906,
+      "tier": "STANDARD",
+      "operatorId": 3,
+      "operatorName": "AmpereHub",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 11.0,
+      "avgRating": 4.17,
+      "reviewCount": 12,
+      "reliabilityScore": 79.0,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 6,
+      "closeHour": 23,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 57.8,
+      "crowdingLevelNow": "MEDIUM"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 5,
+        "name": "Mall",
+        "icon": "shopping-bag"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      }
+    ],
+    "points": [
+      {
+        "id": 86,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 11.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 87,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 3,
+      "5": 6
+    },
+    "sentiment": {
+      "positivePct": 75,
+      "neutralPct": 0,
+      "negativePct": 25
+    },
+    "uptimePct": 98.8
+  },
+  {
+    "summary": {
+      "id": 26,
+      "name": "AmpereHub Nerul Sapphire Plaza",
+      "address": "149, Sapphire Plaza, Nerul, Navi Mumbai",
+      "zone": "Nerul",
+      "city": "Navi Mumbai",
+      "latitude": 19.031305,
+      "longitude": 73.028553,
+      "tier": "STANDARD",
+      "operatorId": 3,
+      "operatorName": "AmpereHub",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 60.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 13.5,
+      "avgRating": 4.33,
+      "reviewCount": 18,
+      "reliabilityScore": 81.0,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      }
+    ],
+    "points": [
+      {
+        "id": 88,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 89,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.5,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 10,
+      "5": 7
+    },
+    "sentiment": {
+      "positivePct": 72,
+      "neutralPct": 17,
+      "negativePct": 11
+    },
+    "uptimePct": 97.9
+  },
+  {
+    "summary": {
+      "id": 27,
+      "name": "EcoJuice Panvel Maple Heights",
+      "address": "119, Maple Heights, Panvel, Navi Mumbai",
+      "zone": "Panvel",
+      "city": "Navi Mumbai",
+      "latitude": 18.988616,
+      "longitude": 73.118349,
+      "tier": "STANDARD",
+      "operatorId": 8,
+      "operatorName": "EcoJuice",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 13.5,
+      "avgRating": 2.75,
+      "reviewCount": 12,
+      "reliabilityScore": 61.9,
+      "sentimentLabel": "NEUTRAL",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 90,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 91,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 2,
+      "2": 4,
+      "3": 1,
+      "4": 5,
+      "5": 0
+    },
+    "sentiment": {
+      "positivePct": 50,
+      "neutralPct": 17,
+      "negativePct": 33
+    },
+    "uptimePct": 88.1
+  },
+  {
+    "summary": {
+      "id": 28,
+      "name": "ChargeNest Panvel Harbour View Complex",
+      "address": "20, Harbour View Complex, Panvel, Navi Mumbai",
+      "zone": "Panvel",
+      "city": "Navi Mumbai",
+      "latitude": 18.986414,
+      "longitude": 73.116494,
+      "tier": "STANDARD",
+      "operatorId": 2,
+      "operatorName": "ChargeNest",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        },
+        {
+          "code": "BHARAT_DC",
+          "count": 1,
+          "maxKw": 15.0
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 3,
+      "minTariff": 13.0,
+      "avgRating": 3.94,
+      "reviewCount": 18,
+      "reliabilityScore": 77.1,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 3,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 92,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 93,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 94,
+        "label": "DC-2",
+        "connectorCode": "BHARAT_DC",
+        "connectorName": "Bharat DC-001",
+        "currentType": "DC",
+        "powerKw": 15.0,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 1,
+      "3": 4,
+      "4": 8,
+      "5": 5
+    },
+    "sentiment": {
+      "positivePct": 67,
+      "neutralPct": 17,
+      "negativePct": 17
+    },
+    "uptimePct": 97.8
+  },
+  {
+    "summary": {
+      "id": 29,
+      "name": "GreenPlug Kalyan Lotus Corporate Park",
+      "address": "141, Lotus Corporate Park, Kalyan, Kalyan-Dombivli",
+      "zone": "Kalyan",
+      "city": "Kalyan-Dombivli",
+      "latitude": 19.24141,
+      "longitude": 73.127984,
+      "tier": "STANDARD",
+      "operatorId": 4,
+      "operatorName": "GreenPlug",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        },
+        {
+          "code": "BHARAT_DC",
+          "count": 1,
+          "maxKw": 15.0
+        }
+      ],
+      "totalPoints": 3,
+      "activePoints": 2,
+      "minTariff": 13.0,
+      "avgRating": 3.71,
+      "reviewCount": 7,
+      "reliabilityScore": 72.8,
+      "sentimentLabel": "NEUTRAL",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      }
+    ],
+    "points": [
+      {
+        "id": 95,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 96,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "OFFLINE"
+      },
+      {
+        "id": 97,
+        "label": "DC-2",
+        "connectorCode": "BHARAT_DC",
+        "connectorName": "Bharat DC-001",
+        "currentType": "DC",
+        "powerKw": 15.0,
+        "tariffPerKwh": 13.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 3,
+      "5": 1
+    },
+    "sentiment": {
+      "positivePct": 43,
+      "neutralPct": 43,
+      "negativePct": 14
+    },
+    "uptimePct": 98.1
+  },
+  {
+    "summary": {
+      "id": 30,
+      "name": "ZapStation Kalyan Silver Oak Society",
+      "address": "109, Silver Oak Society, Kalyan, Kalyan-Dombivli",
+      "zone": "Kalyan",
+      "city": "Kalyan-Dombivli",
+      "latitude": 19.247634,
+      "longitude": 73.13517,
+      "tier": "STANDARD",
+      "operatorId": 6,
+      "operatorName": "ZapStation",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 30.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 12.0,
+      "avgRating": 3.22,
+      "reviewCount": 9,
+      "reliabilityScore": 64.5,
+      "sentimentLabel": "NEUTRAL",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      },
+      {
+        "id": 4,
+        "name": "Covered Parking",
+        "icon": "car"
+      },
+      {
+        "id": 7,
+        "name": "24x7 Security",
+        "icon": "shield-check"
+      }
+    ],
+    "points": [
+      {
+        "id": 98,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 99,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 30.0,
+        "tariffPerKwh": 16.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 0
+    },
+    "sentiment": {
+      "positivePct": 22,
+      "neutralPct": 33,
+      "negativePct": 44
+    },
+    "uptimePct": 89.6
+  },
+  {
+    "summary": {
+      "id": 31,
+      "name": "UrjaCharge Dombivli Railway Station Parking",
+      "address": "82, Railway Station Parking, Dombivli, Kalyan-Dombivli",
+      "zone": "Dombivli",
+      "city": "Kalyan-Dombivli",
+      "latitude": 19.214461,
+      "longitude": 73.093229,
+      "tier": "STANDARD",
+      "operatorId": 5,
+      "operatorName": "UrjaCharge",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 60.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 1,
+      "minTariff": 13.5,
+      "avgRating": 2.4,
+      "reviewCount": 15,
+      "reliabilityScore": 53.8,
+      "sentimentLabel": "NEGATIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 1,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 3,
+        "name": "Wi-Fi",
+        "icon": "wifi"
+      }
+    ],
+    "points": [
+      {
+        "id": 100,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 13.5,
+        "status": "MAINTENANCE"
+      },
+      {
+        "id": 101,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 4,
+      "2": 2,
+      "3": 8,
+      "4": 1,
+      "5": 0
+    },
+    "sentiment": {
+      "positivePct": 0,
+      "neutralPct": 47,
+      "negativePct": 53
+    },
+    "uptimePct": 84.7
+  },
+  {
+    "summary": {
+      "id": 32,
+      "name": "GreenPlug Dombivli Greenfield Residency",
+      "address": "86, Greenfield Residency, Dombivli, Kalyan-Dombivli",
+      "zone": "Dombivli",
+      "city": "Kalyan-Dombivli",
+      "latitude": 19.217442,
+      "longitude": 73.089521,
+      "tier": "STANDARD",
+      "operatorId": 4,
+      "operatorName": "GreenPlug",
+      "distanceKm": null,
+      "connectors": [
+        {
+          "code": "TYPE2",
+          "count": 1,
+          "maxKw": 7.4
+        },
+        {
+          "code": "CCS2",
+          "count": 1,
+          "maxKw": 60.0
+        }
+      ],
+      "totalPoints": 2,
+      "activePoints": 2,
+      "minTariff": 12.0,
+      "avgRating": 4.22,
+      "reviewCount": 23,
+      "reliabilityScore": 81.4,
+      "sentimentLabel": "POSITIVE",
+      "openNow": true,
+      "openHour": 0,
+      "closeHour": 24,
+      "freeNowPoints": 2,
+      "crowdingIndexNow": 0.0,
+      "crowdingLevelNow": "LOW"
+    },
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Cafe",
+        "icon": "coffee"
+      },
+      {
+        "id": 2,
+        "name": "Restroom",
+        "icon": "bath"
+      },
+      {
+        "id": 8,
+        "name": "Snacks",
+        "icon": "utensils"
+      }
+    ],
+    "points": [
+      {
+        "id": 102,
+        "label": "AC-1",
+        "connectorCode": "TYPE2",
+        "connectorName": "Type 2",
+        "currentType": "AC",
+        "powerKw": 7.4,
+        "tariffPerKwh": 12.0,
+        "status": "ACTIVE"
+      },
+      {
+        "id": 103,
+        "label": "DC-1",
+        "connectorCode": "CCS2",
+        "connectorName": "CCS Combo 2",
+        "currentType": "DC",
+        "powerKw": 60.0,
+        "tariffPerKwh": 18.0,
+        "status": "ACTIVE"
+      }
+    ],
+    "ratingBreakdown": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 12,
+      "5": 8
+    },
+    "sentiment": {
+      "positivePct": 87,
+      "neutralPct": 9,
+      "negativePct": 4
+    },
+    "uptimePct": 96.8
+  }
+]

@@ -1,0 +1,33 @@
+station_id,cluster_id,cluster_label,avg_daily_sessions,peak_crowding,revenue_12m,recommendation
+1,2,High-demand hub,2.967,100.0,371605.97,"Add 2 DC fast points - peak crowding 100 %, 3.0 sessions/day on 6 points"
+2,2,High-demand hub,2.57,99.8,307755.63,"Add 2 DC fast points - peak crowding 100 %, 2.6 sessions/day on 6 points"
+3,2,High-demand hub,2.814,99.3,234368.09,"Add 2 DC fast points - peak crowding 99 %, 2.8 sessions/day on 6 points"
+4,0,Emerging,0.937,97.0,120306.38,Demand up 57% vs previous quarter - add 1 DC point and promote with off-peak pricing
+5,2,High-demand hub,2.014,99.9,157345.37,"Add 2 DC fast points - peak crowding 100 %, 2.0 sessions/day on 5 points"
+6,2,High-demand hub,2.052,98.8,249644.37,"Add 2 DC fast points - peak crowding 99 %, 2.1 sessions/day on 5 points"
+7,2,High-demand hub,1.608,97.0,150539.82,"Add 2 DC fast points - peak crowding 97 %, 1.6 sessions/day on 6 points"
+8,2,High-demand hub,1.649,100.0,134997.61,"Add 2 DC fast points - peak crowding 100 %, 1.6 sessions/day on 4 points"
+9,1,Under-utilised,0.071,77.1,8086.89,Under-utilised (0.07 sessions/day) - run a first-charge discount and add amenities or signage
+10,1,Under-utilised,0.121,78.5,10860.49,Under-utilised (0.12 sessions/day) - run a first-charge discount and add amenities or signage
+11,0,Emerging,0.227,85.4,20040.28,Demand up 71% vs previous quarter - add 1 DC point and promote with off-peak pricing
+12,1,Under-utilised,0.181,65.1,18748.84,Under-utilised (0.18 sessions/day) - run a first-charge discount and add amenities or signage
+13,0,Emerging,0.164,85.6,17299.24,Demand up 83% vs previous quarter - add 1 DC point and promote with off-peak pricing
+14,1,Under-utilised,0.268,75.1,24149.78,Under-utilised (0.27 sessions/day) - run a first-charge discount and add amenities or signage
+15,1,Under-utilised,0.197,81.4,19644.65,Under-utilised (0.20 sessions/day) - run a first-charge discount and add amenities or signage
+16,3,Steady performer,0.334,94.7,38345.86,Maintain service levels - peak crowding 95 %; consider time-of-day pricing to flatten the evening peak
+17,1,Under-utilised,0.192,75.7,18175.92,Under-utilised (0.19 sessions/day) - run a first-charge discount and add amenities or signage
+18,3,Steady performer,0.351,96.3,40159.45,Maintain service levels - peak crowding 96 %; consider time-of-day pricing to flatten the evening peak
+19,1,Under-utilised,0.203,84.7,20639.23,Under-utilised (0.20 sessions/day) - run a first-charge discount and add amenities or signage
+20,0,Emerging,0.184,96.2,20882.98,Fix reliability first - uptime 89% and low reviews (score 54); schedule connector maintenance
+21,1,Under-utilised,0.093,81.8,11659.62,Under-utilised (0.09 sessions/day) - run a first-charge discount and add amenities or signage
+22,3,Steady performer,0.282,92.4,30781.57,Maintain service levels - peak crowding 92 %; consider time-of-day pricing to flatten the evening peak
+23,3,Steady performer,0.112,92.2,14658.23,Maintain service levels - peak crowding 92 %; consider time-of-day pricing to flatten the evening peak
+24,0,Emerging,0.362,99.3,38533.53,Demand up 72% vs previous quarter - add 1 DC point and promote with off-peak pricing
+25,0,Emerging,0.112,90.8,13809.74,Demand up 133% vs previous quarter - add 1 DC point and promote with off-peak pricing
+26,3,Steady performer,0.323,94.8,38374.86,Maintain service levels - peak crowding 95 %; consider time-of-day pricing to flatten the evening peak
+27,1,Under-utilised,0.121,76.2,14577.94,Fix reliability first - uptime 88% and low reviews (score 62); schedule connector maintenance
+28,1,Under-utilised,0.178,80.0,15277.94,Under-utilised (0.18 sessions/day) - run a first-charge discount and add amenities or signage
+29,1,Under-utilised,0.211,76.2,19548.13,Under-utilised (0.21 sessions/day) - run a first-charge discount and add amenities or signage
+30,1,Under-utilised,0.066,79.2,7521.44,Fix reliability first - uptime 90% and low reviews (score 64); schedule connector maintenance
+31,1,Under-utilised,0.107,79.8,12691.54,Fix reliability first - uptime 85% and low reviews (score 54); schedule connector maintenance
+32,3,Steady performer,0.268,96.6,33797.95,Maintain service levels - peak crowding 97 %; consider time-of-day pricing to flatten the evening peak

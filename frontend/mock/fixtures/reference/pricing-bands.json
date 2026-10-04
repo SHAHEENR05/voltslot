@@ -1,0 +1,122 @@
+[
+  {
+    "hourOfDay": 0,
+    "bandName": "OFFPEAK",
+    "multiplier": 0.85
+  },
+  {
+    "hourOfDay": 1,
+    "bandName": "OFFPEAK",
+    "multiplier": 0.85
+  },
+  {
+    "hourOfDay": 2,
+    "bandName": "OFFPEAK",
+    "multiplier": 0.85
+  },
+  {
+    "hourOfDay": 3,
+    "bandName": "OFFPEAK",
+    "multiplier": 0.85
+  },
+  {
+    "hourOfDay": 4,
+    "bandName": "OFFPEAK",
+    "multiplier": 0.85
+  },
+  {
+    "hourOfDay": 5,
+    "bandName": "OFFPEAK",
+    "multiplier": 0.85
+  },
+  {
+    "hourOfDay": 6,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 7,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 8,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 9,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 10,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 11,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 12,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 13,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 14,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 15,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 16,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 17,
+    "bandName": "NORMAL",
+    "multiplier": 1.0
+  },
+  {
+    "hourOfDay": 18,
+    "bandName": "PEAK",
+    "multiplier": 1.2
+  },
+  {
+    "hourOfDay": 19,
+    "bandName": "PEAK",
+    "multiplier": 1.2
+  },
+  {
+    "hourOfDay": 20,
+    "bandName": "PEAK",
+    "multiplier": 1.2
+  },
+  {
+    "hourOfDay": 21,
+    "bandName": "PEAK",
+    "multiplier": 1.2
+  },
+  {
+    "hourOfDay": 22,
+    "bandName": "OFFPEAK",
+    "multiplier": 0.85
+  },
+  {
+    "hourOfDay": 23,
+    "bandName": "OFFPEAK",
+    "multiplier": 0.85
+  }
+]

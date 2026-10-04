@@ -1,0 +1,23 @@
+[
+  {
+    "label": "WALLET",
+    "sessions": 1021,
+    "sharePct": 45.8,
+    "energyKwh": 19183.3,
+    "revenue": 297006.16
+  },
+  {
+    "label": "UPI",
+    "sessions": 889,
+    "sharePct": 39.8,
+    "energyKwh": 16633.2,
+    "revenue": 260605.97
+  },
+  {
+    "label": "CARD",
+    "sessions": 321,
+    "sharePct": 14.4,
+    "energyKwh": 5831.2,
+    "revenue": 91269.42
+  }
+]

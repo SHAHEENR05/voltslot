@@ -1,0 +1,6 @@
+table,rows_clean,rows_cleaned,rows_matched_pct,cells,cells_match,cell_match_pct,worst_columns
+bookings,9283,9283,100.0,139245,139186,99.958,"{'source': np.float64(99.47), 'est_energy_kwh': np.float64(99.91), 'end_time': np.float64(99.99)}"
+charging_sessions,7789,7789,100.0,77890,77748,99.818,"{'ended_at': np.float64(98.25), 'amount': np.float64(99.92), 'id': np.float64(100.0)}"
+users,656,656,100.0,5904,5891,99.78,"{'phone': np.float64(98.17), 'full_name': np.float64(99.85), 'email': np.float64(100.0)}"
+stations,32,32,100.0,320,320,100.0,"{'name': np.float64(100.0), 'zone': np.float64(100.0), 'city': np.float64(100.0)}"
+reviews,1718,1718,100.0,10308,10296,99.884,"{'rating': np.float64(99.3), 'station_id': np.float64(100.0), 'user_id': np.float64(100.0)}"

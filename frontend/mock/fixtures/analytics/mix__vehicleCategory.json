@@ -1,0 +1,30 @@
+[
+  {
+    "label": "CAR",
+    "sessions": 1551,
+    "sharePct": 69.5,
+    "energyKwh": 37210.1,
+    "revenue": 588416.78
+  },
+  {
+    "label": "TWO_WHEELER",
+    "sessions": 334,
+    "sharePct": 15.0,
+    "energyKwh": 823.3,
+    "revenue": 8231.2
+  },
+  {
+    "label": "LCV",
+    "sessions": 188,
+    "sharePct": 8.4,
+    "energyKwh": 2735.1,
+    "revenue": 43497.09
+  },
+  {
+    "label": "THREE_WHEELER",
+    "sessions": 158,
+    "sharePct": 7.1,
+    "energyKwh": 879.2,
+    "revenue": 8736.48
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Cafe",
+    "icon": "coffee"
+  },
+  {
+    "id": 2,
+    "name": "Restroom",
+    "icon": "bath"
+  },
+  {
+    "id": 3,
+    "name": "Wi-Fi",
+    "icon": "wifi"
+  },
+  {
+    "id": 4,
+    "name": "Covered Parking",
+    "icon": "car"
+  },
+  {
+    "id": 5,
+    "name": "Mall",
+    "icon": "shopping-bag"
+  },
+  {
+    "id": 6,
+    "name": "Lounge",
+    "icon": "sofa"
+  },
+  {
+    "id": 7,
+    "name": "24x7 Security",
+    "icon": "shield-check"
+  },
+  {
+    "id": 8,
+    "name": "Snacks",
+    "icon": "utensils"
+  },
+  {
+    "id": 9,
+    "name": "EV Mechanic",
+    "icon": "wrench"
+  }
+]

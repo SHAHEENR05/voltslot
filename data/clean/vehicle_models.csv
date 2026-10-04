@@ -1,0 +1,14 @@
+id,make,model,variant,category,battery_kwh,ac_max_kw,dc_max_kw,range_km,km_per_kwh
+1,Tata,Nexon EV,Long Range,CAR,40.5,7.2,50.0,330,7.0
+2,Tata,Tiago EV,Long Range,CAR,24.0,7.2,25.0,230,8.0
+3,Tata,Punch EV,Empowered LR,CAR,35.0,7.2,50.0,300,7.5
+4,MG,ZS EV,Exclusive,CAR,50.3,7.4,76.0,350,6.2
+5,MG,Comet EV,Plush,CAR,17.3,3.3,0.0,180,10.0
+6,Mahindra,XUV400 EL,EL Pro,CAR,39.4,7.2,50.0,320,7.5
+7,Hyundai,Kona Electric,Premium,CAR,39.2,7.2,50.0,300,7.0
+8,BYD,Atto 3,Superior,CAR,60.5,7.0,88.0,420,6.0
+9,Ather,450X,Gen 3,TWO_WHEELER,3.7,0.0,3.0,105,28.0
+10,Ola,S1 Pro,Gen 2,TWO_WHEELER,4.0,0.0,3.0,120,28.0
+11,TVS,iQube ST,ST,TWO_WHEELER,3.4,0.0,3.0,100,28.0
+12,Tata,Ace EV,Cargo,LCV,21.3,3.3,25.0,150,5.0
+13,Mahindra,Treo,Auto,THREE_WHEELER,7.4,0.0,7.5,120,14.0

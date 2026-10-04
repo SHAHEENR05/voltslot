@@ -1,0 +1,773 @@
+{
+  "granularity": "DAY",
+  "forecastMethod": "HOLT_WINTERS_ADDITIVE",
+  "series": [
+    {
+      "period": "2026-07-06",
+      "sessions": 25,
+      "energyKwh": 450.7,
+      "revenue": 7551.94,
+      "avgTariff": 16.76
+    },
+    {
+      "period": "2026-07-07",
+      "sessions": 22,
+      "energyKwh": 394.0,
+      "revenue": 6239.4,
+      "avgTariff": 15.84
+    },
+    {
+      "period": "2026-07-08",
+      "sessions": 25,
+      "energyKwh": 446.8,
+      "revenue": 7006.61,
+      "avgTariff": 15.68
+    },
+    {
+      "period": "2026-07-09",
+      "sessions": 26,
+      "energyKwh": 418.3,
+      "revenue": 7046.16,
+      "avgTariff": 16.84
+    },
+    {
+      "period": "2026-07-10",
+      "sessions": 21,
+      "energyKwh": 429.7,
+      "revenue": 6893.88,
+      "avgTariff": 16.04
+    },
+    {
+      "period": "2026-07-11",
+      "sessions": 21,
+      "energyKwh": 398.7,
+      "revenue": 6193.43,
+      "avgTariff": 15.54
+    },
+    {
+      "period": "2026-07-12",
+      "sessions": 16,
+      "energyKwh": 371.1,
+      "revenue": 5211.43,
+      "avgTariff": 14.04
+    },
+    {
+      "period": "2026-07-13",
+      "sessions": 22,
+      "energyKwh": 303.8,
+      "revenue": 5165.52,
+      "avgTariff": 17.0
+    },
+    {
+      "period": "2026-07-14",
+      "sessions": 26,
+      "energyKwh": 527.4,
+      "revenue": 8025.23,
+      "avgTariff": 15.22
+    },
+    {
+      "period": "2026-07-15",
+      "sessions": 26,
+      "energyKwh": 476.6,
+      "revenue": 6924.86,
+      "avgTariff": 14.53
+    },
+    {
+      "period": "2026-07-16",
+      "sessions": 15,
+      "energyKwh": 212.9,
+      "revenue": 3067.55,
+      "avgTariff": 14.41
+    },
+    {
+      "period": "2026-07-17",
+      "sessions": 11,
+      "energyKwh": 166.6,
+      "revenue": 3058.57,
+      "avgTariff": 18.36
+    },
+    {
+      "period": "2026-07-18",
+      "sessions": 27,
+      "energyKwh": 548.2,
+      "revenue": 8705.59,
+      "avgTariff": 15.88
+    },
+    {
+      "period": "2026-07-19",
+      "sessions": 21,
+      "energyKwh": 379.3,
+      "revenue": 6174.54,
+      "avgTariff": 16.28
+    },
+    {
+      "period": "2026-07-20",
+      "sessions": 36,
+      "energyKwh": 770.6,
+      "revenue": 11970.83,
+      "avgTariff": 15.53
+    },
+    {
+      "period": "2026-07-21",
+      "sessions": 28,
+      "energyKwh": 454.9,
+      "revenue": 6673.24,
+      "avgTariff": 14.67
+    },
+    {
+      "period": "2026-07-22",
+      "sessions": 19,
+      "energyKwh": 337.6,
+      "revenue": 5575.32,
+      "avgTariff": 16.51
+    },
+    {
+      "period": "2026-07-23",
+      "sessions": 21,
+      "energyKwh": 375.2,
+      "revenue": 5716.78,
+      "avgTariff": 15.24
+    },
+    {
+      "period": "2026-07-24",
+      "sessions": 32,
+      "energyKwh": 679.7,
+      "revenue": 11017.55,
+      "avgTariff": 16.21
+    },
+    {
+      "period": "2026-07-25",
+      "sessions": 36,
+      "energyKwh": 717.0,
+      "revenue": 10397.09,
+      "avgTariff": 14.5
+    },
+    {
+      "period": "2026-07-26",
+      "sessions": 14,
+      "energyKwh": 323.3,
+      "revenue": 4598.46,
+      "avgTariff": 14.22
+    },
+    {
+      "period": "2026-07-27",
+      "sessions": 23,
+      "energyKwh": 458.4,
+      "revenue": 7305.59,
+      "avgTariff": 15.94
+    },
+    {
+      "period": "2026-07-28",
+      "sessions": 12,
+      "energyKwh": 244.5,
+      "revenue": 3730.75,
+      "avgTariff": 15.26
+    },
+    {
+      "period": "2026-07-29",
+      "sessions": 33,
+      "energyKwh": 565.7,
+      "revenue": 8905.43,
+      "avgTariff": 15.74
+    },
+    {
+      "period": "2026-07-30",
+      "sessions": 26,
+      "energyKwh": 513.0,
+      "revenue": 7775.81,
+      "avgTariff": 15.16
+    },
+    {
+      "period": "2026-07-31",
+      "sessions": 15,
+      "energyKwh": 269.4,
+      "revenue": 4453.43,
+      "avgTariff": 16.53
+    },
+    {
+      "period": "2026-08-01",
+      "sessions": 29,
+      "energyKwh": 520.1,
+      "revenue": 7242.93,
+      "avgTariff": 13.93
+    },
+    {
+      "period": "2026-08-02",
+      "sessions": 20,
+      "energyKwh": 331.3,
+      "revenue": 4641.8,
+      "avgTariff": 14.01
+    },
+    {
+      "period": "2026-08-03",
+      "sessions": 26,
+      "energyKwh": 454.5,
+      "revenue": 7046.17,
+      "avgTariff": 15.5
+    },
+    {
+      "period": "2026-08-04",
+      "sessions": 17,
+      "energyKwh": 292.6,
+      "revenue": 4543.74,
+      "avgTariff": 15.53
+    },
+    {
+      "period": "2026-08-05",
+      "sessions": 39,
+      "energyKwh": 760.7,
+      "revenue": 11850.89,
+      "avgTariff": 15.58
+    },
+    {
+      "period": "2026-08-06",
+      "sessions": 19,
+      "energyKwh": 360.4,
+      "revenue": 5015.68,
+      "avgTariff": 13.92
+    },
+    {
+      "period": "2026-08-07",
+      "sessions": 15,
+      "energyKwh": 339.0,
+      "revenue": 5618.74,
+      "avgTariff": 16.57
+    },
+    {
+      "period": "2026-08-08",
+      "sessions": 9,
+      "energyKwh": 194.5,
+      "revenue": 2596.92,
+      "avgTariff": 13.35
+    },
+    {
+      "period": "2026-08-09",
+      "sessions": 28,
+      "energyKwh": 466.5,
+      "revenue": 7165.92,
+      "avgTariff": 15.36
+    },
+    {
+      "period": "2026-08-10",
+      "sessions": 29,
+      "energyKwh": 486.1,
+      "revenue": 8320.77,
+      "avgTariff": 17.12
+    },
+    {
+      "period": "2026-08-11",
+      "sessions": 28,
+      "energyKwh": 529.4,
+      "revenue": 7925.25,
+      "avgTariff": 14.97
+    },
+    {
+      "period": "2026-08-12",
+      "sessions": 28,
+      "energyKwh": 610.0,
+      "revenue": 9601.33,
+      "avgTariff": 15.74
+    },
+    {
+      "period": "2026-08-13",
+      "sessions": 47,
+      "energyKwh": 867.1,
+      "revenue": 14301.51,
+      "avgTariff": 16.49
+    },
+    {
+      "period": "2026-08-14",
+      "sessions": 18,
+      "energyKwh": 338.6,
+      "revenue": 5000.05,
+      "avgTariff": 14.77
+    },
+    {
+      "period": "2026-08-15",
+      "sessions": 22,
+      "energyKwh": 400.7,
+      "revenue": 6230.98,
+      "avgTariff": 15.55
+    },
+    {
+      "period": "2026-08-16",
+      "sessions": 19,
+      "energyKwh": 466.8,
+      "revenue": 6596.12,
+      "avgTariff": 14.13
+    },
+    {
+      "period": "2026-08-17",
+      "sessions": 19,
+      "energyKwh": 287.3,
+      "revenue": 4982.73,
+      "avgTariff": 17.35
+    },
+    {
+      "period": "2026-08-18",
+      "sessions": 31,
+      "energyKwh": 629.2,
+      "revenue": 9735.52,
+      "avgTariff": 15.47
+    },
+    {
+      "period": "2026-08-19",
+      "sessions": 16,
+      "energyKwh": 280.1,
+      "revenue": 4426.27,
+      "avgTariff": 15.8
+    },
+    {
+      "period": "2026-08-20",
+      "sessions": 23,
+      "energyKwh": 462.9,
+      "revenue": 7287.21,
+      "avgTariff": 15.74
+    },
+    {
+      "period": "2026-08-21",
+      "sessions": 27,
+      "energyKwh": 395.4,
+      "revenue": 6362.18,
+      "avgTariff": 16.09
+    },
+    {
+      "period": "2026-08-22",
+      "sessions": 29,
+      "energyKwh": 614.0,
+      "revenue": 9022.2,
+      "avgTariff": 14.69
+    },
+    {
+      "period": "2026-08-23",
+      "sessions": 23,
+      "energyKwh": 528.7,
+      "revenue": 7632.44,
+      "avgTariff": 14.44
+    },
+    {
+      "period": "2026-08-24",
+      "sessions": 21,
+      "energyKwh": 354.3,
+      "revenue": 5893.37,
+      "avgTariff": 16.64
+    },
+    {
+      "period": "2026-08-25",
+      "sessions": 26,
+      "energyKwh": 432.7,
+      "revenue": 6576.47,
+      "avgTariff": 15.2
+    },
+    {
+      "period": "2026-08-26",
+      "sessions": 21,
+      "energyKwh": 330.3,
+      "revenue": 4467.13,
+      "avgTariff": 13.52
+    },
+    {
+      "period": "2026-08-27",
+      "sessions": 33,
+      "energyKwh": 640.2,
+      "revenue": 10394.48,
+      "avgTariff": 16.24
+    },
+    {
+      "period": "2026-08-28",
+      "sessions": 45,
+      "energyKwh": 849.5,
+      "revenue": 14343.65,
+      "avgTariff": 16.89
+    },
+    {
+      "period": "2026-08-29",
+      "sessions": 12,
+      "energyKwh": 238.1,
+      "revenue": 3481.14,
+      "avgTariff": 14.62
+    },
+    {
+      "period": "2026-08-30",
+      "sessions": 17,
+      "energyKwh": 324.3,
+      "revenue": 4745.36,
+      "avgTariff": 14.63
+    },
+    {
+      "period": "2026-08-31",
+      "sessions": 24,
+      "energyKwh": 516.8,
+      "revenue": 7841.9,
+      "avgTariff": 15.18
+    },
+    {
+      "period": "2026-09-01",
+      "sessions": 18,
+      "energyKwh": 253.9,
+      "revenue": 4136.07,
+      "avgTariff": 16.29
+    },
+    {
+      "period": "2026-09-02",
+      "sessions": 39,
+      "energyKwh": 819.4,
+      "revenue": 13483.05,
+      "avgTariff": 16.46
+    },
+    {
+      "period": "2026-09-03",
+      "sessions": 49,
+      "energyKwh": 930.7,
+      "revenue": 15342.78,
+      "avgTariff": 16.48
+    },
+    {
+      "period": "2026-09-04",
+      "sessions": 23,
+      "energyKwh": 342.2,
+      "revenue": 4512.59,
+      "avgTariff": 13.19
+    },
+    {
+      "period": "2026-09-05",
+      "sessions": 31,
+      "energyKwh": 619.3,
+      "revenue": 9539.19,
+      "avgTariff": 15.4
+    },
+    {
+      "period": "2026-09-06",
+      "sessions": 26,
+      "energyKwh": 524.9,
+      "revenue": 7748.28,
+      "avgTariff": 14.76
+    },
+    {
+      "period": "2026-09-07",
+      "sessions": 34,
+      "energyKwh": 591.3,
+      "revenue": 9702.74,
+      "avgTariff": 16.41
+    },
+    {
+      "period": "2026-09-08",
+      "sessions": 17,
+      "energyKwh": 282.6,
+      "revenue": 4382.02,
+      "avgTariff": 15.5
+    },
+    {
+      "period": "2026-09-09",
+      "sessions": 20,
+      "energyKwh": 341.6,
+      "revenue": 4809.72,
+      "avgTariff": 14.08
+    },
+    {
+      "period": "2026-09-10",
+      "sessions": 12,
+      "energyKwh": 196.9,
+      "revenue": 3714.32,
+      "avgTariff": 18.86
+    },
+    {
+      "period": "2026-09-11",
+      "sessions": 20,
+      "energyKwh": 352.0,
+      "revenue": 5422.92,
+      "avgTariff": 15.41
+    },
+    {
+      "period": "2026-09-12",
+      "sessions": 34,
+      "energyKwh": 688.8,
+      "revenue": 9927.61,
+      "avgTariff": 14.41
+    },
+    {
+      "period": "2026-09-13",
+      "sessions": 34,
+      "energyKwh": 723.8,
+      "revenue": 11147.98,
+      "avgTariff": 15.4
+    },
+    {
+      "period": "2026-09-14",
+      "sessions": 21,
+      "energyKwh": 322.0,
+      "revenue": 5318.49,
+      "avgTariff": 16.52
+    },
+    {
+      "period": "2026-09-15",
+      "sessions": 17,
+      "energyKwh": 317.0,
+      "revenue": 5341.25,
+      "avgTariff": 16.85
+    },
+    {
+      "period": "2026-09-16",
+      "sessions": 41,
+      "energyKwh": 789.6,
+      "revenue": 11846.85,
+      "avgTariff": 15.0
+    },
+    {
+      "period": "2026-09-17",
+      "sessions": 27,
+      "energyKwh": 488.4,
+      "revenue": 8344.2,
+      "avgTariff": 17.09
+    },
+    {
+      "period": "2026-09-18",
+      "sessions": 22,
+      "energyKwh": 421.2,
+      "revenue": 7044.4,
+      "avgTariff": 16.73
+    },
+    {
+      "period": "2026-09-19",
+      "sessions": 18,
+      "energyKwh": 227.6,
+      "revenue": 3910.02,
+      "avgTariff": 17.18
+    },
+    {
+      "period": "2026-09-20",
+      "sessions": 23,
+      "energyKwh": 565.8,
+      "revenue": 7921.68,
+      "avgTariff": 14.0
+    },
+    {
+      "period": "2026-09-21",
+      "sessions": 18,
+      "energyKwh": 380.8,
+      "revenue": 6256.89,
+      "avgTariff": 16.43
+    },
+    {
+      "period": "2026-09-22",
+      "sessions": 26,
+      "energyKwh": 469.9,
+      "revenue": 7004.18,
+      "avgTariff": 14.9
+    },
+    {
+      "period": "2026-09-23",
+      "sessions": 22,
+      "energyKwh": 364.0,
+      "revenue": 5243.96,
+      "avgTariff": 14.41
+    },
+    {
+      "period": "2026-09-24",
+      "sessions": 34,
+      "energyKwh": 726.4,
+      "revenue": 12099.71,
+      "avgTariff": 16.66
+    },
+    {
+      "period": "2026-09-25",
+      "sessions": 25,
+      "energyKwh": 391.3,
+      "revenue": 5808.35,
+      "avgTariff": 14.84
+    },
+    {
+      "period": "2026-09-26",
+      "sessions": 30,
+      "energyKwh": 555.4,
+      "revenue": 8806.09,
+      "avgTariff": 15.86
+    },
+    {
+      "period": "2026-09-27",
+      "sessions": 32,
+      "energyKwh": 671.7,
+      "revenue": 10510.71,
+      "avgTariff": 15.65
+    },
+    {
+      "period": "2026-09-28",
+      "sessions": 28,
+      "energyKwh": 395.7,
+      "revenue": 6063.32,
+      "avgTariff": 15.32
+    },
+    {
+      "period": "2026-09-29",
+      "sessions": 31,
+      "energyKwh": 546.9,
+      "revenue": 8389.67,
+      "avgTariff": 15.34
+    },
+    {
+      "period": "2026-09-30",
+      "sessions": 22,
+      "energyKwh": 452.9,
+      "revenue": 7338.41,
+      "avgTariff": 16.2
+    },
+    {
+      "period": "2026-10-01",
+      "sessions": 41,
+      "energyKwh": 684.3,
+      "revenue": 10625.43,
+      "avgTariff": 15.53
+    },
+    {
+      "period": "2026-10-02",
+      "sessions": 33,
+      "energyKwh": 624.2,
+      "revenue": 10012.12,
+      "avgTariff": 16.04
+    },
+    {
+      "period": "2026-10-03",
+      "sessions": 4,
+      "energyKwh": 49.6,
+      "revenue": 850.71,
+      "avgTariff": 17.17
+    }
+  ],
+  "forecast": [
+    {
+      "date": "2026-10-03",
+      "predicted": 29.3,
+      "lower": 11.6,
+      "upper": 47.0
+    },
+    {
+      "date": "2026-10-04",
+      "predicted": 27.9,
+      "lower": 9.7,
+      "upper": 46.0
+    },
+    {
+      "date": "2026-10-05",
+      "predicted": 29.7,
+      "lower": 11.2,
+      "upper": 48.3
+    },
+    {
+      "date": "2026-10-06",
+      "predicted": 29.2,
+      "lower": 10.2,
+      "upper": 48.2
+    },
+    {
+      "date": "2026-10-07",
+      "predicted": 31.0,
+      "lower": 11.6,
+      "upper": 50.4
+    },
+    {
+      "date": "2026-10-08",
+      "predicted": 35.4,
+      "lower": 15.6,
+      "upper": 55.2
+    },
+    {
+      "date": "2026-10-09",
+      "predicted": 29.3,
+      "lower": 9.2,
+      "upper": 49.5
+    },
+    {
+      "date": "2026-10-10",
+      "predicted": 30.3,
+      "lower": 9.7,
+      "upper": 50.9
+    },
+    {
+      "date": "2026-10-11",
+      "predicted": 28.9,
+      "lower": 7.9,
+      "upper": 49.8
+    },
+    {
+      "date": "2026-10-12",
+      "predicted": 30.7,
+      "lower": 9.4,
+      "upper": 52.0
+    },
+    {
+      "date": "2026-10-13",
+      "predicted": 30.2,
+      "lower": 8.5,
+      "upper": 51.9
+    },
+    {
+      "date": "2026-10-14",
+      "predicted": 32.0,
+      "lower": 9.9,
+      "upper": 54.0
+    },
+    {
+      "date": "2026-10-15",
+      "predicted": 36.4,
+      "lower": 14.0,
+      "upper": 58.8
+    },
+    {
+      "date": "2026-10-16",
+      "predicted": 30.3,
+      "lower": 7.6,
+      "upper": 53.1
+    }
+  ],
+  "anomalies": [
+    {
+      "date": "2026-07-17",
+      "value": 11.0,
+      "expected": 23.1,
+      "zScore": -2.25,
+      "reason": "Dip: heavy rain (91 mm)"
+    },
+    {
+      "date": "2026-07-20",
+      "value": 36.0,
+      "expected": 22.9,
+      "zScore": 2.22,
+      "reason": "Spike: rain (4 mm)"
+    },
+    {
+      "date": "2026-07-25",
+      "value": 36.0,
+      "expected": 22.9,
+      "zScore": 2.26,
+      "reason": "Spike: heavy rain (44 mm)"
+    },
+    {
+      "date": "2026-08-05",
+      "value": 39.0,
+      "expected": 23.0,
+      "zScore": 2.36,
+      "reason": "Spike: rain (15 mm)"
+    },
+    {
+      "date": "2026-08-13",
+      "value": 47.0,
+      "expected": 23.4,
+      "zScore": 2.89,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2026-08-28",
+      "value": 45.0,
+      "expected": 24.2,
+      "zScore": 2.64,
+      "reason": "Spike: rain (8 mm)"
+    },
+    {
+      "date": "2026-09-03",
+      "value": 49.0,
+      "expected": 24.5,
+      "zScore": 2.74,
+      "reason": "Spike: rain (8 mm)"
+    }
+  ]
+}

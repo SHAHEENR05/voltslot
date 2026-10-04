@@ -1,0 +1,34 @@
+id,name,zone,city,latitude,longitude,tier,open_hour,close_hour,uptime_pct,avg_rating
+22,VoltGrid Mulund Vertex Tower,Mulund,Mumbai,19.178378,72.948533,STANDARD,0,24,96.7,4.13
+29,GreenPlug Kalyan Lotus Corporate Park,Kalyan,Kalyan-Dombivli,73.127984,19.24141,standard,0,24,98.1,3.71
+4,GreenPlug Lower Parel Hub – Mill Compound ,Lower Parel,Mumbai,18.991578,72.828207,HUB,0,24,97.5,3.94
+24,ChargeNest Chembur Riverside Complex,Chembur,Mumbai,19.052517,72.902754,STANDARD,0,24,96.6,4.21
+22,VoltGrid Mulund Vertex Tower,Mulund,Mumbai,19.178378,72.948533,STANDARD,0,24,96.7,4.13
+20,VoltGrid Ghatkopar Palm Court,Ghatkopar,Mumbai,72.908604,19.081527,STANDARD,0,24,88.9,2.35
+11,MetroCharge Dadar City Square Mall,Dadar,Mumbai,19.012739,72.848052,standard,6,23,98.7,4.32
+17,MetroCharge Goregaon Atlas Mall ,Goregaon,Mumbai,19.167282,72.858788,STANDARD,6,23,98.9,4.53
+9,GreenPlug Worli Maple Heights,Worli,Mumbai,19.018999,72.814831,STANDARD,0,24,97.1,3.88
+5,UrjaCharge Vashi Hub – Sector 17,Vashi,Navi Mumbai,19.076401,72.995471,HUB,0,24,99.0%,4.15
+8,EcoJuice Kharghar Hub – Central Park Rd,Kharghar,NaviMumbai,19.043433,73.066682,HUB,0,24,97.2%,4.13
+19,ZapStation Ghatkopar Crescent Business Park ,Ghatkopar,Mumbai,19.085452,72.907857,standard,0,24,99.5,3.94
+13,EcoJuice Borivali Galleria Mall,Borivali,Mumbai,19.226539,72.854461,STANDARD,6,23,99.4,4.33
+18,UrjaCharge Goregaon Lakeshore Towers ,Goregaon,Mumbai,19.162922,72.850062,STANDARD,0,24,97.5,4.16
+26,AmpereHub Nerul Sapphire Plaza,Nerul,Navi-Mumbai,19.031305,73.028553,STANDARD,0,24,97.9,4.33
+27,EcoJuice Panvel Maple Heights,Panvel,Navi Mumbai,18.988616,73.118349,STANDARD,0,24,88.1,2.75
+14,ChargeNest Borivali Greenfield Residency,Borivali,Mumbai,19.225552,72.853145,STANDARD,0,24,98.9,N/A
+6,ZapStation Andheri East Hub – MIDC Road,Andheri East,Mumbai,19.114612,72.87191,HUB,0,24,98.7%,4.09
+31,UrjaCharge Dombivli Railway Station Parking,Dombivli,Kalyan-Dombivli,19.214461,73.093229,STANDARD,0,24,84.7,N/A
+32,GreenPlug Dombivli Greenfield Residency,Dombivli,Kalyan-Dombivli,19.217442,73.089521,standard,0,24,96.8,4.22
+15,UrjaCharge Malad Sapphire Mall ,Malad,Mumbai,19.178538,72.848937,STANDARD,6,23,97.4,4.08
+3,AmpereHub Thane West Hub – Ghodbunder Rd,Thane west,Thane,19.217653,72.975717,HUB,0,24,99.6,4.24
+30,ZapStation Kalyan Silver Oak Society ,Kalyan,Kalyan-Dombivli,73.13517,19.247634,standard,0,24,89.6,3.22
+10,MetroCharge Worli Harbour View Complex,Worli,Mumbai,19.016413,72.820941,STANDARD,0,24,96.9,4.58
+7,MetroCharge Airport Hub – Sahar Link Rd ,Airport,Mumbai,19.09311,72.846828,HUB,0,24,98.4,4.14
+1,VoltGrid BKC Hub – G Block,BKC,Mumbai,19.070067,72.86436,HUB,0,24,99.2,4.18
+23,VoltGrid Chembur Zenith Mall,Chembur,Mumbai,19.057119,72.897368,STANDARD,6,23,98.9,4.08
+28,ChargeNest Panvel Harbour View Complex ,Panvel,Navi Mumbai,18.986414,73.116494,STANDARD,0,24,97.8,3.94
+16,AmpereHub Malad Sunrise Arcade,Malad,Mumbai,19.18655,72.847445,STANDARD,0,24,98.1,4.05
+25,AmpereHub Nerul Meridian Mall,Nerul,NaviMumbai,19.031831,73.032906,standard,6,23,98.8,4.17
+2,ChargeNest Powai Hub – Lakeside,Powai,Mumbai,19.120678,72.908722,HUB,0,24,98.5%,4.09
+12,EcoJuice Dadar Silver Oak Society ,Dadar,Mumbai,19.014218,72.848427,STANDARD,0,24,96.3,4.33
+21,ZapStation Mulund Cascade Mall,Mulund,Mumbai,19.176472,72.944001,standard,6,23,98.8,3.89

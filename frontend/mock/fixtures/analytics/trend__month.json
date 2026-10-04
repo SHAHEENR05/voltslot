@@ -1,0 +1,311 @@
+{
+  "granularity": "MONTH",
+  "forecastMethod": "HOLT_WINTERS_ADDITIVE",
+  "series": [
+    {
+      "period": "2025-10",
+      "sessions": 628,
+      "energyKwh": 11546.1,
+      "revenue": 183571.47,
+      "avgTariff": 15.9
+    },
+    {
+      "period": "2025-11",
+      "sessions": 493,
+      "energyKwh": 8890.3,
+      "revenue": 134560.94,
+      "avgTariff": 15.14
+    },
+    {
+      "period": "2025-12",
+      "sessions": 573,
+      "energyKwh": 10066.0,
+      "revenue": 150340.22,
+      "avgTariff": 14.94
+    },
+    {
+      "period": "2026-01",
+      "sessions": 580,
+      "energyKwh": 10817.8,
+      "revenue": 169655.9,
+      "avgTariff": 15.68
+    },
+    {
+      "period": "2026-02",
+      "sessions": 510,
+      "energyKwh": 9232.2,
+      "revenue": 143646.15,
+      "avgTariff": 15.56
+    },
+    {
+      "period": "2026-03",
+      "sessions": 624,
+      "energyKwh": 11673.5,
+      "revenue": 183516.03,
+      "avgTariff": 15.72
+    },
+    {
+      "period": "2026-04",
+      "sessions": 698,
+      "energyKwh": 13069.2,
+      "revenue": 203116.33,
+      "avgTariff": 15.54
+    },
+    {
+      "period": "2026-05",
+      "sessions": 665,
+      "energyKwh": 12081.2,
+      "revenue": 189501.48,
+      "avgTariff": 15.69
+    },
+    {
+      "period": "2026-06",
+      "sessions": 686,
+      "energyKwh": 13083.9,
+      "revenue": 197837.48,
+      "avgTariff": 15.12
+    },
+    {
+      "period": "2026-07",
+      "sessions": 700,
+      "energyKwh": 13143.9,
+      "revenue": 205586.78,
+      "avgTariff": 15.64
+    },
+    {
+      "period": "2026-08",
+      "sessions": 760,
+      "energyKwh": 14302.3,
+      "revenue": 220890.85,
+      "avgTariff": 15.44
+    },
+    {
+      "period": "2026-09",
+      "sessions": 794,
+      "energyKwh": 14753.7,
+      "revenue": 231117.45,
+      "avgTariff": 15.67
+    },
+    {
+      "period": "2026-10",
+      "sessions": 78,
+      "energyKwh": 1358.1,
+      "revenue": 21488.26,
+      "avgTariff": 15.82
+    }
+  ],
+  "forecast": [
+    {
+      "date": "2026-10-03",
+      "predicted": 28.5,
+      "lower": 10.2,
+      "upper": 46.8
+    },
+    {
+      "date": "2026-10-04",
+      "predicted": 28.0,
+      "lower": 9.2,
+      "upper": 46.7
+    },
+    {
+      "date": "2026-10-05",
+      "predicted": 29.3,
+      "lower": 10.1,
+      "upper": 48.5
+    },
+    {
+      "date": "2026-10-06",
+      "predicted": 28.6,
+      "lower": 8.9,
+      "upper": 48.2
+    },
+    {
+      "date": "2026-10-07",
+      "predicted": 30.7,
+      "lower": 10.6,
+      "upper": 50.8
+    },
+    {
+      "date": "2026-10-08",
+      "predicted": 32.9,
+      "lower": 12.4,
+      "upper": 53.4
+    },
+    {
+      "date": "2026-10-09",
+      "predicted": 28.8,
+      "lower": 7.9,
+      "upper": 49.7
+    },
+    {
+      "date": "2026-10-10",
+      "predicted": 29.5,
+      "lower": 8.2,
+      "upper": 50.7
+    },
+    {
+      "date": "2026-10-11",
+      "predicted": 28.9,
+      "lower": 7.3,
+      "upper": 50.6
+    },
+    {
+      "date": "2026-10-12",
+      "predicted": 30.3,
+      "lower": 8.2,
+      "upper": 52.3
+    },
+    {
+      "date": "2026-10-13",
+      "predicted": 29.6,
+      "lower": 7.1,
+      "upper": 52.0
+    },
+    {
+      "date": "2026-10-14",
+      "predicted": 31.7,
+      "lower": 8.9,
+      "upper": 54.5
+    },
+    {
+      "date": "2026-10-15",
+      "predicted": 33.9,
+      "lower": 10.7,
+      "upper": 57.1
+    },
+    {
+      "date": "2026-10-16",
+      "predicted": 29.8,
+      "lower": 6.3,
+      "upper": 53.4
+    }
+  ],
+  "anomalies": [
+    {
+      "date": "2025-10-20",
+      "value": 31.0,
+      "expected": 18.9,
+      "zScore": 2.58,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2025-11-05",
+      "value": 7.0,
+      "expected": 20.6,
+      "zScore": -2.27,
+      "reason": "Dip: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2025-11-24",
+      "value": 33.0,
+      "expected": 16.9,
+      "zScore": 3.02,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2025-12-09",
+      "value": 40.0,
+      "expected": 17.1,
+      "zScore": 4.45,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2026-02-15",
+      "value": 6.0,
+      "expected": 20.5,
+      "zScore": -2.31,
+      "reason": "Dip: public holiday (Maha Shivratri)"
+    },
+    {
+      "date": "2026-03-27",
+      "value": 32.0,
+      "expected": 19.6,
+      "zScore": 2.34,
+      "reason": "Spike: rain (6 mm)"
+    },
+    {
+      "date": "2026-04-27",
+      "value": 34.0,
+      "expected": 23.3,
+      "zScore": 2.54,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2026-05-06",
+      "value": 36.0,
+      "expected": 23.2,
+      "zScore": 2.78,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2026-05-07",
+      "value": 10.0,
+      "expected": 23.6,
+      "zScore": -2.62,
+      "reason": "Dip: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2026-05-12",
+      "value": 40.0,
+      "expected": 22.8,
+      "zScore": 2.68,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2026-06-23",
+      "value": 37.0,
+      "expected": 22.0,
+      "zScore": 3.07,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2026-07-17",
+      "value": 11.0,
+      "expected": 23.1,
+      "zScore": -2.25,
+      "reason": "Dip: heavy rain (91 mm)"
+    },
+    {
+      "date": "2026-07-20",
+      "value": 36.0,
+      "expected": 22.9,
+      "zScore": 2.22,
+      "reason": "Spike: rain (4 mm)"
+    },
+    {
+      "date": "2026-07-25",
+      "value": 36.0,
+      "expected": 22.9,
+      "zScore": 2.26,
+      "reason": "Spike: heavy rain (44 mm)"
+    },
+    {
+      "date": "2026-08-05",
+      "value": 39.0,
+      "expected": 23.0,
+      "zScore": 2.36,
+      "reason": "Spike: rain (15 mm)"
+    },
+    {
+      "date": "2026-08-13",
+      "value": 47.0,
+      "expected": 23.4,
+      "zScore": 2.89,
+      "reason": "Spike: no known cause (holiday / weather)"
+    },
+    {
+      "date": "2026-08-28",
+      "value": 45.0,
+      "expected": 24.2,
+      "zScore": 2.64,
+      "reason": "Spike: rain (8 mm)"
+    },
+    {
+      "date": "2026-09-03",
+      "value": 49.0,
+      "expected": 24.5,
+      "zScore": 2.74,
+      "reason": "Spike: rain (8 mm)"
+    }
+  ]
+}

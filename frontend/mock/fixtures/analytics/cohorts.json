@@ -1,0 +1,618 @@
+[
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 0,
+    "activeUsers": 303,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 1,
+    "activeUsers": 190,
+    "retentionPct": 62.7
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 2,
+    "activeUsers": 196,
+    "retentionPct": 64.7
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 3,
+    "activeUsers": 199,
+    "retentionPct": 65.7
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 4,
+    "activeUsers": 179,
+    "retentionPct": 59.1
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 5,
+    "activeUsers": 202,
+    "retentionPct": 66.7
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 6,
+    "activeUsers": 206,
+    "retentionPct": 68.0
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 7,
+    "activeUsers": 194,
+    "retentionPct": 64.0
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 8,
+    "activeUsers": 194,
+    "retentionPct": 64.0
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 9,
+    "activeUsers": 190,
+    "retentionPct": 62.7
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 10,
+    "activeUsers": 201,
+    "retentionPct": 66.3
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 11,
+    "activeUsers": 203,
+    "retentionPct": 67.0
+  },
+  {
+    "cohort": "2025-10",
+    "cohortSize": 303,
+    "monthOffset": 12,
+    "activeUsers": 39,
+    "retentionPct": 12.9
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 0,
+    "activeUsers": 69,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 1,
+    "activeUsers": 37,
+    "retentionPct": 53.6
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 2,
+    "activeUsers": 37,
+    "retentionPct": 53.6
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 3,
+    "activeUsers": 29,
+    "retentionPct": 42.0
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 4,
+    "activeUsers": 38,
+    "retentionPct": 55.1
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 5,
+    "activeUsers": 42,
+    "retentionPct": 60.9
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 6,
+    "activeUsers": 40,
+    "retentionPct": 58.0
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 7,
+    "activeUsers": 37,
+    "retentionPct": 53.6
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 8,
+    "activeUsers": 35,
+    "retentionPct": 50.7
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 9,
+    "activeUsers": 37,
+    "retentionPct": 53.6
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 10,
+    "activeUsers": 41,
+    "retentionPct": 59.4
+  },
+  {
+    "cohort": "2025-11",
+    "cohortSize": 69,
+    "monthOffset": 11,
+    "activeUsers": 3,
+    "retentionPct": 4.3
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 0,
+    "activeUsers": 37,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 1,
+    "activeUsers": 19,
+    "retentionPct": 51.4
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 2,
+    "activeUsers": 14,
+    "retentionPct": 37.8
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 3,
+    "activeUsers": 19,
+    "retentionPct": 51.4
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 4,
+    "activeUsers": 15,
+    "retentionPct": 40.5
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 5,
+    "activeUsers": 16,
+    "retentionPct": 43.2
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 6,
+    "activeUsers": 17,
+    "retentionPct": 45.9
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 7,
+    "activeUsers": 16,
+    "retentionPct": 43.2
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 8,
+    "activeUsers": 17,
+    "retentionPct": 45.9
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 9,
+    "activeUsers": 22,
+    "retentionPct": 59.5
+  },
+  {
+    "cohort": "2025-12",
+    "cohortSize": 37,
+    "monthOffset": 10,
+    "activeUsers": 3,
+    "retentionPct": 8.1
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 0,
+    "activeUsers": 34,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 1,
+    "activeUsers": 17,
+    "retentionPct": 50.0
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 2,
+    "activeUsers": 17,
+    "retentionPct": 50.0
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 3,
+    "activeUsers": 19,
+    "retentionPct": 55.9
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 4,
+    "activeUsers": 14,
+    "retentionPct": 41.2
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 5,
+    "activeUsers": 15,
+    "retentionPct": 44.1
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 6,
+    "activeUsers": 19,
+    "retentionPct": 55.9
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 7,
+    "activeUsers": 20,
+    "retentionPct": 58.8
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 8,
+    "activeUsers": 21,
+    "retentionPct": 61.8
+  },
+  {
+    "cohort": "2026-01",
+    "cohortSize": 34,
+    "monthOffset": 9,
+    "activeUsers": 2,
+    "retentionPct": 5.9
+  },
+  {
+    "cohort": "2026-02",
+    "cohortSize": 18,
+    "monthOffset": 0,
+    "activeUsers": 18,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-02",
+    "cohortSize": 18,
+    "monthOffset": 1,
+    "activeUsers": 8,
+    "retentionPct": 44.4
+  },
+  {
+    "cohort": "2026-02",
+    "cohortSize": 18,
+    "monthOffset": 2,
+    "activeUsers": 7,
+    "retentionPct": 38.9
+  },
+  {
+    "cohort": "2026-02",
+    "cohortSize": 18,
+    "monthOffset": 3,
+    "activeUsers": 5,
+    "retentionPct": 27.8
+  },
+  {
+    "cohort": "2026-02",
+    "cohortSize": 18,
+    "monthOffset": 4,
+    "activeUsers": 10,
+    "retentionPct": 55.6
+  },
+  {
+    "cohort": "2026-02",
+    "cohortSize": 18,
+    "monthOffset": 5,
+    "activeUsers": 10,
+    "retentionPct": 55.6
+  },
+  {
+    "cohort": "2026-02",
+    "cohortSize": 18,
+    "monthOffset": 6,
+    "activeUsers": 8,
+    "retentionPct": 44.4
+  },
+  {
+    "cohort": "2026-02",
+    "cohortSize": 18,
+    "monthOffset": 7,
+    "activeUsers": 9,
+    "retentionPct": 50.0
+  },
+  {
+    "cohort": "2026-03",
+    "cohortSize": 18,
+    "monthOffset": 0,
+    "activeUsers": 18,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-03",
+    "cohortSize": 18,
+    "monthOffset": 1,
+    "activeUsers": 8,
+    "retentionPct": 44.4
+  },
+  {
+    "cohort": "2026-03",
+    "cohortSize": 18,
+    "monthOffset": 2,
+    "activeUsers": 10,
+    "retentionPct": 55.6
+  },
+  {
+    "cohort": "2026-03",
+    "cohortSize": 18,
+    "monthOffset": 3,
+    "activeUsers": 10,
+    "retentionPct": 55.6
+  },
+  {
+    "cohort": "2026-03",
+    "cohortSize": 18,
+    "monthOffset": 4,
+    "activeUsers": 9,
+    "retentionPct": 50.0
+  },
+  {
+    "cohort": "2026-03",
+    "cohortSize": 18,
+    "monthOffset": 5,
+    "activeUsers": 10,
+    "retentionPct": 55.6
+  },
+  {
+    "cohort": "2026-03",
+    "cohortSize": 18,
+    "monthOffset": 6,
+    "activeUsers": 12,
+    "retentionPct": 66.7
+  },
+  {
+    "cohort": "2026-03",
+    "cohortSize": 18,
+    "monthOffset": 7,
+    "activeUsers": 4,
+    "retentionPct": 22.2
+  },
+  {
+    "cohort": "2026-04",
+    "cohortSize": 31,
+    "monthOffset": 0,
+    "activeUsers": 31,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-04",
+    "cohortSize": 31,
+    "monthOffset": 1,
+    "activeUsers": 11,
+    "retentionPct": 35.5
+  },
+  {
+    "cohort": "2026-04",
+    "cohortSize": 31,
+    "monthOffset": 2,
+    "activeUsers": 11,
+    "retentionPct": 35.5
+  },
+  {
+    "cohort": "2026-04",
+    "cohortSize": 31,
+    "monthOffset": 3,
+    "activeUsers": 12,
+    "retentionPct": 38.7
+  },
+  {
+    "cohort": "2026-04",
+    "cohortSize": 31,
+    "monthOffset": 4,
+    "activeUsers": 16,
+    "retentionPct": 51.6
+  },
+  {
+    "cohort": "2026-04",
+    "cohortSize": 31,
+    "monthOffset": 5,
+    "activeUsers": 12,
+    "retentionPct": 38.7
+  },
+  {
+    "cohort": "2026-04",
+    "cohortSize": 31,
+    "monthOffset": 6,
+    "activeUsers": 2,
+    "retentionPct": 6.5
+  },
+  {
+    "cohort": "2026-05",
+    "cohortSize": 19,
+    "monthOffset": 0,
+    "activeUsers": 19,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-05",
+    "cohortSize": 19,
+    "monthOffset": 1,
+    "activeUsers": 9,
+    "retentionPct": 47.4
+  },
+  {
+    "cohort": "2026-05",
+    "cohortSize": 19,
+    "monthOffset": 2,
+    "activeUsers": 9,
+    "retentionPct": 47.4
+  },
+  {
+    "cohort": "2026-05",
+    "cohortSize": 19,
+    "monthOffset": 3,
+    "activeUsers": 8,
+    "retentionPct": 42.1
+  },
+  {
+    "cohort": "2026-05",
+    "cohortSize": 19,
+    "monthOffset": 4,
+    "activeUsers": 10,
+    "retentionPct": 52.6
+  },
+  {
+    "cohort": "2026-05",
+    "cohortSize": 19,
+    "monthOffset": 5,
+    "activeUsers": 4,
+    "retentionPct": 21.1
+  },
+  {
+    "cohort": "2026-06",
+    "cohortSize": 26,
+    "monthOffset": 0,
+    "activeUsers": 26,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-06",
+    "cohortSize": 26,
+    "monthOffset": 1,
+    "activeUsers": 16,
+    "retentionPct": 61.5
+  },
+  {
+    "cohort": "2026-06",
+    "cohortSize": 26,
+    "monthOffset": 2,
+    "activeUsers": 15,
+    "retentionPct": 57.7
+  },
+  {
+    "cohort": "2026-06",
+    "cohortSize": 26,
+    "monthOffset": 3,
+    "activeUsers": 11,
+    "retentionPct": 42.3
+  },
+  {
+    "cohort": "2026-06",
+    "cohortSize": 26,
+    "monthOffset": 4,
+    "activeUsers": 5,
+    "retentionPct": 19.2
+  },
+  {
+    "cohort": "2026-07",
+    "cohortSize": 20,
+    "monthOffset": 0,
+    "activeUsers": 20,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-07",
+    "cohortSize": 20,
+    "monthOffset": 1,
+    "activeUsers": 11,
+    "retentionPct": 55.0
+  },
+  {
+    "cohort": "2026-07",
+    "cohortSize": 20,
+    "monthOffset": 2,
+    "activeUsers": 8,
+    "retentionPct": 40.0
+  },
+  {
+    "cohort": "2026-07",
+    "cohortSize": 20,
+    "monthOffset": 3,
+    "activeUsers": 4,
+    "retentionPct": 20.0
+  },
+  {
+    "cohort": "2026-08",
+    "cohortSize": 18,
+    "monthOffset": 0,
+    "activeUsers": 18,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-08",
+    "cohortSize": 18,
+    "monthOffset": 1,
+    "activeUsers": 9,
+    "retentionPct": 50.0
+  },
+  {
+    "cohort": "2026-09",
+    "cohortSize": 14,
+    "monthOffset": 0,
+    "activeUsers": 14,
+    "retentionPct": 100.0
+  },
+  {
+    "cohort": "2026-10",
+    "cohortSize": 1,
+    "monthOffset": 0,
+    "activeUsers": 1,
+    "retentionPct": 100.0
+  }
+]

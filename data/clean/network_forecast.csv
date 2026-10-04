@@ -1,0 +1,253 @@
+id,forecast_date,zone,predicted_sessions,lower_bound,upper_bound,method
+1,2026-10-03,ALL,25.68,12.55,38.82,holt_winters_damped_w7
+2,2026-10-04,ALL,24.94,11.8,38.07,holt_winters_damped_w7
+3,2026-10-05,ALL,27.51,14.37,40.65,holt_winters_damped_w7
+4,2026-10-06,ALL,27.33,14.19,40.48,holt_winters_damped_w7
+5,2026-10-07,ALL,25.85,12.71,39.0,holt_winters_damped_w7
+6,2026-10-08,ALL,27.09,13.95,40.24,holt_winters_damped_w7
+7,2026-10-09,ALL,26.36,13.21,39.51,holt_winters_damped_w7
+8,2026-10-10,ALL,25.92,12.77,39.07,holt_winters_damped_w7
+9,2026-10-11,ALL,25.17,12.02,38.33,holt_winters_damped_w7
+10,2026-10-12,ALL,27.75,14.59,40.9,holt_winters_damped_w7
+11,2026-10-13,ALL,27.57,14.41,40.73,holt_winters_damped_w7
+12,2026-10-14,ALL,26.09,12.93,39.25,holt_winters_damped_w7
+13,2026-10-15,ALL,27.32,14.16,40.49,holt_winters_damped_w7
+14,2026-10-16,ALL,26.59,13.43,39.76,holt_winters_damped_w7
+15,2026-10-17,ALL,26.15,12.99,39.32,holt_winters_damped_w7
+16,2026-10-18,ALL,25.4,12.24,38.57,holt_winters_damped_w7
+17,2026-10-19,ALL,27.98,14.81,41.15,holt_winters_damped_w7
+18,2026-10-20,ALL,27.8,14.63,40.97,holt_winters_damped_w7
+19,2026-10-21,ALL,26.31,13.14,39.49,holt_winters_damped_w7
+20,2026-10-22,ALL,27.55,14.37,40.73,holt_winters_damped_w7
+21,2026-10-23,ALL,26.82,13.64,40.0,holt_winters_damped_w7
+22,2026-10-24,ALL,26.37,13.19,39.55,holt_winters_damped_w7
+23,2026-10-25,ALL,25.63,12.44,38.81,holt_winters_damped_w7
+24,2026-10-26,ALL,28.2,15.01,41.38,holt_winters_damped_w7
+25,2026-10-27,ALL,28.02,14.83,41.2,holt_winters_damped_w7
+26,2026-10-28,ALL,26.53,13.34,39.72,holt_winters_damped_w7
+27,2026-10-29,ALL,27.77,14.58,40.96,holt_winters_damped_w7
+28,2026-10-30,ALL,27.03,13.84,40.23,holt_winters_damped_w7
+29,2026-10-31,ALL,26.59,13.39,39.78,holt_winters_damped_w7
+30,2026-11-01,ALL,25.84,12.64,39.04,holt_winters_damped_w7
+31,2026-11-02,ALL,28.41,15.21,41.61,holt_winters_damped_w7
+32,2026-11-03,ALL,28.23,15.03,41.43,holt_winters_damped_w7
+33,2026-11-04,ALL,26.74,13.54,39.95,holt_winters_damped_w7
+34,2026-11-05,ALL,27.98,14.77,41.18,holt_winters_damped_w7
+35,2026-11-06,ALL,27.24,14.04,40.45,holt_winters_damped_w7
+36,2026-11-07,ALL,26.8,13.59,40.01,holt_winters_damped_w7
+37,2026-11-08,ALL,26.05,12.83,39.26,holt_winters_damped_w7
+38,2026-11-09,ALL,28.62,15.4,41.83,holt_winters_damped_w7
+39,2026-11-10,ALL,28.43,15.22,41.65,holt_winters_damped_w7
+40,2026-11-11,ALL,26.95,13.73,40.17,holt_winters_damped_w7
+41,2026-11-12,ALL,28.18,14.96,41.4,holt_winters_damped_w7
+42,2026-11-13,ALL,27.45,14.22,40.67,holt_winters_damped_w7
+43,2026-10-03,BKC,3.17,0.0,6.68,holt_winters_damped_w7
+44,2026-10-04,BKC,3.24,0.0,6.76,holt_winters_damped_w7
+45,2026-10-05,BKC,3.78,0.26,7.29,holt_winters_damped_w7
+46,2026-10-06,BKC,3.93,0.41,7.44,holt_winters_damped_w7
+47,2026-10-07,BKC,3.74,0.22,7.25,holt_winters_damped_w7
+48,2026-10-08,BKC,3.88,0.37,7.4,holt_winters_damped_w7
+49,2026-10-09,BKC,3.86,0.35,7.38,holt_winters_damped_w7
+50,2026-10-10,BKC,3.18,0.0,6.7,holt_winters_damped_w7
+51,2026-10-11,BKC,3.26,0.0,6.77,holt_winters_damped_w7
+52,2026-10-12,BKC,3.79,0.27,7.31,holt_winters_damped_w7
+53,2026-10-13,BKC,3.94,0.42,7.46,holt_winters_damped_w7
+54,2026-10-14,BKC,3.75,0.23,7.27,holt_winters_damped_w7
+55,2026-10-15,BKC,3.9,0.38,7.41,holt_winters_damped_w7
+56,2026-10-16,BKC,3.87,0.36,7.39,holt_winters_damped_w7
+57,2026-10-17,BKC,3.19,0.0,6.71,holt_winters_damped_w7
+58,2026-10-18,BKC,3.27,0.0,6.78,holt_winters_damped_w7
+59,2026-10-19,BKC,3.8,0.29,7.32,holt_winters_damped_w7
+60,2026-10-20,BKC,3.95,0.44,7.47,holt_winters_damped_w7
+61,2026-10-21,BKC,3.76,0.25,7.28,holt_winters_damped_w7
+62,2026-10-22,BKC,3.91,0.39,7.42,holt_winters_damped_w7
+63,2026-10-23,BKC,3.89,0.37,7.4,holt_winters_damped_w7
+64,2026-10-24,BKC,3.21,0.0,6.72,holt_winters_damped_w7
+65,2026-10-25,BKC,3.28,0.0,6.8,holt_winters_damped_w7
+66,2026-10-26,BKC,3.81,0.3,7.33,holt_winters_damped_w7
+67,2026-10-27,BKC,3.96,0.45,7.48,holt_winters_damped_w7
+68,2026-10-28,BKC,3.77,0.26,7.29,holt_winters_damped_w7
+69,2026-10-29,BKC,3.92,0.4,7.44,holt_winters_damped_w7
+70,2026-10-30,BKC,3.9,0.38,7.41,holt_winters_damped_w7
+71,2026-10-31,BKC,3.22,0.0,6.73,holt_winters_damped_w7
+72,2026-11-01,BKC,3.29,0.0,6.81,holt_winters_damped_w7
+73,2026-11-02,BKC,3.83,0.31,7.34,holt_winters_damped_w7
+74,2026-11-03,BKC,3.98,0.46,7.49,holt_winters_damped_w7
+75,2026-11-04,BKC,3.78,0.27,7.3,holt_winters_damped_w7
+76,2026-11-05,BKC,3.93,0.42,7.45,holt_winters_damped_w7
+77,2026-11-06,BKC,3.91,0.39,7.42,holt_winters_damped_w7
+78,2026-11-07,BKC,3.23,0.0,6.74,holt_winters_damped_w7
+79,2026-11-08,BKC,3.3,0.0,6.82,holt_winters_damped_w7
+80,2026-11-09,BKC,3.84,0.32,7.35,holt_winters_damped_w7
+81,2026-11-10,BKC,3.99,0.47,7.5,holt_winters_damped_w7
+82,2026-11-11,BKC,3.8,0.28,7.31,holt_winters_damped_w7
+83,2026-11-12,BKC,3.94,0.43,7.46,holt_winters_damped_w7
+84,2026-11-13,BKC,3.92,0.4,7.44,holt_winters_damped_w7
+85,2026-10-03,Thane West,3.09,0.0,6.31,holt_winters_damped_w7
+86,2026-10-04,Thane West,2.91,0.0,6.13,holt_winters_damped_w7
+87,2026-10-05,Thane West,3.7,0.48,6.91,holt_winters_damped_w7
+88,2026-10-06,Thane West,3.31,0.09,6.53,holt_winters_damped_w7
+89,2026-10-07,Thane West,2.97,0.0,6.19,holt_winters_damped_w7
+90,2026-10-08,Thane West,3.48,0.26,6.7,holt_winters_damped_w7
+91,2026-10-09,Thane West,3.3,0.08,6.52,holt_winters_damped_w7
+92,2026-10-10,Thane West,3.09,0.0,6.31,holt_winters_damped_w7
+93,2026-10-11,Thane West,2.91,0.0,6.14,holt_winters_damped_w7
+94,2026-10-12,Thane West,3.7,0.48,6.92,holt_winters_damped_w7
+95,2026-10-13,Thane West,3.31,0.09,6.53,holt_winters_damped_w7
+96,2026-10-14,Thane West,2.97,0.0,6.2,holt_winters_damped_w7
+97,2026-10-15,Thane West,3.48,0.25,6.7,holt_winters_damped_w7
+98,2026-10-16,Thane West,3.3,0.08,6.53,holt_winters_damped_w7
+99,2026-10-17,Thane West,3.09,0.0,6.32,holt_winters_damped_w7
+100,2026-10-18,Thane West,2.91,0.0,6.14,holt_winters_damped_w7
+101,2026-10-19,Thane West,3.7,0.47,6.93,holt_winters_damped_w7
+102,2026-10-20,Thane West,3.31,0.08,6.54,holt_winters_damped_w7
+103,2026-10-21,Thane West,2.97,0.0,6.21,holt_winters_damped_w7
+104,2026-10-22,Thane West,3.48,0.24,6.71,holt_winters_damped_w7
+105,2026-10-23,Thane West,3.3,0.07,6.54,holt_winters_damped_w7
+106,2026-10-24,Thane West,3.09,0.0,6.33,holt_winters_damped_w7
+107,2026-10-25,Thane West,2.91,0.0,6.15,holt_winters_damped_w7
+108,2026-10-26,Thane West,3.7,0.46,6.94,holt_winters_damped_w7
+109,2026-10-27,Thane West,3.31,0.07,6.55,holt_winters_damped_w7
+110,2026-10-28,Thane West,2.97,0.0,6.21,holt_winters_damped_w7
+111,2026-10-29,Thane West,3.48,0.24,6.72,holt_winters_damped_w7
+112,2026-10-30,Thane West,3.3,0.06,6.54,holt_winters_damped_w7
+113,2026-10-31,Thane West,3.09,0.0,6.33,holt_winters_damped_w7
+114,2026-11-01,Thane West,2.91,0.0,6.16,holt_winters_damped_w7
+115,2026-11-02,Thane West,3.7,0.45,6.94,holt_winters_damped_w7
+116,2026-11-03,Thane West,3.31,0.07,6.56,holt_winters_damped_w7
+117,2026-11-04,Thane West,2.97,0.0,6.22,holt_winters_damped_w7
+118,2026-11-05,Thane West,3.48,0.23,6.72,holt_winters_damped_w7
+119,2026-11-06,Thane West,3.3,0.05,6.55,holt_winters_damped_w7
+120,2026-11-07,Thane West,3.09,0.0,6.34,holt_winters_damped_w7
+121,2026-11-08,Thane West,2.91,0.0,6.16,holt_winters_damped_w7
+122,2026-11-09,Thane West,3.7,0.45,6.95,holt_winters_damped_w7
+123,2026-11-10,Thane West,3.31,0.06,6.56,holt_winters_damped_w7
+124,2026-11-11,Thane West,2.97,0.0,6.23,holt_winters_damped_w7
+125,2026-11-12,Thane West,3.48,0.22,6.73,holt_winters_damped_w7
+126,2026-11-13,Thane West,3.3,0.05,6.56,holt_winters_damped_w7
+127,2026-10-03,Powai,2.66,0.0,5.85,holt_winters_damped_w7
+128,2026-10-04,Powai,2.37,0.0,5.56,holt_winters_damped_w7
+129,2026-10-05,Powai,3.55,0.36,6.75,holt_winters_damped_w7
+130,2026-10-06,Powai,3.28,0.08,6.48,holt_winters_damped_w7
+131,2026-10-07,Powai,3.07,0.0,6.27,holt_winters_damped_w7
+132,2026-10-08,Powai,3.35,0.15,6.55,holt_winters_damped_w7
+133,2026-10-09,Powai,3.1,0.0,6.31,holt_winters_damped_w7
+134,2026-10-10,Powai,2.66,0.0,5.87,holt_winters_damped_w7
+135,2026-10-11,Powai,2.37,0.0,5.58,holt_winters_damped_w7
+136,2026-10-12,Powai,3.55,0.34,6.77,holt_winters_damped_w7
+137,2026-10-13,Powai,3.28,0.07,6.5,holt_winters_damped_w7
+138,2026-10-14,Powai,3.07,0.0,6.29,holt_winters_damped_w7
+139,2026-10-15,Powai,3.35,0.13,6.57,holt_winters_damped_w7
+140,2026-10-16,Powai,3.1,0.0,6.33,holt_winters_damped_w7
+141,2026-10-17,Powai,2.66,0.0,5.88,holt_winters_damped_w7
+142,2026-10-18,Powai,2.37,0.0,5.59,holt_winters_damped_w7
+143,2026-10-19,Powai,3.56,0.32,6.79,holt_winters_damped_w7
+144,2026-10-20,Powai,3.28,0.05,6.52,holt_winters_damped_w7
+145,2026-10-21,Powai,3.07,0.0,6.31,holt_winters_damped_w7
+146,2026-10-22,Powai,3.35,0.11,6.59,holt_winters_damped_w7
+147,2026-10-23,Powai,3.1,0.0,6.34,holt_winters_damped_w7
+148,2026-10-24,Powai,2.66,0.0,5.9,holt_winters_damped_w7
+149,2026-10-25,Powai,2.37,0.0,5.61,holt_winters_damped_w7
+150,2026-10-26,Powai,3.56,0.31,6.8,holt_winters_damped_w7
+151,2026-10-27,Powai,3.28,0.03,6.53,holt_winters_damped_w7
+152,2026-10-28,Powai,3.07,0.0,6.32,holt_winters_damped_w7
+153,2026-10-29,Powai,3.35,0.1,6.6,holt_winters_damped_w7
+154,2026-10-30,Powai,3.1,0.0,6.36,holt_winters_damped_w7
+155,2026-10-31,Powai,2.66,0.0,5.92,holt_winters_damped_w7
+156,2026-11-01,Powai,2.37,0.0,5.63,holt_winters_damped_w7
+157,2026-11-02,Powai,3.56,0.29,6.82,holt_winters_damped_w7
+158,2026-11-03,Powai,3.28,0.02,6.55,holt_winters_damped_w7
+159,2026-11-04,Powai,3.07,0.0,6.34,holt_winters_damped_w7
+160,2026-11-05,Powai,3.35,0.08,6.62,holt_winters_damped_w7
+161,2026-11-06,Powai,3.1,0.0,6.38,holt_winters_damped_w7
+162,2026-11-07,Powai,2.66,0.0,5.93,holt_winters_damped_w7
+163,2026-11-08,Powai,2.37,0.0,5.64,holt_winters_damped_w7
+164,2026-11-09,Powai,3.56,0.27,6.84,holt_winters_damped_w7
+165,2026-11-10,Powai,3.28,0.0,6.57,holt_winters_damped_w7
+166,2026-11-11,Powai,3.07,0.0,6.36,holt_winters_damped_w7
+167,2026-11-12,Powai,3.35,0.06,6.64,holt_winters_damped_w7
+168,2026-11-13,Powai,3.1,0.0,6.39,holt_winters_damped_w7
+169,2026-10-03,Andheri East,1.96,0.0,4.83,holt_winters_damped_w7
+170,2026-10-04,Andheri East,2.38,0.0,5.25,holt_winters_damped_w7
+171,2026-10-05,Andheri East,2.78,0.0,5.65,holt_winters_damped_w7
+172,2026-10-06,Andheri East,2.47,0.0,5.34,holt_winters_damped_w7
+173,2026-10-07,Andheri East,2.31,0.0,5.19,holt_winters_damped_w7
+174,2026-10-08,Andheri East,2.61,0.0,5.48,holt_winters_damped_w7
+175,2026-10-09,Andheri East,2.57,0.0,5.44,holt_winters_damped_w7
+176,2026-10-10,Andheri East,1.96,0.0,4.83,holt_winters_damped_w7
+177,2026-10-11,Andheri East,2.38,0.0,5.25,holt_winters_damped_w7
+178,2026-10-12,Andheri East,2.78,0.0,5.65,holt_winters_damped_w7
+179,2026-10-13,Andheri East,2.47,0.0,5.34,holt_winters_damped_w7
+180,2026-10-14,Andheri East,2.32,0.0,5.19,holt_winters_damped_w7
+181,2026-10-15,Andheri East,2.61,0.0,5.49,holt_winters_damped_w7
+182,2026-10-16,Andheri East,2.57,0.0,5.44,holt_winters_damped_w7
+183,2026-10-17,Andheri East,1.96,0.0,4.83,holt_winters_damped_w7
+184,2026-10-18,Andheri East,2.38,0.0,5.25,holt_winters_damped_w7
+185,2026-10-19,Andheri East,2.78,0.0,5.66,holt_winters_damped_w7
+186,2026-10-20,Andheri East,2.47,0.0,5.34,holt_winters_damped_w7
+187,2026-10-21,Andheri East,2.32,0.0,5.19,holt_winters_damped_w7
+188,2026-10-22,Andheri East,2.61,0.0,5.49,holt_winters_damped_w7
+189,2026-10-23,Andheri East,2.57,0.0,5.45,holt_winters_damped_w7
+190,2026-10-24,Andheri East,1.96,0.0,4.84,holt_winters_damped_w7
+191,2026-10-25,Andheri East,2.38,0.0,5.26,holt_winters_damped_w7
+192,2026-10-26,Andheri East,2.78,0.0,5.66,holt_winters_damped_w7
+193,2026-10-27,Andheri East,2.47,0.0,5.35,holt_winters_damped_w7
+194,2026-10-28,Andheri East,2.32,0.0,5.19,holt_winters_damped_w7
+195,2026-10-29,Andheri East,2.61,0.0,5.49,holt_winters_damped_w7
+196,2026-10-30,Andheri East,2.57,0.0,5.45,holt_winters_damped_w7
+197,2026-10-31,Andheri East,1.96,0.0,4.84,holt_winters_damped_w7
+198,2026-11-01,Andheri East,2.38,0.0,5.26,holt_winters_damped_w7
+199,2026-11-02,Andheri East,2.78,0.0,5.66,holt_winters_damped_w7
+200,2026-11-03,Andheri East,2.47,0.0,5.35,holt_winters_damped_w7
+201,2026-11-04,Andheri East,2.32,0.0,5.2,holt_winters_damped_w7
+202,2026-11-05,Andheri East,2.61,0.0,5.49,holt_winters_damped_w7
+203,2026-11-06,Andheri East,2.57,0.0,5.45,holt_winters_damped_w7
+204,2026-11-07,Andheri East,1.96,0.0,4.84,holt_winters_damped_w7
+205,2026-11-08,Andheri East,2.38,0.0,5.26,holt_winters_damped_w7
+206,2026-11-09,Andheri East,2.78,0.0,5.66,holt_winters_damped_w7
+207,2026-11-10,Andheri East,2.47,0.0,5.35,holt_winters_damped_w7
+208,2026-11-11,Andheri East,2.32,0.0,5.2,holt_winters_damped_w7
+209,2026-11-12,Andheri East,2.61,0.0,5.5,holt_winters_damped_w7
+210,2026-11-13,Andheri East,2.57,0.0,5.45,holt_winters_damped_w7
+211,2026-10-03,Vashi,2.71,0.0,5.59,holt_winters_damped_w7
+212,2026-10-04,Vashi,2.2,0.0,5.08,holt_winters_damped_w7
+213,2026-10-05,Vashi,2.14,0.0,5.02,holt_winters_damped_w7
+214,2026-10-06,Vashi,2.29,0.0,5.17,holt_winters_damped_w7
+215,2026-10-07,Vashi,2.26,0.0,5.14,holt_winters_damped_w7
+216,2026-10-08,Vashi,2.23,0.0,5.11,holt_winters_damped_w7
+217,2026-10-09,Vashi,2.11,0.0,5.0,holt_winters_damped_w7
+218,2026-10-10,Vashi,2.71,0.0,5.59,holt_winters_damped_w7
+219,2026-10-11,Vashi,2.2,0.0,5.09,holt_winters_damped_w7
+220,2026-10-12,Vashi,2.14,0.0,5.03,holt_winters_damped_w7
+221,2026-10-13,Vashi,2.29,0.0,5.18,holt_winters_damped_w7
+222,2026-10-14,Vashi,2.26,0.0,5.14,holt_winters_damped_w7
+223,2026-10-15,Vashi,2.23,0.0,5.12,holt_winters_damped_w7
+224,2026-10-16,Vashi,2.11,0.0,5.0,holt_winters_damped_w7
+225,2026-10-17,Vashi,2.71,0.0,5.59,holt_winters_damped_w7
+226,2026-10-18,Vashi,2.2,0.0,5.09,holt_winters_damped_w7
+227,2026-10-19,Vashi,2.14,0.0,5.03,holt_winters_damped_w7
+228,2026-10-20,Vashi,2.29,0.0,5.18,holt_winters_damped_w7
+229,2026-10-21,Vashi,2.26,0.0,5.14,holt_winters_damped_w7
+230,2026-10-22,Vashi,2.23,0.0,5.12,holt_winters_damped_w7
+231,2026-10-23,Vashi,2.11,0.0,5.0,holt_winters_damped_w7
+232,2026-10-24,Vashi,2.71,0.0,5.59,holt_winters_damped_w7
+233,2026-10-25,Vashi,2.2,0.0,5.09,holt_winters_damped_w7
+234,2026-10-26,Vashi,2.14,0.0,5.03,holt_winters_damped_w7
+235,2026-10-27,Vashi,2.29,0.0,5.18,holt_winters_damped_w7
+236,2026-10-28,Vashi,2.26,0.0,5.15,holt_winters_damped_w7
+237,2026-10-29,Vashi,2.23,0.0,5.12,holt_winters_damped_w7
+238,2026-10-30,Vashi,2.11,0.0,5.0,holt_winters_damped_w7
+239,2026-10-31,Vashi,2.71,0.0,5.6,holt_winters_damped_w7
+240,2026-11-01,Vashi,2.2,0.0,5.09,holt_winters_damped_w7
+241,2026-11-02,Vashi,2.14,0.0,5.03,holt_winters_damped_w7
+242,2026-11-03,Vashi,2.29,0.0,5.18,holt_winters_damped_w7
+243,2026-11-04,Vashi,2.26,0.0,5.15,holt_winters_damped_w7
+244,2026-11-05,Vashi,2.23,0.0,5.12,holt_winters_damped_w7
+245,2026-11-06,Vashi,2.11,0.0,5.0,holt_winters_damped_w7
+246,2026-11-07,Vashi,2.71,0.0,5.6,holt_winters_damped_w7
+247,2026-11-08,Vashi,2.2,0.0,5.09,holt_winters_damped_w7
+248,2026-11-09,Vashi,2.14,0.0,5.03,holt_winters_damped_w7
+249,2026-11-10,Vashi,2.29,0.0,5.18,holt_winters_damped_w7
+250,2026-11-11,Vashi,2.26,0.0,5.15,holt_winters_damped_w7
+251,2026-11-12,Vashi,2.23,0.0,5.12,holt_winters_damped_w7
+252,2026-11-13,Vashi,2.11,0.0,5.01,holt_winters_damped_w7

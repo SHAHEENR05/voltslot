@@ -1,0 +1,74 @@
+[
+  {
+    "segment": "Daily Commuters",
+    "users": 80,
+    "sessions": 599,
+    "energyKwh": 14594.5,
+    "revenue": 260561.33,
+    "revenuePerUser": 3257.02,
+    "sharePct": 40.2,
+    "avgSessionsPerUser": 7.5,
+    "nightSharePct": 0.8,
+    "weekendSharePct": 11.9
+  },
+  {
+    "segment": "Weekend Explorers",
+    "users": 146,
+    "sessions": 353,
+    "energyKwh": 8854.0,
+    "revenue": 135613.28,
+    "revenuePerUser": 928.86,
+    "sharePct": 20.9,
+    "avgSessionsPerUser": 2.4,
+    "nightSharePct": 0.8,
+    "weekendSharePct": 68.3
+  },
+  {
+    "segment": "Occasional Chargers",
+    "users": 96,
+    "sessions": 205,
+    "energyKwh": 4568.3,
+    "revenue": 78889.33,
+    "revenuePerUser": 821.76,
+    "sharePct": 12.2,
+    "avgSessionsPerUser": 2.1,
+    "nightSharePct": 0.5,
+    "weekendSharePct": 13.2
+  },
+  {
+    "segment": "Night Chargers",
+    "users": 87,
+    "sessions": 260,
+    "energyKwh": 6961.6,
+    "revenue": 77517.39,
+    "revenuePerUser": 891.0,
+    "sharePct": 11.9,
+    "avgSessionsPerUser": 3.0,
+    "nightSharePct": 93.1,
+    "weekendSharePct": 26.9
+  },
+  {
+    "segment": "Fleet & Logistics",
+    "users": 6,
+    "sessions": 378,
+    "energyKwh": 4577.1,
+    "revenue": 69173.81,
+    "revenuePerUser": 11528.97,
+    "sharePct": 10.7,
+    "avgSessionsPerUser": 63.0,
+    "nightSharePct": 55.3,
+    "weekendSharePct": 22.5
+  },
+  {
+    "segment": "Light-EV Riders",
+    "users": 84,
+    "sessions": 436,
+    "energyKwh": 2092.1,
+    "revenue": 27126.41,
+    "revenuePerUser": 322.93,
+    "sharePct": 4.2,
+    "avgSessionsPerUser": 5.2,
+    "nightSharePct": 1.6,
+    "weekendSharePct": 18.6
+  }
+]

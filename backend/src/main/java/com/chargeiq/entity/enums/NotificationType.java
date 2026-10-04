@@ -1,0 +1,6 @@
+package com.chargeiq.entity.enums;
+
+public enum NotificationType {
+    RECHARGE_REMINDER, BOOKING_CONFIRMED, BOOKING_CANCELLED, WAITLIST_PROMOTED,
+    BOOKING_SOON, CHARGE_COMPLETE, NO_SHOW, SYSTEM
+}

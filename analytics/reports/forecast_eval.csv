@@ -1,0 +1,19 @@
+zone,model,MAE,RMSE,MAPE_pct
+ALL,"Holt-Winters (damped, w=7)",6.347,7.619,26.21
+ALL,Seasonal naive (t-7),11.107,13.927,47.09
+ALL,7-day moving average,6.179,7.327,26.09
+BKC,"Holt-Winters (damped, w=7)",1.442,1.779,39.59
+BKC,Seasonal naive (t-7),2.286,2.752,62.31
+BKC,7-day moving average,1.388,1.729,39.22
+Thane West,"Holt-Winters (damped, w=7)",1.346,1.603,46.76
+Thane West,Seasonal naive (t-7),1.929,2.299,74.01
+Thane West,7-day moving average,1.276,1.512,46.24
+Powai,"Holt-Winters (damped, w=7)",1.232,1.477,42.9
+Powai,Seasonal naive (t-7),2.036,2.57,74.31
+Powai,7-day moving average,1.199,1.486,37.99
+Andheri East,"Holt-Winters (damped, w=7)",1.313,1.677,66.21
+Andheri East,Seasonal naive (t-7),1.536,2.353,78.15
+Andheri East,7-day moving average,1.372,1.637,77.06
+Vashi,"Holt-Winters (damped, w=7)",1.325,1.742,49.08
+Vashi,Seasonal naive (t-7),1.893,2.486,86.54
+Vashi,7-day moving average,1.362,1.586,65.03

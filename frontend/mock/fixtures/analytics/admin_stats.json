@@ -1,0 +1,31 @@
+{
+  "counts": {
+    "users": 656,
+    "operators": 8,
+    "fleets": 6,
+    "stations": 32,
+    "charging_points": 103,
+    "vehicles": 701,
+    "bookings": 9542,
+    "charging_sessions": 7789,
+    "reviews": 1718,
+    "wallets": 656,
+    "payments": 9200,
+    "notifications": 156,
+    "funnel_events": 54422,
+    "weather_daily": 375,
+    "holidays": 18,
+    "demand_forecast": 5376,
+    "network_forecast": 252,
+    "dw_fact_session": 7789,
+    "dw_fact_booking": 9542,
+    "dw_dim_date": 457,
+    "dw_dim_station": 32,
+    "dw_dim_user": 656,
+    "dw_dim_vehicle": 701
+  },
+  "bookingsToday": 48,
+  "bookingsLive": 261,
+  "now": "2026-10-03T09:30:00",
+  "clockMode": "FIXED"
+}

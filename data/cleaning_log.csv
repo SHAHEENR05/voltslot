@@ -1,0 +1,51 @@
+issue_type,table,column,rows_fixed,method
+10x outlier,bookings,est_energy_kwh,27,value > 120 kWh (no EV battery that big) divided by 10
+duplicate rows,bookings,booking_code,139,drop_duplicates on booking_code
+inconsistent categorical spelling,bookings,status,1951,mapped to canonical code
+inconsistent categorical spelling,bookings,source,1542,mapped to canonical code
+inconsistent categorical spelling,bookings,connector_type,2660,mapped to canonical code
+leading/trailing spaces,bookings,booking_code,289,str.strip()
+missing value,bookings,source,100,imputed with mode 'WEB'
+missing value,bookings,connector_type,282,derived from charging_points.connector_type_id
+missing value,bookings,slots,176,derived from (end_time - start_time) / 30 min
+missing value,bookings,end_time,268,derived as start_time + slots*30 min
+missing value (two derivations lost),bookings,slots,2,imputed with the charging point's median slots
+mixed date format,bookings,start_time,1634,"parsed DD/MM/YYYY and ISO, normalised to ISO datetime"
+mixed date format,bookings,end_time,1692,"parsed DD/MM/YYYY and ISO, normalised to ISO datetime"
+mixed date format,bookings,created_at,1628,"parsed DD/MM/YYYY and ISO, normalised to ISO datetime"
+negative outlier,bookings,est_energy_kwh,43,abs()
+"placeholder token (N/A, -, blank)",bookings,source,100,converted to NULL
+"placeholder token (N/A, -, blank)",bookings,slots,176,converted to NULL
+10x outlier,charging_sessions,energy_kwh,38,energy 5x above amount/tariff (or > 120 kWh) divided by 10
+duplicate rows,charging_sessions,booking_id,77,drop_duplicates on booking_id
+missing value,charging_sessions,amount,199,recomputed as energy_kwh * tariff
+missing value,charging_sessions,ended_at,150,estimated as started_at + energy/avg_kw (+3 min handshake)
+mixed date format,charging_sessions,started_at,1572,"parsed DD/MM/YYYY and ISO, normalised to ISO datetime"
+mixed date format,charging_sessions,ended_at,1576,"parsed DD/MM/YYYY and ISO, normalised to ISO datetime"
+negative outlier,charging_sessions,energy_kwh,40,abs()
+"placeholder token (N/A, -, blank)",charging_sessions,amount,199,converted to NULL
+duplicate rows,reviews,id,34,drop_duplicates on id
+extra spaces,reviews,comment,227,strip + collapse double spaces
+missing value,reviews,rating,22,imputed with the station's median rating
+mixed date format,reviews,created_at,328,"parsed DD/MM/YYYY and ISO, normalised to ISO datetime"
+rating stored as text,reviews,rating,249,'4 stars' / '4.0' -> int 4
+duplicate rows,stations,id,1,drop_duplicates on id
+inconsistent categorical spelling,stations,zone,1,mapped to canonical zone name
+inconsistent categorical spelling,stations,city,3,mapped to canonical city name
+inconsistent categorical spelling,stations,tier,7,upper()
+leading/trailing spaces,stations,name,9,str.strip()
+missing value,stations,avg_rating,2,recomputed as mean of cleaned reviews.rating
+"placeholder token (N/A, -, blank)",stations,avg_rating,2,converted to NULL
+swapped latitude/longitude,stations,latitude/longitude,3,lat > 60 -> swapped back
+unit suffix in numeric column,stations,uptime_pct,4,stripped '%' and cast to float
+duplicate rows,users,id,9,drop_duplicates on id
+inconsistent case / spaces,users,email,35,strip + lower
+inconsistent case / spaces,users,full_name,31,strip + Title Case
+inconsistent categorical spelling,users,role,43,strip + upper
+inconsistent categorical spelling,users,status,29,strip + upper
+missing value,users,city,13,derived from nearest station's city using home lat/lon
+mixed date format,users,created_at,140,"parsed DD/MM/YYYY and ISO, normalised to ISO datetime"
+phone format variants,users,phone,294,normalised to '+91 xxxxx xxxxx'
+"placeholder token (N/A, -, blank)",users,phone,12,converted to NULL
+"placeholder token (N/A, -, blank)",users,city,13,converted to NULL
+swapped latitude/longitude,users,home_lat/home_lon,4,lat > 60 -> swapped back

@@ -1,0 +1,48 @@
+#!/bin/sh
+# ----------------------------------------------------------------------------
+# VoltSlot Maven wrapper (POSIX sh). No jar is needed in the repo:
+#   1. reads distributionUrl from .mvn/wrapper/maven-wrapper.properties
+#   2. downloads Apache Maven (once) into  ${MAVEN_USER_HOME:-~/.m2}/wrapper/dists
+#   3. runs it with the arguments you passed, e.g.  ./mvnw spring-boot:run
+# Set MVNW_USE_SYSTEM=1 to use a Maven that is already on the PATH instead.
+# ----------------------------------------------------------------------------
+set -eu
+
+BASE_DIR=$(cd "$(dirname "$0")" && pwd)
+PROPS="$BASE_DIR/.mvn/wrapper/maven-wrapper.properties"
+DEFAULT_URL="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.9.9/apache-maven-3.9.9-bin.tar.gz"
+
+if [ "${MVNW_USE_SYSTEM:-0}" = "1" ] && command -v mvn >/dev/null 2>&1; then
+  exec mvn "$@"
+fi
+
+URL="$DEFAULT_URL"
+if [ -f "$PROPS" ]; then
+  FROM_FILE=$(sed -n 's/^distributionUrl=//p' "$PROPS" | tr -d '\r' | head -n 1)
+  [ -n "$FROM_FILE" ] && URL="$FROM_FILE"
+fi
+
+ARCHIVE=$(basename "$URL")                 # apache-maven-3.9.9-bin.tar.gz
+NAME=${ARCHIVE%-bin.tar.gz}                # apache-maven-3.9.9
+HASH=$(printf '%s' "$URL" | cksum | cut -d' ' -f1)
+MAVEN_HOME_DIR="${MAVEN_USER_HOME:-$HOME/.m2}/wrapper/dists/$NAME/$HASH"
+MVN_BIN="$MAVEN_HOME_DIR/$NAME/bin/mvn"
+
+if [ ! -x "$MVN_BIN" ]; then
+  echo "[mvnw] Downloading $URL" >&2
+  mkdir -p "$MAVEN_HOME_DIR"
+  TMP_FILE="$MAVEN_HOME_DIR/$ARCHIVE.part"
+  if command -v curl >/dev/null 2>&1; then
+    curl -fsSL -o "$TMP_FILE" "$URL"
+  elif command -v wget >/dev/null 2>&1; then
+    wget -q -O "$TMP_FILE" "$URL"
+  else
+    echo "[mvnw] ERROR: neither curl nor wget is installed" >&2
+    exit 1
+  fi
+  tar -xzf "$TMP_FILE" -C "$MAVEN_HOME_DIR"
+  rm -f "$TMP_FILE"
+  chmod +x "$MVN_BIN" 2>/dev/null || true
+fi
+
+exec "$MVN_BIN" "$@"

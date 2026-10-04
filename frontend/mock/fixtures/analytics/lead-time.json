@@ -1,0 +1,56 @@
+[
+  {
+    "order": 1,
+    "bucket": "Walk-in (0 h)",
+    "bookings": 482,
+    "sharePct": 18.5,
+    "avgRevenue": 311.14,
+    "cancellationRatePct": 0.0,
+    "noShowRatePct": 0.0
+  },
+  {
+    "order": 2,
+    "bucket": "< 2 h",
+    "bookings": 50,
+    "sharePct": 1.9,
+    "avgRevenue": 326.2,
+    "cancellationRatePct": 12.0,
+    "noShowRatePct": 4.0
+  },
+  {
+    "order": 3,
+    "bucket": "2-6 h",
+    "bookings": 233,
+    "sharePct": 8.9,
+    "avgRevenue": 316.98,
+    "cancellationRatePct": 9.5,
+    "noShowRatePct": 5.2
+  },
+  {
+    "order": 4,
+    "bucket": "6-24 h",
+    "bookings": 1344,
+    "sharePct": 51.6,
+    "avgRevenue": 295.13,
+    "cancellationRatePct": 10.6,
+    "noShowRatePct": 5.7
+  },
+  {
+    "order": 5,
+    "bucket": "1-3 days",
+    "bookings": 279,
+    "sharePct": 10.7,
+    "avgRevenue": 284.09,
+    "cancellationRatePct": 7.7,
+    "noShowRatePct": 6.5
+  },
+  {
+    "order": 6,
+    "bucket": "> 3 days",
+    "bookings": 216,
+    "sharePct": 8.3,
+    "avgRevenue": 349.7,
+    "cancellationRatePct": 7.4,
+    "noShowRatePct": 8.4
+  }
+]

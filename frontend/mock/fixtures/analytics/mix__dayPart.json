@@ -1,0 +1,37 @@
+[
+  {
+    "label": "NIGHT",
+    "sessions": 222,
+    "sharePct": 10.0,
+    "energyKwh": 4288.5,
+    "revenue": 51165.65
+  },
+  {
+    "label": "MORNING",
+    "sessions": 544,
+    "sharePct": 24.4,
+    "energyKwh": 10335.2,
+    "revenue": 165303.91
+  },
+  {
+    "label": "AFTERNOON",
+    "sessions": 480,
+    "sharePct": 21.5,
+    "energyKwh": 9260.4,
+    "revenue": 141992.71
+  },
+  {
+    "label": "EVENING",
+    "sessions": 740,
+    "sharePct": 33.2,
+    "energyKwh": 12760.1,
+    "revenue": 232777.86
+  },
+  {
+    "label": "LATE",
+    "sessions": 245,
+    "sharePct": 11.0,
+    "energyKwh": 5003.6,
+    "revenue": 57641.42
+  }
+]

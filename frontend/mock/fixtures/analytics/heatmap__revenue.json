@@ -1,0 +1,842 @@
+[
+  {
+    "dayOfWeek": 1,
+    "hour": 0,
+    "value": 2390.71
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 1,
+    "value": 902.88
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 2,
+    "value": 483.03
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 3,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 4,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 5,
+    "value": 1198.59
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 6,
+    "value": 3492.19
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 7,
+    "value": 1045.91
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 8,
+    "value": 2966.47
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 9,
+    "value": 6438.81
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 10,
+    "value": 7760.5
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 11,
+    "value": 3823.92
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 12,
+    "value": 2132.79
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 13,
+    "value": 5258.24
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 14,
+    "value": 2686.79
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 15,
+    "value": 1354.13
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 16,
+    "value": 1573.92
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 17,
+    "value": 1557.63
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 18,
+    "value": 8041.99
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 19,
+    "value": 17958.77
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 20,
+    "value": 10371.65
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 21,
+    "value": 2732.75
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 22,
+    "value": 4723.6
+  },
+  {
+    "dayOfWeek": 1,
+    "hour": 23,
+    "value": 4524.99
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 0,
+    "value": 748.89
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 1,
+    "value": 971.47
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 2,
+    "value": 864.13
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 3,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 4,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 5,
+    "value": 1684.52
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 6,
+    "value": 4637.72
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 7,
+    "value": 1917.21
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 8,
+    "value": 3365.77
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 9,
+    "value": 5553.33
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 10,
+    "value": 8165.64
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 11,
+    "value": 2585.23
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 12,
+    "value": 2435.77
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 13,
+    "value": 4154.3
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 14,
+    "value": 3923.0
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 15,
+    "value": 2058.97
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 16,
+    "value": 1985.67
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 17,
+    "value": 4341.9
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 18,
+    "value": 7510.76
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 19,
+    "value": 6984.69
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 20,
+    "value": 5576.53
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 21,
+    "value": 5201.2
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 22,
+    "value": 3554.38
+  },
+  {
+    "dayOfWeek": 2,
+    "hour": 23,
+    "value": 4481.71
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 0,
+    "value": 4124.88
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 1,
+    "value": 1305.37
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 2,
+    "value": 1612.0
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 3,
+    "value": 116.42
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 4,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 5,
+    "value": 2355.73
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 6,
+    "value": 1211.48
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 7,
+    "value": 3216.83
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 8,
+    "value": 1878.76
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 9,
+    "value": 5479.63
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 10,
+    "value": 11563.2
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 11,
+    "value": 5644.13
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 12,
+    "value": 1960.9
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 13,
+    "value": 4648.67
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 14,
+    "value": 5458.82
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 15,
+    "value": 1961.12
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 16,
+    "value": 1991.42
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 17,
+    "value": 4478.92
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 18,
+    "value": 12363.59
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 19,
+    "value": 10397.18
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 20,
+    "value": 7316.84
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 21,
+    "value": 2651.5
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 22,
+    "value": 6653.98
+  },
+  {
+    "dayOfWeek": 3,
+    "hour": 23,
+    "value": 3088.46
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 0,
+    "value": 1947.03
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 1,
+    "value": 2554.22
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 2,
+    "value": 1527.06
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 3,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 4,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 5,
+    "value": 2693.02
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 6,
+    "value": 3739.56
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 7,
+    "value": 2981.27
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 8,
+    "value": 2442.75
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 9,
+    "value": 8504.99
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 10,
+    "value": 9227.37
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 11,
+    "value": 4361.77
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 12,
+    "value": 3075.76
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 13,
+    "value": 4565.31
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 14,
+    "value": 5703.59
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 15,
+    "value": 2989.54
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 16,
+    "value": 526.87
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 17,
+    "value": 2884.77
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 18,
+    "value": 13093.77
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 19,
+    "value": 12643.92
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 20,
+    "value": 8083.98
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 21,
+    "value": 6997.66
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 22,
+    "value": 4387.04
+  },
+  {
+    "dayOfWeek": 4,
+    "hour": 23,
+    "value": 5800.37
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 0,
+    "value": 3635.77
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 1,
+    "value": 2623.49
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 2,
+    "value": 453.66
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 3,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 4,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 5,
+    "value": 811.01
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 6,
+    "value": 2139.9
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 7,
+    "value": 2325.9
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 8,
+    "value": 2146.5
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 9,
+    "value": 6796.32
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 10,
+    "value": 4932.55
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 11,
+    "value": 5793.8
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 12,
+    "value": 1522.42
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 13,
+    "value": 3123.16
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 14,
+    "value": 2832.61
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 15,
+    "value": 3690.4
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 16,
+    "value": 1469.32
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 17,
+    "value": 3593.93
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 18,
+    "value": 8226.22
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 19,
+    "value": 12522.45
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 20,
+    "value": 9389.38
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 21,
+    "value": 4618.58
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 22,
+    "value": 2519.97
+  },
+  {
+    "dayOfWeek": 5,
+    "hour": 23,
+    "value": 4381.09
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 0,
+    "value": 2249.63
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 1,
+    "value": 2693.47
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 2,
+    "value": 1541.5
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 3,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 4,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 5,
+    "value": 1507.16
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 6,
+    "value": 902.81
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 7,
+    "value": 986.8
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 8,
+    "value": 1204.73
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 9,
+    "value": 3157.62
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 10,
+    "value": 3685.68
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 11,
+    "value": 5630.73
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 12,
+    "value": 6452.52
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 13,
+    "value": 7562.66
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 14,
+    "value": 6259.95
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 15,
+    "value": 5439.5
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 16,
+    "value": 5298.34
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 17,
+    "value": 3984.82
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 18,
+    "value": 5629.99
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 19,
+    "value": 8476.47
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 20,
+    "value": 3983.91
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 21,
+    "value": 3453.66
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 22,
+    "value": 3363.46
+  },
+  {
+    "dayOfWeek": 6,
+    "hour": 23,
+    "value": 3438.49
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 0,
+    "value": 3540.69
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 1,
+    "value": 3750.1
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 2,
+    "value": 431.38
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 3,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 4,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 5,
+    "value": 447.84
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 6,
+    "value": 1740.64
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 7,
+    "value": 0.0
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 8,
+    "value": 530.26
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 9,
+    "value": 3635.02
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 10,
+    "value": 3771.85
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 11,
+    "value": 3918.36
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 12,
+    "value": 8001.21
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 13,
+    "value": 8094.57
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 14,
+    "value": 5231.34
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 15,
+    "value": 11661.51
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 16,
+    "value": 4907.62
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 17,
+    "value": 4231.63
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 18,
+    "value": 5793.46
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 19,
+    "value": 4614.46
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 20,
+    "value": 1046.2
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 21,
+    "value": 2022.7
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 22,
+    "value": 3302.11
+  },
+  {
+    "dayOfWeek": 7,
+    "hour": 23,
+    "value": 3421.77
+  }
+]

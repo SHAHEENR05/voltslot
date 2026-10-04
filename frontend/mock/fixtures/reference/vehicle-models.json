@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "make": "Tata",
+    "model": "Nexon EV",
+    "variant": "Long Range",
+    "category": "CAR",
+    "batteryKwh": 40.5,
+    "acMaxKw": 7.2,
+    "dcMaxKw": 50.0,
+    "rangeKm": 330,
+    "kmPerKwh": 7.0,
+    "connectorCodes": [
+      "CCS2",
+      "TYPE2"
+    ]
+  },
+  {
+    "id": 2,
+    "make": "Tata",
+    "model": "Tiago EV",
+    "variant": "Long Range",
+    "category": "CAR",
+    "batteryKwh": 24.0,
+    "acMaxKw": 7.2,
+    "dcMaxKw": 25.0,
+    "rangeKm": 230,
+    "kmPerKwh": 8.0,
+    "connectorCodes": [
+      "CCS2",
+      "TYPE2"
+    ]
+  },
+  {
+    "id": 3,
+    "make": "Tata",
+    "model": "Punch EV",
+    "variant": "Empowered LR",
+    "category": "CAR",
+    "batteryKwh": 35.0,
+    "acMaxKw": 7.2,
+    "dcMaxKw": 50.0,
+    "rangeKm": 300,
+    "kmPerKwh": 7.5,
+    "connectorCodes": [
+      "CCS2",
+      "TYPE2"
+    ]
+  },
+  {
+    "id": 4,
+    "make": "MG",
+    "model": "ZS EV",
+    "variant": "Exclusive",
+    "category": "CAR",
+    "batteryKwh": 50.3,
+    "acMaxKw": 7.4,
+    "dcMaxKw": 76.0,
+    "rangeKm": 350,
+    "kmPerKwh": 6.2,
+    "connectorCodes": [
+      "CCS2",
+      "TYPE2",
+      "CHADEMO"
+    ]
+  },
+  {
+    "id": 5,
+    "make": "MG",
+    "model": "Comet EV",
+    "variant": "Plush",
+    "category": "CAR",
+    "batteryKwh": 17.3,
+    "acMaxKw": 3.3,
+    "dcMaxKw": 0.0,
+    "rangeKm": 180,
+    "kmPerKwh": 10.0,
+    "connectorCodes": [
+      "TYPE2"
+    ]
+  },
+  {
+    "id": 6,
+    "make": "Mahindra",
+    "model": "XUV400 EL",
+    "variant": "EL Pro",
+    "category": "CAR",
+    "batteryKwh": 39.4,
+    "acMaxKw": 7.2,
+    "dcMaxKw": 50.0,
+    "rangeKm": 320,
+    "kmPerKwh": 7.5,
+    "connectorCodes": [
+      "CCS2",
+      "TYPE2"
+    ]
+  },
+  {
+    "id": 7,
+    "make": "Hyundai",
+    "model": "Kona Electric",
+    "variant": "Premium",
+    "category": "CAR",
+    "batteryKwh": 39.2,
+    "acMaxKw": 7.2,
+    "dcMaxKw": 50.0,
+    "rangeKm": 300,
+    "kmPerKwh": 7.0,
+    "connectorCodes": [
+      "CCS2",
+      "TYPE2",
+      "CHADEMO"
+    ]
+  },
+  {
+    "id": 8,
+    "make": "BYD",
+    "model": "Atto 3",
+    "variant": "Superior",
+    "category": "CAR",
+    "batteryKwh": 60.5,
+    "acMaxKw": 7.0,
+    "dcMaxKw": 88.0,
+    "rangeKm": 420,
+    "kmPerKwh": 6.0,
+    "connectorCodes": [
+      "CCS2",
+      "TYPE2"
+    ]
+  },
+  {
+    "id": 9,
+    "make": "Ather",
+    "model": "450X",
+    "variant": "Gen 3",
+    "category": "TWO_WHEELER",
+    "batteryKwh": 3.7,
+    "acMaxKw": 0.0,
+    "dcMaxKw": 3.0,
+    "rangeKm": 105,
+    "kmPerKwh": 28.0,
+    "connectorCodes": [
+      "LECCS"
+    ]
+  },
+  {
+    "id": 10,
+    "make": "Ola",
+    "model": "S1 Pro",
+    "variant": "Gen 2",
+    "category": "TWO_WHEELER",
+    "batteryKwh": 4.0,
+    "acMaxKw": 0.0,
+    "dcMaxKw": 3.0,
+    "rangeKm": 120,
+    "kmPerKwh": 28.0,
+    "connectorCodes": [
+      "LECCS"
+    ]
+  },
+  {
+    "id": 11,
+    "make": "TVS",
+    "model": "iQube ST",
+    "variant": "ST",
+    "category": "TWO_WHEELER",
+    "batteryKwh": 3.4,
+    "acMaxKw": 0.0,
+    "dcMaxKw": 3.0,
+    "rangeKm": 100,
+    "kmPerKwh": 28.0,
+    "connectorCodes": [
+      "LECCS"
+    ]
+  },
+  {
+    "id": 12,
+    "make": "Tata",
+    "model": "Ace EV",
+    "variant": "Cargo",
+    "category": "LCV",
+    "batteryKwh": 21.3,
+    "acMaxKw": 3.3,
+    "dcMaxKw": 25.0,
+    "rangeKm": 150,
+    "kmPerKwh": 5.0,
+    "connectorCodes": [
+      "CCS2",
+      "TYPE2"
+    ]
+  },
+  {
+    "id": 13,
+    "make": "Mahindra",
+    "model": "Treo",
+    "variant": "Auto",
+    "category": "THREE_WHEELER",
+    "batteryKwh": 7.4,
+    "acMaxKw": 0.0,
+    "dcMaxKw": 7.5,
+    "rangeKm": 120,
+    "kmPerKwh": 14.0,
+    "connectorCodes": [
+      "LECCS",
+      "BHARAT_DC"
+    ]
+  }
+]

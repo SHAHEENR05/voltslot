@@ -1,0 +1,76 @@
+erDiagram
+    dw_dim_date ||--o{ dw_fact_session : date_key
+    dw_dim_time ||--o{ dw_fact_session : "time_key (hour)"
+    dw_dim_station ||--o{ dw_fact_session : station_key
+    dw_dim_user ||--o{ dw_fact_session : user_key
+    dw_dim_vehicle ||--o{ dw_fact_session : vehicle_key
+    dw_dim_connector ||--o{ dw_fact_session : connector_key
+    dw_dim_date ||--o{ dw_fact_booking : date_key
+    dw_dim_time ||--o{ dw_fact_booking : time_key
+    dw_dim_station ||--o{ dw_fact_booking : station_key
+    dw_dim_user ||--o{ dw_fact_booking : user_key
+    dw_dim_vehicle ||--o{ dw_fact_booking : vehicle_key
+    dw_dim_connector ||--o{ dw_fact_booking : connector_key
+
+    dw_fact_session { bigint session_id PK
+      bigint booking_id
+      int date_key FK
+      int time_key FK
+      bigint station_key FK
+      bigint user_key FK
+      bigint vehicle_key FK
+      bigint connector_key FK
+      varchar source
+      double energy_kwh
+      int duration_min
+      decimal revenue
+      decimal effective_tariff
+      double lead_time_hours
+      double co2_avoided_kg }
+    dw_fact_booking { bigint booking_id PK
+      int date_key FK
+      int time_key FK
+      bigint station_key FK
+      bigint user_key FK
+      bigint vehicle_key FK
+      bigint connector_key FK
+      varchar status
+      varchar source
+      double lead_time_hours
+      int slots
+      decimal est_revenue }
+    dw_dim_date { int date_key PK
+      date full_date
+      varchar month_key
+      int quarter_num
+      int day_of_week
+      boolean is_weekend
+      boolean is_holiday
+      double rainfall_mm
+      varchar weather_label }
+    dw_dim_time { int time_key PK
+      varchar hour_label
+      varchar day_part
+      varchar pricing_band
+      decimal multiplier }
+    dw_dim_station { bigint station_key PK
+      varchar station_name
+      varchar zone
+      varchar operator_name
+      varchar tier
+      int num_points
+      double max_kw }
+    dw_dim_user { bigint user_key PK
+      varchar role
+      varchar city
+      varchar signup_month
+      varchar segment }
+    dw_dim_vehicle { bigint vehicle_key PK
+      varchar make
+      varchar model
+      varchar category
+      double battery_kwh
+      boolean is_fleet }
+    dw_dim_connector { bigint connector_key PK
+      varchar code
+      varchar current_type }

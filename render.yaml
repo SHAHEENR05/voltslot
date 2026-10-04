@@ -1,0 +1,20 @@
+# Render Blueprint: one free Docker web service. The database lives on Aiven (free MySQL) – see docs/DEPLOY_FREE.md
+services:
+  - type: web
+    name: voltslot
+    runtime: docker
+    plan: free
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    healthCheckPath: /api/clock
+    envVars:
+      - key: DB_URL
+        sync: false        # paste the Aiven JDBC URL in the Render dashboard
+      - key: DB_USER
+        sync: false
+      - key: DB_PASSWORD
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: SPRING_PROFILES_ACTIVE
+        value: prod

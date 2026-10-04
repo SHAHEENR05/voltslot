@@ -1,0 +1,16 @@
+[
+  {
+    "label": "HUB",
+    "sessions": 1764,
+    "sharePct": 79.1,
+    "energyKwh": 30924.2,
+    "revenue": 510588.39
+  },
+  {
+    "label": "STANDARD",
+    "sessions": 467,
+    "sharePct": 20.9,
+    "energyKwh": 10723.5,
+    "revenue": 138293.16
+  }
+]

@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
+# Maven wrapper downloads live in ~/.m2/wrapper, never in the repo
+.mvn/wrapper/maven-wrapper.jar
+.env

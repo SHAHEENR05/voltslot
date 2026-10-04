@@ -1,0 +1,37 @@
+[
+  {
+    "label": "CCS2",
+    "sessions": 898,
+    "sharePct": 40.3,
+    "energyKwh": 18072.4,
+    "revenue": 352618.06
+  },
+  {
+    "label": "TYPE2",
+    "sessions": 826,
+    "sharePct": 37.0,
+    "energyKwh": 21510.2,
+    "revenue": 272811.63
+  },
+  {
+    "label": "LECCS",
+    "sessions": 435,
+    "sharePct": 19.5,
+    "energyKwh": 1369.3,
+    "revenue": 12996.34
+  },
+  {
+    "label": "BHARAT_DC",
+    "sessions": 57,
+    "sharePct": 2.6,
+    "energyKwh": 333.2,
+    "revenue": 3971.34
+  },
+  {
+    "label": "CHADEMO",
+    "sessions": 15,
+    "sharePct": 0.7,
+    "energyKwh": 362.6,
+    "revenue": 6484.18
+  }
+]

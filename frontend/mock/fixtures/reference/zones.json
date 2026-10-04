@@ -1,0 +1,122 @@
+[
+  {
+    "zone": "Airport",
+    "stations": 1,
+    "latitude": 19.0931,
+    "longitude": 72.8468
+  },
+  {
+    "zone": "Andheri East",
+    "stations": 1,
+    "latitude": 19.1146,
+    "longitude": 72.8719
+  },
+  {
+    "zone": "BKC",
+    "stations": 1,
+    "latitude": 19.0701,
+    "longitude": 72.8644
+  },
+  {
+    "zone": "Borivali",
+    "stations": 2,
+    "latitude": 19.226,
+    "longitude": 72.8538
+  },
+  {
+    "zone": "Chembur",
+    "stations": 2,
+    "latitude": 19.0548,
+    "longitude": 72.9001
+  },
+  {
+    "zone": "Dadar",
+    "stations": 2,
+    "latitude": 19.0135,
+    "longitude": 72.8482
+  },
+  {
+    "zone": "Dombivli",
+    "stations": 2,
+    "latitude": 19.216,
+    "longitude": 73.0914
+  },
+  {
+    "zone": "Ghatkopar",
+    "stations": 2,
+    "latitude": 19.0835,
+    "longitude": 72.9082
+  },
+  {
+    "zone": "Goregaon",
+    "stations": 2,
+    "latitude": 19.1651,
+    "longitude": 72.8544
+  },
+  {
+    "zone": "Kalyan",
+    "stations": 2,
+    "latitude": 19.2445,
+    "longitude": 73.1316
+  },
+  {
+    "zone": "Kharghar",
+    "stations": 1,
+    "latitude": 19.0434,
+    "longitude": 73.0667
+  },
+  {
+    "zone": "Lower Parel",
+    "stations": 1,
+    "latitude": 18.9916,
+    "longitude": 72.8282
+  },
+  {
+    "zone": "Malad",
+    "stations": 2,
+    "latitude": 19.1825,
+    "longitude": 72.8482
+  },
+  {
+    "zone": "Mulund",
+    "stations": 2,
+    "latitude": 19.1774,
+    "longitude": 72.9463
+  },
+  {
+    "zone": "Nerul",
+    "stations": 2,
+    "latitude": 19.0316,
+    "longitude": 73.0307
+  },
+  {
+    "zone": "Panvel",
+    "stations": 2,
+    "latitude": 18.9875,
+    "longitude": 73.1174
+  },
+  {
+    "zone": "Powai",
+    "stations": 1,
+    "latitude": 19.1207,
+    "longitude": 72.9087
+  },
+  {
+    "zone": "Thane West",
+    "stations": 1,
+    "latitude": 19.2177,
+    "longitude": 72.9757
+  },
+  {
+    "zone": "Vashi",
+    "stations": 1,
+    "latitude": 19.0764,
+    "longitude": 72.9955
+  },
+  {
+    "zone": "Worli",
+    "stations": 2,
+    "latitude": 19.0177,
+    "longitude": 72.8179
+  }
+]

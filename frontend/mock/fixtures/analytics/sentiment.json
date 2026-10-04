@@ -1,0 +1,242 @@
+{
+  "reviews": 508,
+  "avgRating": 4.07,
+  "avgSentiment": 0.21,
+  "labels": [
+    {
+      "label": "POSITIVE",
+      "count": 355,
+      "pct": 69.9
+    },
+    {
+      "label": "NEUTRAL",
+      "count": 80,
+      "pct": 15.7
+    },
+    {
+      "label": "NEGATIVE",
+      "count": 73,
+      "pct": 14.4
+    }
+  ],
+  "positiveKeywords": [
+    {
+      "word": "great",
+      "freq": 329
+    },
+    {
+      "word": "charging",
+      "freq": 322
+    },
+    {
+      "word": "parking",
+      "freq": 308
+    },
+    {
+      "word": "worked",
+      "freq": 306
+    },
+    {
+      "word": "app",
+      "freq": 293
+    },
+    {
+      "word": "easy",
+      "freq": 281
+    },
+    {
+      "word": "payment",
+      "freq": 254
+    },
+    {
+      "word": "charger",
+      "freq": 246
+    },
+    {
+      "word": "well",
+      "freq": 234
+    },
+    {
+      "word": "booking",
+      "freq": 217
+    },
+    {
+      "word": "quick",
+      "freq": 208
+    },
+    {
+      "word": "clear",
+      "freq": 193
+    }
+  ],
+  "negativeKeywords": [
+    {
+      "word": "connector",
+      "freq": 82
+    },
+    {
+      "word": "parking",
+      "freq": 76
+    },
+    {
+      "word": "dirty",
+      "freq": 62
+    },
+    {
+      "word": "bad",
+      "freq": 61
+    },
+    {
+      "word": "booking",
+      "freq": 60
+    },
+    {
+      "word": "bay",
+      "freq": 57
+    },
+    {
+      "word": "payment",
+      "freq": 50
+    },
+    {
+      "word": "long",
+      "freq": 47
+    },
+    {
+      "word": "worked",
+      "freq": 46
+    },
+    {
+      "word": "terrible",
+      "freq": 42
+    },
+    {
+      "word": "app",
+      "freq": 41
+    },
+    {
+      "word": "twice",
+      "freq": 40
+    }
+  ],
+  "worstStations": [
+    {
+      "stationId": 20,
+      "name": "VoltGrid Ghatkopar Palm Court",
+      "zone": "Ghatkopar",
+      "reviews": 11,
+      "avgRating": 2.18,
+      "avgSentiment": -0.21,
+      "negativePct": 54.5
+    },
+    {
+      "stationId": 7,
+      "name": "MetroCharge Airport Hub – Sahar Link Rd",
+      "zone": "Airport",
+      "reviews": 34,
+      "avgRating": 4.03,
+      "avgSentiment": 0.15,
+      "negativePct": 20.6
+    },
+    {
+      "stationId": 8,
+      "name": "EcoJuice Kharghar Hub – Central Park Rd",
+      "zone": "Kharghar",
+      "reviews": 44,
+      "avgRating": 4.0,
+      "avgSentiment": 0.19,
+      "negativePct": 22.7
+    },
+    {
+      "stationId": 3,
+      "name": "AmpereHub Thane West Hub – Ghodbunder Rd",
+      "zone": "Thane West",
+      "reviews": 75,
+      "avgRating": 4.28,
+      "avgSentiment": 0.21,
+      "negativePct": 9.3
+    },
+    {
+      "stationId": 2,
+      "name": "ChargeNest Powai Hub – Lakeside",
+      "zone": "Powai",
+      "reviews": 64,
+      "avgRating": 3.98,
+      "avgSentiment": 0.22,
+      "negativePct": 10.9
+    }
+  ],
+  "bestStations": [
+    {
+      "stationId": 17,
+      "name": "MetroCharge Goregaon Atlas Mall",
+      "zone": "Goregaon",
+      "reviews": 5,
+      "avgRating": 4.8,
+      "avgSentiment": 0.42,
+      "negativePct": 0.0
+    },
+    {
+      "stationId": 12,
+      "name": "EcoJuice Dadar Silver Oak Society",
+      "zone": "Dadar",
+      "reviews": 5,
+      "avgRating": 4.6,
+      "avgSentiment": 0.31,
+      "negativePct": 0.0
+    },
+    {
+      "stationId": 32,
+      "name": "GreenPlug Dombivli Greenfield Residency",
+      "zone": "Dombivli",
+      "reviews": 6,
+      "avgRating": 3.83,
+      "avgSentiment": 0.31,
+      "negativePct": 0.0
+    },
+    {
+      "stationId": 16,
+      "name": "AmpereHub Malad Sunrise Arcade",
+      "zone": "Malad",
+      "reviews": 6,
+      "avgRating": 4.17,
+      "avgSentiment": 0.3,
+      "negativePct": 0.0
+    },
+    {
+      "stationId": 4,
+      "name": "GreenPlug Lower Parel Hub – Mill Compound",
+      "zone": "Lower Parel",
+      "reviews": 20,
+      "avgRating": 4.2,
+      "avgSentiment": 0.3,
+      "negativePct": 5.0
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-07",
+      "reviews": 125,
+      "avgRating": 4.13,
+      "avgSentiment": 0.23
+    },
+    {
+      "month": "2026-08",
+      "reviews": 177,
+      "avgRating": 4.07,
+      "avgSentiment": 0.22
+    },
+    {
+      "month": "2026-09",
+      "reviews": 176,
+      "avgRating": 4.08,
+      "avgSentiment": 0.2
+    },
+    {
+      "month": "2026-10",
+      "reviews": 30,
+      "avgRating": 3.77,
+      "avgSentiment": 0.13
+    }
+  ]
+}

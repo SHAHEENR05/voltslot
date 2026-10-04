@@ -1,0 +1,42 @@
+[
+  {
+    "category": "REVENUE",
+    "text": "Revenue was ₹6,48,882 from 2,231 sessions, up 12.1% on the previous period."
+  },
+  {
+    "category": "DEMAND",
+    "text": "The busiest hour is 19:00-20:00 with 10.0% of all sessions; Thursday is the busiest weekday (16.7%) and weekends carry 25.8% of sessions."
+  },
+  {
+    "category": "ZONE",
+    "text": "BKC is the top-earning zone with ₹1,17,883 (14.8% of sessions) across 1 station."
+  },
+  {
+    "category": "GROWTH",
+    "text": "Goregaon is the fastest-growing zone: sessions in the last 30 days are up 69.2% versus the 30 days before."
+  },
+  {
+    "category": "WEATHER",
+    "text": "Rainy days see 9.7% fewer sessions than comparable dry days (heavy rain: -22.1%); public holidays shift demand by -10.2% versus a normal day of the same type."
+  },
+  {
+    "category": "BOOKING",
+    "text": "No-shows are 4.8% and cancellations 8.0% of resolved bookings; bookings made > 3 days ahead are the riskiest (8.4% no-show)."
+  },
+  {
+    "category": "UTILISATION",
+    "text": "13 stations run below half of the average utilisation (2.1%), e.g. GreenPlug Worli Maple Heights, MetroCharge Worli Harbour View Complex, MetroCharge Goregaon Atlas Mall - candidates for promotions or re-siting."
+  },
+  {
+    "category": "MIX",
+    "text": "CCS2 is the most used connector with 40.3% of sessions and ₹3,52,618 revenue."
+  },
+  {
+    "category": "FUNNEL",
+    "text": "The biggest drop-off in the booking funnel is SELECT_SLOT -> BOOK: only 75.5% continue."
+  },
+  {
+    "category": "SENTIMENT",
+    "text": "14.4% of 508 reviews are negative (average rating 4.07/5); the most frequent complaint keyword is \"connector\"."
+  }
+]

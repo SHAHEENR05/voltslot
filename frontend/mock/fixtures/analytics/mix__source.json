@@ -1,0 +1,37 @@
+[
+  {
+    "label": "WEB",
+    "sessions": 1227,
+    "sharePct": 55.0,
+    "energyKwh": 25015.8,
+    "revenue": 390420.64
+  },
+  {
+    "label": "WALK_IN",
+    "sessions": 482,
+    "sharePct": 21.6,
+    "energyKwh": 9182.3,
+    "revenue": 144365.17
+  },
+  {
+    "label": "FLEET",
+    "sessions": 349,
+    "sharePct": 15.6,
+    "energyKwh": 4188.9,
+    "revenue": 63127.83
+  },
+  {
+    "label": "REMINDER",
+    "sessions": 169,
+    "sharePct": 7.6,
+    "energyKwh": 3227.8,
+    "revenue": 50452.16
+  },
+  {
+    "label": "WAITLIST",
+    "sessions": 4,
+    "sharePct": 0.2,
+    "energyKwh": 32.9,
+    "revenue": 515.75
+  }
+]

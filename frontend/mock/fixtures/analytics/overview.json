@@ -1,0 +1,230 @@
+{
+  "from": "2026-07-06",
+  "to": "2026-10-03",
+  "kpis": {
+    "sessions": 2231,
+    "energyKwh": 41647.7,
+    "revenue": 648881.55,
+    "avgSessionKwh": 18.67,
+    "avgDurationMin": 146.7,
+    "utilizationPct": 2.45,
+    "uniqueUsers": 499,
+    "bookings": 2702,
+    "cancellationRatePct": 8.0,
+    "noShowRatePct": 4.8,
+    "co2AvoidedKg": 33839.2,
+    "avgLeadHours": 22.5,
+    "peakHour": 19
+  },
+  "previous": {
+    "sessions": 2021,
+    "energyKwh": 37563.8,
+    "revenue": 578788.29,
+    "avgSessionKwh": 18.59,
+    "avgDurationMin": 148.1,
+    "utilizationPct": 2.24,
+    "uniqueUsers": 470,
+    "bookings": 2405,
+    "cancellationRatePct": 7.3,
+    "noShowRatePct": 5.5,
+    "co2AvoidedKg": 30442.4,
+    "avgLeadHours": 23.1,
+    "peakHour": 19
+  },
+  "deltaPct": {
+    "sessions": 10.4,
+    "energyKwh": 10.9,
+    "revenue": 12.1,
+    "avgSessionKwh": 0.4,
+    "avgDurationMin": -0.9,
+    "utilizationPct": 9.4,
+    "uniqueUsers": 6.2,
+    "bookings": 12.3,
+    "cancellationRatePct": 9.6,
+    "noShowRatePct": -12.7,
+    "co2AvoidedKg": 11.2,
+    "avgLeadHours": -2.6
+  },
+  "sparkline": [
+    {
+      "date": "2026-09-04",
+      "sessions": 23,
+      "revenue": 4512.59,
+      "energyKwh": 342.2
+    },
+    {
+      "date": "2026-09-05",
+      "sessions": 31,
+      "revenue": 9539.19,
+      "energyKwh": 619.3
+    },
+    {
+      "date": "2026-09-06",
+      "sessions": 26,
+      "revenue": 7748.28,
+      "energyKwh": 524.9
+    },
+    {
+      "date": "2026-09-07",
+      "sessions": 34,
+      "revenue": 9702.74,
+      "energyKwh": 591.3
+    },
+    {
+      "date": "2026-09-08",
+      "sessions": 17,
+      "revenue": 4382.02,
+      "energyKwh": 282.6
+    },
+    {
+      "date": "2026-09-09",
+      "sessions": 20,
+      "revenue": 4809.72,
+      "energyKwh": 341.6
+    },
+    {
+      "date": "2026-09-10",
+      "sessions": 12,
+      "revenue": 3714.32,
+      "energyKwh": 196.9
+    },
+    {
+      "date": "2026-09-11",
+      "sessions": 20,
+      "revenue": 5422.92,
+      "energyKwh": 352.0
+    },
+    {
+      "date": "2026-09-12",
+      "sessions": 34,
+      "revenue": 9927.61,
+      "energyKwh": 688.8
+    },
+    {
+      "date": "2026-09-13",
+      "sessions": 34,
+      "revenue": 11147.98,
+      "energyKwh": 723.8
+    },
+    {
+      "date": "2026-09-14",
+      "sessions": 21,
+      "revenue": 5318.49,
+      "energyKwh": 322.0
+    },
+    {
+      "date": "2026-09-15",
+      "sessions": 17,
+      "revenue": 5341.25,
+      "energyKwh": 317.0
+    },
+    {
+      "date": "2026-09-16",
+      "sessions": 41,
+      "revenue": 11846.85,
+      "energyKwh": 789.6
+    },
+    {
+      "date": "2026-09-17",
+      "sessions": 27,
+      "revenue": 8344.2,
+      "energyKwh": 488.4
+    },
+    {
+      "date": "2026-09-18",
+      "sessions": 22,
+      "revenue": 7044.4,
+      "energyKwh": 421.2
+    },
+    {
+      "date": "2026-09-19",
+      "sessions": 18,
+      "revenue": 3910.02,
+      "energyKwh": 227.6
+    },
+    {
+      "date": "2026-09-20",
+      "sessions": 23,
+      "revenue": 7921.68,
+      "energyKwh": 565.8
+    },
+    {
+      "date": "2026-09-21",
+      "sessions": 18,
+      "revenue": 6256.89,
+      "energyKwh": 380.8
+    },
+    {
+      "date": "2026-09-22",
+      "sessions": 26,
+      "revenue": 7004.18,
+      "energyKwh": 469.9
+    },
+    {
+      "date": "2026-09-23",
+      "sessions": 22,
+      "revenue": 5243.96,
+      "energyKwh": 364.0
+    },
+    {
+      "date": "2026-09-24",
+      "sessions": 34,
+      "revenue": 12099.71,
+      "energyKwh": 726.4
+    },
+    {
+      "date": "2026-09-25",
+      "sessions": 25,
+      "revenue": 5808.35,
+      "energyKwh": 391.3
+    },
+    {
+      "date": "2026-09-26",
+      "sessions": 30,
+      "revenue": 8806.09,
+      "energyKwh": 555.4
+    },
+    {
+      "date": "2026-09-27",
+      "sessions": 32,
+      "revenue": 10510.71,
+      "energyKwh": 671.7
+    },
+    {
+      "date": "2026-09-28",
+      "sessions": 28,
+      "revenue": 6063.32,
+      "energyKwh": 395.7
+    },
+    {
+      "date": "2026-09-29",
+      "sessions": 31,
+      "revenue": 8389.67,
+      "energyKwh": 546.9
+    },
+    {
+      "date": "2026-09-30",
+      "sessions": 22,
+      "revenue": 7338.41,
+      "energyKwh": 452.9
+    },
+    {
+      "date": "2026-10-01",
+      "sessions": 41,
+      "revenue": 10625.43,
+      "energyKwh": 684.3
+    },
+    {
+      "date": "2026-10-02",
+      "sessions": 33,
+      "revenue": 10012.12,
+      "energyKwh": 624.2
+    },
+    {
+      "date": "2026-10-03",
+      "sessions": 4,
+      "revenue": 850.71,
+      "energyKwh": 49.6
+    }
+  ]
+}

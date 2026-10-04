@@ -1,0 +1,151 @@
+erDiagram
+    operators ||--o{ stations : "owns"
+    operators ||--o{ users : "staff (OPERATOR role)"
+    fleets ||--o{ users : "managers"
+    fleets ||--o{ vehicles : "fleet vehicles"
+    users ||--o{ vehicles : "owns"
+    users ||--|| wallets : "has one"
+    wallets ||--o{ wallet_transactions : "ledger"
+    vehicle_models ||--o{ vehicles : "is a"
+    vehicle_models ||--o{ vehicle_model_connectors : "accepts"
+    connector_types ||--o{ vehicle_model_connectors : "fits"
+    stations ||--o{ station_amenities : "offers"
+    amenities ||--o{ station_amenities : "listed in"
+    stations ||--o{ charging_points : "has"
+    connector_types ||--o{ charging_points : "plug type"
+    users ||--o{ bookings : "makes"
+    vehicles ||--o{ bookings : "charges"
+    charging_points ||--o{ bookings : "reserved"
+    stations ||--o{ bookings : "at (denormalised)"
+    bookings ||--o{ booking_slots : "occupies 30-min slots"
+    charging_points ||--o{ booking_slots : "UNIQUE(point, slot_start)"
+    bookings ||--o| charging_sessions : "produces"
+    bookings ||--o| payments : "paid by"
+    stations ||--o{ reviews : "reviewed"
+    users ||--o{ reviews : "writes"
+    bookings |o--o{ reviews : "optional link"
+    users ||--o{ waitlist_entries : "waits"
+    vehicles ||--o{ waitlist_entries : "for"
+    stations ||--o{ waitlist_entries : "at"
+    vehicles ||--o| recharge_predictions : "predicted for"
+    users ||--o{ recharge_predictions : "owner"
+    stations |o--o{ recharge_predictions : "preferred station"
+    users ||--o{ notifications : "receives"
+
+    operators { bigint id PK
+      varchar name UK
+      varchar contact_email }
+    fleets { bigint id PK
+      varchar name UK
+      varchar city }
+    users { bigint id PK
+      varchar email UK
+      varchar password_hash
+      varchar role
+      varchar status
+      bigint operator_id FK
+      bigint fleet_id FK
+      boolean reminder_enabled
+      int reminder_lead_hours }
+    wallets { bigint id PK
+      bigint user_id FK,UK
+      decimal balance }
+    wallet_transactions { bigint id PK
+      bigint wallet_id FK
+      varchar txn_type
+      decimal amount
+      decimal balance_after }
+    connector_types { bigint id PK
+      varchar code UK
+      varchar current_type
+      double typical_kw }
+    vehicle_models { bigint id PK
+      varchar make
+      varchar model
+      varchar category
+      double battery_kwh
+      double ac_max_kw
+      double dc_max_kw }
+    vehicle_model_connectors { bigint vehicle_model_id PK,FK
+      bigint connector_type_id PK,FK }
+    vehicles { bigint id PK
+      bigint user_id FK
+      bigint fleet_id FK
+      bigint model_id FK
+      varchar reg_number UK
+      int avg_daily_km }
+    stations { bigint id PK
+      bigint operator_id FK
+      varchar name
+      varchar zone
+      double latitude
+      double longitude
+      varchar tier
+      int open_hour
+      int close_hour
+      double reliability_score }
+    amenities { bigint id PK
+      varchar name UK }
+    station_amenities { bigint station_id PK,FK
+      bigint amenity_id PK,FK }
+    charging_points { bigint id PK
+      bigint station_id FK
+      bigint connector_type_id FK
+      double power_kw
+      decimal tariff_per_kwh
+      varchar status }
+    pricing_bands { int hour_of_day PK
+      varchar band_name
+      decimal multiplier }
+    bookings { bigint id PK
+      varchar booking_code UK
+      bigint user_id FK
+      bigint vehicle_id FK
+      bigint charging_point_id FK
+      bigint station_id FK
+      datetime start_time
+      datetime end_time
+      varchar status
+      varchar source
+      decimal est_cost
+      datetime hold_expires_at }
+    booking_slots { bigint id PK
+      bigint charging_point_id FK
+      datetime slot_start
+      bigint booking_id FK }
+    charging_sessions { bigint id PK
+      bigint booking_id FK,UK
+      double energy_kwh
+      decimal amount
+      double co2_avoided_kg }
+    payments { bigint id PK
+      bigint booking_id FK,UK
+      decimal amount
+      varchar method
+      varchar status
+      varchar invoice_no UK }
+    reviews { bigint id PK
+      bigint station_id FK
+      bigint user_id FK
+      bigint booking_id FK
+      int rating
+      double sentiment_score
+      varchar sentiment_label }
+    waitlist_entries { bigint id PK
+      bigint user_id FK
+      bigint vehicle_id FK
+      bigint station_id FK
+      datetime desired_start
+      varchar status }
+    recharge_predictions { bigint id PK
+      bigint vehicle_id FK,UK
+      bigint user_id FK
+      bigint preferred_station_id FK
+      double median_interval_days
+      double confidence
+      datetime next_due_at }
+    notifications { bigint id PK
+      bigint user_id FK
+      varchar type
+      varchar status
+      boolean is_read }

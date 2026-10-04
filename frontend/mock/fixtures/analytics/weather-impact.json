@@ -1,0 +1,60 @@
+{
+  "byCondition": [
+    {
+      "condition": "CLEAR",
+      "days": 7,
+      "avgSessionsPerDay": 27.6,
+      "avgRevenuePerDay": 8048.57,
+      "adjustedImpactPct": 6.0
+    },
+    {
+      "condition": "CLOUDY",
+      "days": 16,
+      "avgSessionsPerDay": 27.4,
+      "avgRevenuePerDay": 7930.61,
+      "adjustedImpactPct": 1.0
+    },
+    {
+      "condition": "RAIN",
+      "days": 39,
+      "avgSessionsPerDay": 26.0,
+      "avgRevenuePerDay": 7763.21,
+      "adjustedImpactPct": -1.7
+    },
+    {
+      "condition": "HEAVY_RAIN",
+      "days": 27,
+      "avgSessionsPerDay": 21.5,
+      "avgRevenuePerDay": 6001.33,
+      "adjustedImpactPct": -22.1
+    }
+  ],
+  "byDayType": [
+    {
+      "condition": "WEEKDAY",
+      "days": 63,
+      "avgSessionsPerDay": 25.4,
+      "avgRevenuePerDay": 7342.1,
+      "adjustedImpactPct": 0.0
+    },
+    {
+      "condition": "WEEKEND",
+      "days": 23,
+      "avgSessionsPerDay": 23.9,
+      "avgRevenuePerDay": 7126.82,
+      "adjustedImpactPct": -6.1
+    },
+    {
+      "condition": "PUBLIC_HOLIDAY",
+      "days": 3,
+      "avgSessionsPerDay": 25.3,
+      "avgRevenuePerDay": 7187.2,
+      "adjustedImpactPct": -10.2
+    }
+  ],
+  "rainImpactPct": -9.7,
+  "heavyRainImpactPct": -22.1,
+  "holidayImpactPct": -10.2,
+  "weekendImpactPct": -6.1,
+  "method": "adjustedImpactPct = mean of (sessions / local baseline - 1); baseline = average of normal days (CLEAR/CLOUDY, no holiday, same weekday/weekend type) within +-14 days. WEEKEND is compared with WEEKDAY."
+}

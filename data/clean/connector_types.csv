@@ -1,0 +1,6 @@
+id,code,display_name,current_type,typical_kw
+1,CCS2,CCS Combo 2,DC,60.0
+2,TYPE2,Type 2,AC,7.4
+3,CHADEMO,CHAdeMO,DC,50.0
+4,LECCS,LECCS (Light EV),DC,3.0
+5,BHARAT_DC,Bharat DC-001,DC,15.0

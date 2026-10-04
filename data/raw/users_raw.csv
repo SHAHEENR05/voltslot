@@ -1,0 +1,666 @@
+id,full_name,email,phone,role,city,status,home_lat,home_lon,created_at
+597,Namrata Parekh,namrata.parekh82@example.com,+91-00000-49283,USER,Navi Mumbai,ACTIVE,19.002659,73.110496,2025-09-29 20:01:00
+257,Shreyas Joglekar,shreyas.joglekar61@example.com,+91 00000 50561,USER,Mumbai,ACTIVE,19.175884,72.851959,2025-09-24 17:55:00
+60,Fatima Shenoy, Fatima.shenoy39@example.com ,+91 00000 62876,USER,Mumbai,ACTIVE,19.178617,72.952608,2025-10-22 06:06:00
+218,Kabir Shetty, Kabir.shetty51@example.com ,+91-00000-35032,USER,Navi Mumbai,ACTIVE,19.07924,73.002905,26/07/2025 23:27:00
+524,Tejal Pandey,tejal.pandey85@example.com,(+91) 00000 40479,USER,Mumbai,ACTIVE,19.16198,72.940661,2025-08-17 23:26:00
+209,Aryan Dalvi,aryan.dalvi25@example.com,+91 00000 53833,user,Thane,ACTIVE,19.230865,72.986814,2025-09-05 22:40:00
+620,Urvi Yadav,urvi.yadav61@example.com,0000014029,USER,Navi Mumbai,ACTIVE,18.991247,73.104887,2025-08-03 00:19:00
+198,Namrata Lobo,namrata.lobo36@example.com,+91-00000-39526,USER,Mumbai,ACTIVE,19.090596,72.895455,2025-10-22 18:05:00
+268,Abhishek Gomes,abhishek.gomes51@example.com,+91 00000 99609,USER,N/A,ACTIVE,19.070172,72.994239,2026-01-17 00:40:00
+545,Rutuja Prabhu,rutuja.prabhu10@example.com,+91-00000-33415,USER,Mumbai,ACTIVE,19.033648,72.865336,2025-10-17 07:25:00
+405,Sanjay Saxena,sanjay.saxena96@example.com,+91 00000 99534,user,Mumbai,ACTIVE,19.237475,72.857692,26/07/2025 22:08:00
+291,Jasleen Tendulkar,jasleen.tendulkar98@example.com,+91 00000 20631,USER,Kalyan-Dombivli,ACTIVE,19.25151,73.12946,2026-05-03 10:17:00
+556,NISHA DUBEY,nisha.dubey49@example.com,+91 00000 61773,USER,N/A,ACTIVE,19.074717,72.985366,2025-09-05 01:08:00
+259,Sakshi Vyas,sakshi.vyas26@example.com,0000063196,USER,Mumbai,ACTIVE,19.192749,72.955368,20/07/2025 17:15:00
+246,Aditya Krishnan,aditya.krishnan16@example.com,+91-00000-52007,USER,Mumbai,ACTIVE,19.173687,72.864118,2025-07-13 08:13:00
+640,Parag Sethi,parag.sethi66@example.com,+91 00000 42201,USER,Mumbai,ACTIVE,19.173786,72.847679,2026-06-02 10:58:00
+207,Pranav Waghmare,pranav.waghmare31@example.com,+91-00000-21572,user,Mumbai,ACTIVE,19.085445,72.910781,2025-07-31 17:47:00
+160,RITESH SURVE,ritesh.surve61@example.com,0000026162,USER,Navi Mumbai,ACTIVE,19.030244,73.03964,2026-06-10 18:41:00
+511,Arjun Vyas,arjun.vyas22@example.com,+91 00000 53736,USER,Mumbai,ACTIVE,19.193476,72.846575,2025-08-19 07:38:00
+143,Deepak Surve,deepak.surve34@example.com,+91 00000 61406,USER,Thane,ACTIVE,19.219835,72.975489,2026-06-16 23:18:00
+45,Shreyas Phadke,shreyas.phadke65@example.com,+91 00000 45295,USER,Mumbai,ACTIVE,19.097245,72.852298,2025-09-30 12:57:00
+31,Sanya Subramanian,sanya.subramanian33@example.com,+91-00000-26257,USER,Navi Mumbai,ACTIVE,19.029721,73.030846,06/07/2025 09:56:00
+367,Kiran Sheikh,kiran.sheikh69@example.com,+910000092512,USER,Mumbai,ACTIVE,19.174733,72.857806,2025-08-24 18:51:00
+42, kiran sonawane  ,kiran.sonawane28@example.com,+91-00000-89921,USER,Mumbai,ACTIVE,19.165488,72.844477,15/08/2025 12:33:00
+142,Aryan Sawant,aryan.sawant27@example.com,+91 00000 21598,USER,Navi Mumbai,ACTIVE,19.028939,73.019455,2025-07-24 06:43:00
+236,Tanmay Pawar,TANMAY.PAWAR82@EXAMPLE.COM,+91 00000 57730,USER,Navi Mumbai,ACTIVE,19.057739,73.063312,2025-12-24 10:04:00
+11,Nilesh Pandya,nilesh.pandya98@example.com,+91 00000 92919,OPERATOR,Mumbai,ACTIVE,19.070259,72.860651,2025-06-11 14:07:00
+613,Namrata Chatterjee,namrata.chatterjee51@example.com,+91 00000 98363,USER,Mumbai,ACTIVE,19.01686,72.858229,2025-12-23 07:07:00
+379,Sameer Modi,sameer.modi11@example.com,+91-00000-50583,USER,Mumbai,ACTIVE,19.061351,72.903983,2025-09-08 19:33:00
+452,Shruti Patil, Shruti.patil84@example.com ,+91 00000 15695,USER ,Mumbai,ACTIVE,19.165181,72.854363,2025-09-15 17:01:00
+594,Fatima Joglekar,fatima.joglekar45@example.com,+91-00000-96132,USER,Mumbai,active,19.168662,72.944746,20/06/2026 05:17:00
+47,Ankit Banerjee,ankit.banerjee39@example.com,+91 00000 21982,USER,Kalyan-Dombivli,ACTIVE,19.200443,73.097917,2025-07-20 05:22:00
+453,Imran Lobo,imran.lobo65@example.com,+91 00000 90053,USER,Thane,ACTIVE,19.21403,72.970488,2026-05-10 04:12:00
+102,Nikhil Rao,nikhil.rao29@example.com,+91-00000-71815,USER,Mumbai,ACTIVE,19.162964,72.844457,2025-07-22 23:12:00
+638,Aditi Srivastava,aditi.srivastava56@example.com,+91-00000-42095,USER,Navi Mumbai,ACTIVE,19.079804,72.994795,2026-04-03 12:05:00
+67,Nitin Mishra,NITIN.MISHRA89@EXAMPLE.COM,+91 00000 59702,USER,Kalyan-Dombivli,ACTIVE,19.224957,73.094174,30/09/2025 05:09:00
+344,Tushar Dutta,tushar.dutta83@example.com,0000046773,USER,Mumbai,ACTIVE,19.167264,72.952464,2025-10-29 13:16:00
+450, rizwan jadhav  ,rizwan.jadhav62@example.com,+91 00000 11367,USER,Navi Mumbai,ACTIVE,19.052445,73.064204,2025-09-15 13:06:00
+320,Vedant Mishra,vedant.mishra98@example.com,+91 00000 72992,USER,Navi Mumbai,ACTIVE,19.019607,73.03947,03/08/2025 14:39:00
+286,Simran Rodrigues,simran.rodrigues65@example.com,+91 00000 28139,USER,Thane,ACTIVE,19.222069,72.981675,2025-09-14 04:36:00
+189,Rashmi Tiwari,rashmi.tiwari86@example.com,+91 00000 82885,USER,Navi Mumbai,ACTIVE,19.071943,73.015125,2025-07-16 20:08:00
+267,Chaitali D'Souza,chaitali.dsouza35@example.com,0000045671,USER,Navi Mumbai,ACTIVE,19.073654,72.977862,22/01/2026 15:41:00
+378,Prasad Shenoy,prasad.shenoy47@example.com,+91-00000-93975,USER,Mumbai,ACTIVE,19.166754,72.943633,17/09/2025 20:43:00
+424,Tushar Pandya,tushar.pandya81@example.com,+91 00000 56653,USER,Mumbai,ACTIVE,19.212536,72.855976,2025-09-24 22:01:00
+506,Mrunal Menon,mrunal.menon92@example.com,0000074885,USER,Navi Mumbai,active,19.034604,73.068204,2026-01-12 19:03:00
+383,Dev Das,DEV.DAS59@EXAMPLE.COM,+91 00000 13767,USER,Mumbai,ACTIVE,19.171684,72.833136,2025-08-23 15:20:00
+601,Rutuja Siddiqui,rutuja.siddiqui96@example.com,0000086574,USER,Mumbai,ACTIVE,19.061941,72.893569,15/02/2026 08:44:00
+372,Shruti Dias,shruti.dias37@example.com,+91 00000 43072,USER,Mumbai,ACTIVE,19.036638,72.900038,2025-08-26 13:52:00
+65,Mansi Krishnan,mansi.krishnan24@example.com,+91-00000-44352,USER,Mumbai,ACTIVE,19.247098,72.843,2026-02-12 01:04:00
+543,Deepak Parab,deepak.parab55@example.com,(+91) 00000 30246,USER,Navi Mumbai,ACTIVE,19.003535,73.111042,27/08/2026 15:53:00
+632,Kedar Desai,kedar.desai41@example.com,+91 00000 58510,USER,Mumbai,ACTIVE,19.097618,72.909773,2025-08-01 15:20:00
+460,Harpreet Ranade,harpreet.ranade84@example.com,+91 00000 24184,user,Mumbai,ACTIVE,19.14515,72.856615,25/06/2026 21:53:00
+652,Lalit Pawar,lalit.pawar96@example.com,0000049531,USER,Mumbai,ACTIVE,19.107952,72.915141,2025-11-30 19:54:00
+245,Harpreet Patil,harpreet.patil22@example.com,(+91) 00000 68662,USER ,Navi Mumbai,ACTIVE,19.030641,73.023167,2025-09-28 00:10:00
+448,Sneha Kamble,sneha.kamble33@example.com,+91 00000 69144,USER,Kalyan-Dombivli,ACTIVE,19.207909,73.078751,2026-02-04 09:05:00
+588,Aditya Shenoy,aditya.shenoy20@example.com,+91 00000 34308,USER,Mumbai,ACTIVE,19.048435,72.907806,2026-01-01 10:21:00
+41,Anil Sharma,anil.sharma60@example.com,+91 00000 87430,USER,Mumbai,ACTIVE,19.020296,72.852166,2025-07-15 07:53:00
+647,Divya Ramesh,divya.ramesh93@example.com,0000097123,USER,Kalyan-Dombivli,ACTIVE,73.0828,19.222214,2025-07-16 07:59:00
+53,Anil Shinde,anil.shinde88@example.com,(+91) 00000 22040,USER,Navi Mumbai,ACTIVE,18.998397,73.109381,2025-08-22 20:08:00
+243,Arnav Banerjee,arnav.banerjee38@example.com,+91 00000 34646,USER,Mumbai,ACTIVE,19.155393,72.841092,30/09/2025 02:35:00
+81,Tejal Bhosale,tejal.bhosale69@example.com,+91-00000-89797,USER,Navi Mumbai,ACTIVE,19.043497,73.051135,2025-07-28 20:16:00
+466,Gayatri Mukherjee,gayatri.mukherjee40@example.com,(+91) 00000 55429,USER,Mumbai,ACTIVE,19.221757,72.841095,2025-08-02 06:24:00
+194,Tarun Qureshi,tarun.qureshi93@example.com,+910000056288,USER,Mumbai,ACTIVE,19.062442,72.900666,2025-08-09 09:13:00
+534,Manish Kothari,manish.kothari34@example.com,+91-00000-97861,USER,Mumbai,ACTIVE,19.046234,72.899364,2025-09-23 15:07:00
+258,Aditi Gomes,aditi.gomes93@example.com,(+91) 00000 65531,USER,Kalyan-Dombivli,ACTIVE,19.249117,73.129391,2025-07-03 01:21:00
+513,Zubin Banerjee,zubin.banerjee36@example.com,+91 00000 12909,USER,Mumbai,ACTIVE,19.022291,72.862586,2026-04-05 19:08:00
+463,Vedant Chavan,vedant.chavan20@example.com,+91 00000 66291,USER,Mumbai,ACTIVE,19.232219,72.86011,2025-11-06 16:06:00
+16,Yash Dalvi,yash.dalvi87@example.com,,FLEET_MANAGER,Mumbai,ACTIVE,19.092434,72.851402,22/06/2025 01:22:00
+138,Lalit Dave,lalit.dave96@example.com,0000014272,USER,Mumbai,ACTIVE,19.22384,72.855166,21/09/2025 23:20:00
+228,Disha Joshi,disha.joshi74@example.com,+91-00000-78458,USER,Mumbai,ACTIVE,19.170998,72.94932,2025-09-02 01:46:00
+432,Prasad Vyas,PRASAD.VYAS77@EXAMPLE.COM,0000064600,USER,Mumbai,ACTIVE,19.071733,72.908277,21/07/2025 03:10:00
+33,Manish Khan,manish.khan74@example.com,0000078759,USER,Mumbai,ACTIVE,19.24241,72.862401,2025-11-07 09:22:00
+199,Aisha Dalvi,aisha.dalvi37@example.com,,USER,Mumbai,ACTIVE,19.098459,72.848113,2025-09-26 12:24:00
+277,Ganesh Singh,GANESH.SINGH86@EXAMPLE.COM,(+91) 00000 27619,USER,Mumbai,ACTIVE,19.175985,72.93495,2025-09-28 19:37:00
+353,Sakshi Waghmare,sakshi.waghmare44@example.com,0000023475,USER,Mumbai,ACTIVE,19.180757,72.863451,2025-08-25 00:53:00
+604,Sakshi Bhatt,sakshi.bhatt57@example.com,+91 00000 76276,USER,Mumbai,ACTIVE,19.21661,72.870381,2025-08-24 23:34:00
+352,Gurpreet Phadke,gurpreet.phadke49@example.com,+91-00000-72628,USER,Mumbai,ACTIVE,19.16082,72.854114,2025-08-17 22:49:00
+568,Madhuri Gawde,madhuri.gawde82@example.com,+91 00000 86028,USER ,Navi Mumbai,ACTIVE,19.014601,73.124323,2025-09-20 13:38:00
+85,Mayur Gawde,mayur.gawde84@example.com,+91 00000 35813,USER,Navi Mumbai,ACTIVE,19.056349,73.070644,08/09/2025 22:02:00
+611,Sandeep Singh,sandeep.singh17@example.com,+91 00000 98528,USER,Navi Mumbai,ACTIVE,19.074603,72.988737,24/07/2025 02:20:00
+126,Aryan Mhatre,aryan.mhatre64@example.com,+91 00000 22619,USER,Navi Mumbai,ACTIVE,19.081706,73.000291,2026-07-11 22:05:00
+587,Isha Dutta,isha.dutta79@example.com,+91 00000 76190,USER,Thane,ACTIVE,19.227945,72.961806,2025-08-22 20:12:00
+565,Rohan Joglekar,rohan.joglekar63@example.com,+910000076229,USER,Thane,ACTIVE,19.19935,72.973201,19/07/2025 23:03:00
+313,Gayatri Qureshi,gayatri.qureshi41@example.com,(+91) 00000 98200,USER,Mumbai,ACTIVE,19.113266,72.860518,2025-09-03 20:45:00
+232,Deepika Mehta,deepika.mehta24@example.com,0000022602,USER,Mumbai,ACTIVE,19.177493,72.860165,2025-08-27 01:11:00
+155,Gayatri Salvi,gayatri.salvi42@example.com,+91 00000 11389,USER,Mumbai,ACTIVE,19.02272,72.852793,2025-07-10 04:38:00
+28,Tanmay Poojary,tanmay.poojary76@example.com,+91 00000 52094,USER,Mumbai,ACTIVE,19.017548,72.849539,16/08/2025 05:32:00
+58,Zubin Bhosale,zubin.bhosale57@example.com,+91-00000-93830,USER,Kalyan-Dombivli,ACTIVE,19.208394,73.084654,2025-09-17 06:25:00
+192,Supriya Pillai,supriya.pillai75@example.com,+91 00000 50211,USER,Mumbai,ACTIVE,19.087165,72.83557,2026-04-14 07:56:00
+522,Sneha Vyas,sneha.vyas60@example.com,+91 00000 97168,user,Mumbai,ACTIVE,19.211939,72.855472,2025-07-20 09:26:00
+135,Amruta Gaikwad,amruta.gaikwad75@example.com,+91-00000-11463,USER,Mumbai,ACTIVE,19.241941,72.862889,2025-07-30 03:16:00
+334,Simran Patil,simran.patil41@example.com,+91 00000 26769,USER,Mumbai,ACTIVE,19.087707,72.898479,2025-07-14 16:09:00
+150,Mansi Gokhale,mansi.gokhale32@example.com,,USER,Thane,ACTIVE,19.21997,72.984289,2025-08-20 21:58:00
+114,Kavya Dubey,kavya.dubey19@example.com,0000023189,USER,Mumbai,ACTIVE,19.102579,72.92532,2025-07-18 19:33:00
+77,Akash More,akash.more33@example.com,+910000093616,USER,Navi Mumbai,ACTIVE,19.079392,72.995876,2026-06-08 02:58:00
+22,Rashmi Salvi,rashmi.salvi34@example.com,+91 00000 35141,USER,Mumbai,ACTIVE,19.154725,72.85229,2025-08-02 09:50:00
+403,Vidya Sen, Vidya.sen87@example.com ,+91 00000 78615,USER,Mumbai,ACTIVE,19.048312,72.891892,2025-09-25 15:54:00
+510,Parag Pereira,PARAG.PEREIRA83@EXAMPLE.COM,+91-00000-75522,USER,Mumbai,ACTIVE,19.105198,72.907443,2025-07-09 02:53:00
+440,Vidya Kaur,vidya.kaur46@example.com,+91 00000 50649,USER,Mumbai,ACTIVE,19.056463,72.897022,25/10/2025 03:53:00
+421,Ashok Bansal,ashok.bansal83@example.com,+91 00000 76487,USER,Mumbai,ACTIVE,19.068616,72.910281,2025-10-01 16:16:00
+461,Aisha Surve,aisha.surve70@example.com,+91 00000 88423,USER,Navi Mumbai,ACTIVE,19.048748,73.039866,16/04/2026 02:01:00
+183,Mrunal Shetty,mrunal.shetty81@example.com,(+91) 00000 37112,USER ,Mumbai,ACTIVE,19.008137,72.832261,2025-08-05 19:31:00
+603,Madhuri Salvi,madhuri.salvi36@example.com,+91 00000 80215,USER,Kalyan-Dombivli,ACTIVE,19.240321,73.138701,2025-08-02 19:47:00
+525,Madhuri Sharma,madhuri.sharma39@example.com,0000089828,USER,Navi Mumbai,ACTIVE,19.027271,73.030353,2026-07-31 16:41:00
+345,Mihir Waghmare,mihir.waghmare55@example.com,+910000048522,USER,Kalyan-Dombivli,ACTIVE,19.242855,73.145212,2026-05-25 19:54:00
+130,Chetan Gupta,chetan.gupta25@example.com,+910000045053,USER,Mumbai,ACTIVE,19.069758,72.889078,2025-07-29 21:38:00
+227,Pooja Bansal,pooja.bansal82@example.com,+91 00000 65243,USER,Mumbai,ACTIVE,19.191497,72.8493,2025-09-25 01:48:00
+3,Ritesh Kapoor,fleet@voltslot.in,0000051483,FLEET_MANAGER,Navi Mumbai,ACTIVE,19.055288,73.003356,2025-06-10 10:00:00
+570,Smita Sharma,smita.sharma58@example.com,+91 00000 12435,USER,Navi Mumbai,ACTIVE,18.99137,73.127088,2025-07-21 11:41:00
+203,Ishaan Sawant,ishaan.sawant19@example.com,+91 00000 63896,USER,Mumbai,ACTIVE,72.823316,18.998116,04/04/2026 13:26:00
+169,Kritika Menon,kritika.menon90@example.com,+91 00000 90512,USER,Mumbai,ACTIVE,19.23935,72.83771,2025-07-04 00:34:00
+630,Uday Rane,uday.rane13@example.com,+910000067695,USER,Thane,ACTIVE,19.212839,72.974491,2025-08-07 01:21:00
+520,Manish Joshi,manish.joshi82@example.com,,USER,Mumbai,ACTIVE,19.248686,72.865715,2025-07-16 12:39:00
+178,Dhruv Banerjee,dhruv.banerjee23@example.com,0000017772,USER,Mumbai,ACTIVE,19.166884,72.856383,2025-09-01 08:02:00
+213,Sanya Shetty,sanya.shetty86@example.com,+91 00000 75723,USER,Kalyan-Dombivli,ACTIVE,19.250242,73.146215,2026-02-14 21:22:00
+361,Manpreet Pereira,manpreet.pereira82@example.com,0000080477,USER,Mumbai,ACTIVE,19.04999,72.912055,13/08/2025 14:35:00
+606,Sonal Ramesh,sonal.ramesh99@example.com,(+91) 00000 27281,USER,Navi Mumbai,ACTIVE,19.049628,73.070298,2025-07-30 03:36:00
+238,Gurpreet Rodrigues,gurpreet.rodrigues69@example.com,+91 00000 88014,USER,Mumbai,ACTIVE,19.105291,72.9064,18/09/2025 13:26:00
+600,Sakshi Singh,sakshi.singh14@example.com,+910000089375,USER,Navi Mumbai,ACTIVE,19.04985,73.029271,2026-06-11 17:20:00
+362,Trisha Salvi,trisha.salvi98@example.com,0000031301,USER,Kalyan-Dombivli,ACTIVE,19.237093,73.117368,2025-09-25 07:42:00
+156,Hemant Joglekar,hemant.joglekar95@example.com,+91 00000 80801,USER,Mumbai,ACTIVE,19.088305,72.857578,21/04/2026 02:30:00
+384,Kunal Tendulkar,kunal.tendulkar39@example.com,+91 00000 97550,USER,Mumbai,ACTIVE,18.996164,72.826227,2026-03-21 12:18:00
+477,Sanya Khanna,sanya.khanna22@example.com,+91 00000 19431,USER,Navi Mumbai,ACTIVE,19.050257,73.070951,2026-04-22 15:28:00
+454,RADHIKA FERNANDES,radhika.fernandes30@example.com,0000097701,USER,Navi Mumbai,ACTIVE,18.990821,73.112421,30/09/2025 16:49:00
+325,Akash Ansari,akash.ansari13@example.com,0000099531,USER,Mumbai,ACTIVE,19.178815,72.952021,2025-08-22 13:27:00
+533,Deepika Mistry,deepika.mistry36@example.com,0000073515,USER,Mumbai,ACTIVE,19.199366,72.845157,17/08/2025 04:50:00
+180,Tushar Singh,tushar.singh26@example.com,+91 00000 42792,USER,Navi Mumbai,active,19.04767,73.067352,2025-09-20 02:53:00
+478,Aishwarya Rego,aishwarya.rego79@example.com,+91-00000-36360,USER,Kalyan-Dombivli,ACTIVE,19.23904,73.134997,2025-12-27 01:10:00
+46,Zubin Jain,zubin.jain84@example.com,+91 00000 85838,USER,N/A,ACTIVE,19.037586,73.075581,2026-03-28 04:01:00
+177,Trisha Bhosale,trisha.bhosale65@example.com,+91 00000 15157,USER,N/A,ACTIVE,19.201188,72.855039,2026-06-14 22:46:00
+535,Mayur Chavan,mayur.chavan64@example.com,+91 00000 81387,USER,Mumbai,ACTIVE,19.084461,72.89615,2026-03-15 04:17:00
+391,Gaurav More,gaurav.more19@example.com,+91-00000-34155,USER,Navi Mumbai,ACTIVE,19.033351,73.033439,2025-09-28 15:03:00
+531,Hemant Phadke,hemant.phadke56@example.com,+910000088227,USER,Kalyan-Dombivli,ACTIVE,19.256397,73.128531,2025-09-25 21:56:00
+204,Nikhil Yadav,nikhil.yadav68@example.com,+91 00000 20234,USER,Navi Mumbai,ACTIVE,18.981963,73.12396,2025-07-26 10:39:00
+223,Nikhil Agarwal,nikhil.agarwal58@example.com,+91 00000 68027,USER,Navi Mumbai,ACTIVE,19.031676,73.030425,21/05/2026 23:01:00
+97,Pooja Jadhav,pooja.jadhav78@example.com,+91 00000 80447,USER,Mumbai,ACTIVE,19.21733,72.857971,2025-08-13 14:12:00
+162,Manish Chavan, Manish.chavan65@example.com ,0000059099,USER,Mumbai,ACTIVE,19.181617,72.955343,2025-09-05 06:45:00
+394, harpreet pillai  ,harpreet.pillai16@example.com,+91 00000 41041,USER,Mumbai,ACTIVE,19.157101,72.8447,2025-07-12 06:51:00
+265,Arjun Subramanian,arjun.subramanian52@example.com,+91 00000 72136,USER,Mumbai,ACTIVE,19.057349,72.903882,2025-07-10 02:10:00
+399,Payal D'Souza,payal.dsouza99@example.com,+91 00000 46102,USER,Mumbai,ACTIVE,19.229061,72.830873,2025-08-29 20:57:00
+347,Imran Dias,imran.dias91@example.com,0000036943,USER,Navi Mumbai,ACTIVE,19.042148,73.084628,2025-07-10 02:36:00
+295,Mihir Rodrigues,mihir.rodrigues65@example.com,0000040023,USER,Mumbai,ACTIVE,19.170247,72.936565,04/12/2025 17:49:00
+32,Vrushali Subramanian,VRUSHALI.SUBRAMANIAN45@EXAMPLE.COM,0000033286,USER,Mumbai,ACTIVE,19.020793,72.840515,2026-09-02 09:38:00
+647,Divya Ramesh,divya.ramesh93@example.com,0000097123,USER,Kalyan-Dombivli,ACTIVE,73.0828,19.222214,2025-07-16 07:59:00
+125,Bhakti Parekh,bhakti.parekh76@example.com,+910000027329,user,Mumbai,ACTIVE,19.176822,72.856209,2025-07-10 03:42:00
+210, tanvi reddy  ,tanvi.reddy71@example.com,+91 00000 66117,USER,Mumbai,ACTIVE,19.093079,72.90765,2025-07-04 13:54:00
+110,Prasad Sethi,prasad.sethi78@example.com,+91 00000 48850,USER,Mumbai,ACTIVE,19.05828,72.905543,2025-09-27 01:34:00
+301,Anil Bajaj,ANIL.BAJAJ71@EXAMPLE.COM,+91 00000 35623,USER,Mumbai,ACTIVE,19.175826,72.934456,2025-08-05 02:00:00
+297,Gurpreet Ranade,gurpreet.ranade74@example.com,+91 00000 66477,USER,Thane,ACTIVE,19.218691,72.980314,2025-09-07 07:24:00
+576,Pallavi Gomes,pallavi.gomes86@example.com,+91 00000 18845,USER,Navi Mumbai,ACTIVE,19.038301,73.066558,2026-03-15 23:46:00
+584,Dhruv Mascarenhas,dhruv.mascarenhas24@example.com,+91 00000 69758,USER,Kalyan-Dombivli,ACTIVE,19.206275,73.087499,2025-07-30 06:13:00
+222,Kedar Pereira, Kedar.pereira93@example.com ,0000011206,USER,Mumbai,ACTIVE,19.022501,72.845711,2025-08-02 02:35:00
+455,Sneha Trivedi,sneha.trivedi89@example.com,+91 00000 91567,USER,Navi Mumbai,ACTIVE,19.05155,73.072783,2025-08-07 23:22:00
+131,Rohan Subramanian,rohan.subramanian43@example.com,+91 00000 23488,USER,Thane,ACTIVE,19.212165,72.996383,2025-07-24 08:35:00
+637,Vinay Jain,vinay.jain51@example.com,0000012699,USER,Mumbai,active,18.998123,72.81723,2026-06-10 14:06:00
+639,Nazia Gawde,nazia.gawde14@example.com,+91 00000 84399,USER,Mumbai,active,19.174113,72.851814,25/03/2026 18:43:00
+624, ananya dutta  ,ananya.dutta60@example.com,+91-00000-34258,USER,Navi Mumbai,active,19.072516,73.0019,13/07/2025 12:13:00
+552,Sameer Kapoor,sameer.kapoor99@example.com,+91-00000-50381,USER,Mumbai,ACTIVE,19.091621,72.927083,16/08/2025 02:54:00
+217,Dhruv Gawde,dhruv.gawde32@example.com,+91 00000 37861,USER,Mumbai,ACTIVE,19.226835,72.859533,2026-07-01 22:28:00
+14,Yogesh Naidu,yogesh.naidu99@example.com,+910000013477,OPERATOR,Mumbai,ACTIVE,19.079707,72.866623,2025-07-06 07:38:00
+128,Smita Joglekar,smita.joglekar58@example.com,+91 00000 78233,USER,Mumbai,ACTIVE,19.169959,72.941311,2025-07-11 04:32:00
+241,Uday Gokhale,uday.gokhale26@example.com,+91-00000-28878,user,Navi Mumbai,ACTIVE,18.979058,73.117593,2026-01-24 14:02:00
+354,Imran Parekh,imran.parekh19@example.com,(+91) 00000 67656,USER,Mumbai,ACTIVE,19.130148,72.866635,2025-09-02 22:37:00
+70,Akash Rane,akash.rane59@example.com,+91 00000 24688,USER,Kalyan-Dombivli,ACTIVE,19.255603,73.141458,2025-08-02 08:03:00
+437,Uday Mehta,uday.mehta19@example.com,0000030781,USER,Mumbai,ACTIVE,19.017494,72.859464,29/09/2025 08:44:00
+480,Salman Bhatia,salman.bhatia32@example.com,+91-00000-59738,USER,Navi Mumbai,ACTIVE,19.06752,73.001493,2025-07-21 23:48:00
+575,Vaishnavi Joshi,vaishnavi.joshi39@example.com,+91 00000 38811,USER,Mumbai,ACTIVE,19.016308,72.847733,2025-08-09 00:05:00
+89,Kavya Khan,kavya.khan62@example.com,0000083604,USER,Mumbai,ACTIVE,19.181216,72.846439,11/09/2025 03:00:00
+514,Vijay Kamble,vijay.kamble27@example.com,+91 00000 50018,USER ,Mumbai,ACTIVE,19.218711,72.863859,07/08/2025 07:06:00
+167,Kritika Shah,kritika.shah50@example.com,+91 00000 40051,USER,Mumbai,ACTIVE,18.993967,72.82017,2025-08-03 17:38:00
+254,Pranav Gaikwad,pranav.gaikwad54@example.com,0000038504,user,Mumbai,ACTIVE,19.056853,72.896404,2026-03-11 01:07:00
+2,Meera Joshi,operator@voltslot.in,+91-00000-42291,OPERATOR,Mumbai,ACTIVE,19.079787,72.866467,2025-06-03 09:30:00
+599,Sagar Dutta,sagar.dutta30@example.com,0000056451,USER,Mumbai,ACTIVE,19.048115,72.889618,16/07/2025 13:13:00
+335,Pallavi Sonawane,pallavi.sonawane15@example.com,+91 00000 24488,USER,Navi Mumbai,active,18.984443,73.13243,2025-08-25 16:13:00
+641,Imran Sonawane,imran.sonawane78@example.com,+91-00000-69107,USER,Mumbai,ACTIVE,19.197152,72.836035,2025-08-02 19:16:00
+123,Supriya Mishra,supriya.mishra40@example.com,+91 00000 24299,USER,Mumbai,ACTIVE,19.061391,72.895666,30/07/2025 11:33:00
+104,Aditya Qureshi,aditya.qureshi15@example.com,+91 00000 20712,USER,Navi Mumbai,ACTIVE,19.058513,73.006976,2025-08-25 21:35:00
+219,Rakesh Desai,rakesh.desai32@example.com,+91-00000-81101,USER,Mumbai,ACTIVE,19.018517,72.842101,09/08/2025 03:22:00
+373,Nazia Naik,nazia.naik25@example.com,+91 00000 47873,USER,Mumbai,ACTIVE,19.217963,72.866803,30/07/2025 02:14:00
+206,Sanjay Mistry,sanjay.mistry55@example.com,+91 00000 70701,USER,Mumbai,ACTIVE,19.012325,72.830719,2025-07-15 14:01:00
+551,Vikram Verma,vikram.verma29@example.com,+91 00000 99953,USER,Kalyan-Dombivli,ACTIVE,19.246828,73.133172,2025-07-14 05:26:00
+541,Jyoti Bajaj,jyoti.bajaj85@example.com,0000030304,USER,Navi Mumbai,ACTIVE,19.077036,72.986274,2026-08-02 23:53:00
+557,Ankit Pereira,ankit.pereira68@example.com,+910000048980,USER,Kalyan-Dombivli,ACTIVE,19.259523,73.136156,2025-08-02 21:53:00
+269,Riya Gill,riya.gill68@example.com,+91-00000-75316,USER,Kalyan-Dombivli,ACTIVE,19.218122,73.079436,05/12/2025 20:57:00
+346,Vikram Gawde,vikram.gawde34@example.com,+91 00000 73362,USER,Mumbai,ACTIVE,19.1898,72.844863,04/08/2025 13:13:00
+230,Mrunal Siddiqui,mrunal.siddiqui94@example.com,0000049922,USER,Mumbai,ACTIVE,19.194322,72.852015,2025-08-03 17:45:00
+612,Nazia Pereira,nazia.pereira55@example.com,+910000082562,USER,Mumbai,ACTIVE,19.069687,72.865398,2025-08-27 14:00:00
+529,Varun Sen,VARUN.SEN35@EXAMPLE.COM,+910000095922,USER,Mumbai,ACTIVE,19.074063,72.906012,2025-09-27 23:02:00
+303,Jay Joglekar,jay.joglekar42@example.com,+91 00000 69958,USER,Mumbai,ACTIVE,19.089051,72.904673,26/01/2026 10:54:00
+132,Rahul Prabhu,rahul.prabhu90@example.com,+91 00000 70568,USER,Navi Mumbai,ACTIVE,19.077362,72.990742,2026-02-14 07:39:00
+112, sana dutta  ,sana.dutta11@example.com,0000020663,USER,Thane,ACTIVE,19.212591,72.97482,2025-09-23 20:09:00
+537,Harsh Naik,harsh.naik11@example.com,+910000049059,USER,Mumbai,ACTIVE,19.095066,72.902857,2026-04-08 01:31:00
+515, amruta gupta  ,amruta.gupta53@example.com,+91-00000-50701,USER,Navi Mumbai,ACTIVE,18.976357,73.110188,2025-07-21 22:13:00
+427,Fatima Tiwari,fatima.tiwari85@example.com,+91 00000 41924,USER,Navi Mumbai,ACTIVE,19.049037,73.036452,25/01/2026 02:34:00
+519,Vikram Shukla,vikram.shukla74@example.com,0000050449,USER,Mumbai,ACTIVE,19.173913,72.936189,2025-12-28 01:44:00
+369,Anil Pandya,anil.pandya28@example.com,+91 00000 16943,USER,Mumbai,ACTIVE,19.176081,72.840498,2025-07-22 14:45:00
+404,Farhan Desai,farhan.desai59@example.com,0000075335,USER,Navi Mumbai,ACTIVE,19.041379,73.069181,08/09/2025 06:56:00
+56,Zubin Mascarenhas,zubin.mascarenhas63@example.com,(+91) 00000 90327,USER,Navi Mumbai,ACTIVE,19.063833,72.978122,2026-03-17 23:01:00
+553,Jasleen Dalvi, Jasleen.dalvi90@example.com ,+91-00000-93068,USER,Mumbai,ACTIVE,19.188911,72.847482,2025-07-15 06:14:00
+83,Sanya Pandey,sanya.pandey61@example.com,+91 00000 60433,USER,Kalyan-Dombivli,ACTIVE,19.227413,73.139724,2025-09-04 16:46:00
+326,Mihir Dave,mihir.dave82@example.com,+91 00000 47505,USER,Mumbai,ACTIVE,19.063385,72.90173,31/08/2025 00:32:00
+234,Sagar Kaur,sagar.kaur13@example.com,+91 00000 86444,USER,Mumbai,ACTIVE,19.193553,72.847551,2025-11-01 00:45:00
+296,Kabir Hegde,kabir.hegde79@example.com,+91 00000 59547,USER,Mumbai,ACTIVE,19.186092,72.848002,2025-08-13 02:04:00
+360,Vaishnavi Lobo,vaishnavi.lobo88@example.com,+91 00000 57474,USER,Mumbai,ACTIVE,19.218297,72.852461,2025-09-05 15:22:00
+282, simran bajaj  ,simran.bajaj29@example.com,+910000064426,USER,Kalyan-Dombivli,ACTIVE,19.225697,73.091987,2026-08-21 01:10:00
+307,Sachin Nair,sachin.nair99@example.com,+91 00000 29719,USER,Mumbai,ACTIVE,19.088253,72.908594,2025-08-14 01:26:00
+643,Manish Naidu,manish.naidu34@example.com,+91 00000 23000,USER,Mumbai,ACTIVE,19.23245,72.846399,14/07/2026 00:26:00
+253,Yogesh Wagh,yogesh.wagh77@example.com,+91 00000 69467,USER,Kalyan-Dombivli,ACTIVE,19.243934,73.117475,2025-08-14 05:04:00
+500,Trisha Patil,trisha.patil12@example.com,+910000058211,USER,Mumbai,ACTIVE,19.093025,72.894965,2025-08-28 17:27:00
+322,Disha Rodrigues,disha.rodrigues50@example.com,(+91) 00000 29381,USER,Mumbai,ACTIVE,19.059482,72.899063,2025-07-27 01:22:00
+275,Nitin Mascarenhas,nitin.mascarenhas33@example.com,+910000012948,USER,Mumbai,ACTIVE,19.098446,72.909815,2026-06-05 18:00:00
+172,Priya Naidu,priya.naidu65@example.com,+91 00000 57358,USER,Mumbai,ACTIVE,19.060655,72.909284,2025-10-04 15:16:00
+410,Ashok Ansari,ashok.ansari47@example.com,+91 00000 66384,USER,Kalyan-Dombivli,ACTIVE,19.240894,73.143311,2025-09-08 06:57:00
+279,Sana Das,sana.das55@example.com,+91-00000-73586,USER,Mumbai,ACTIVE,19.190533,72.857554,2025-09-14 03:48:00
+302,Riya Arora,riya.arora39@example.com,(+91) 00000 71224,USER,Navi Mumbai,ACTIVE,19.061319,72.988555,2025-08-18 13:46:00
+605,Sapna Modi,sapna.modi73@example.com,+91 00000 78144,USER,Thane,ACTIVE,19.228127,72.971269,2025-09-14 12:07:00
+486,Rashmi Chavan,rashmi.chavan32@example.com,+91 00000 66209,USER,Mumbai,ACTIVE,19.065215,72.905627,2025-09-15 02:52:00
+15,Ishaan Banerjee,ishaan.banerjee40@example.com,+91 00000 24061,OPERATOR,Mumbai,ACTIVE,19.077485,72.859135,30/06/2025 21:11:00
+136,Simran Joglekar,simran.joglekar10@example.com,+91 00000 79582,USER,Mumbai,ACTIVE,19.024457,72.869038,2025-08-26 04:59:00
+530,Zubin Das,zubin.das34@example.com,+91 00000 39535,USER,Navi Mumbai,ACTIVE,19.040662,73.07113,2025-08-02 02:35:00
+274,Rajesh Surve,rajesh.surve26@example.com,0000023753,USER,Mumbai,ACTIVE,19.170675,72.933705,2025-08-15 22:19:00
+485,Trisha Ansari,trisha.ansari26@example.com,+91 00000 71066,USER,Kalyan-Dombivli,ACTIVE,19.20546,73.081559,28/09/2025 03:31:00
+359,Fatima Sethi,fatima.sethi42@example.com,0000087771,USER,Navi Mumbai,ACTIVE,19.04392,73.069743,2026-01-11 22:08:00
+339,Kritika Soni,kritika.soni53@example.com,+91 00000 24534,USER,Mumbai,ACTIVE,19.05373,72.898374,23/09/2025 19:40:00
+564,Sanya Bhide, Sanya.bhide68@example.com ,(+91) 00000 50640,USER,Mumbai,ACTIVE,19.122342,72.861115,2026-04-27 00:13:00
+385,Lata Apte,lata.apte60@example.com,+91 00000 39805,USER,Thane,ACTIVE,19.20891,72.974263,2026-01-01 23:51:00
+650,Mrunal Ansari,mrunal.ansari33@example.com,+91 00000 13316,USER,Mumbai,ACTIVE,19.047804,72.914397,2025-07-08 12:14:00
+333,Sanjay Khan,sanjay.khan51@example.com,+91 00000 49208,USER,Navi Mumbai,ACTIVE,18.992373,73.128125,2025-07-23 15:00:00
+30,Parag Mishra,parag.mishra60@example.com,+91-00000-37299,USER,Mumbai,ACTIVE,19.051345,72.89751,2025-12-01 00:32:00
+615,Tanmay Dubey,tanmay.dubey37@example.com,+91-00000-88066,USER,Navi Mumbai,ACTIVE,19.073366,72.988525,2025-08-07 09:50:00
+386,Sachin Verma,sachin.verma23@example.com,+91 00000 68575,USER,Navi Mumbai,ACTIVE,19.085768,72.997326,2025-07-09 02:13:00
+621,Manpreet Saxena,manpreet.saxena62@example.com,+91-00000-57820,USER,Mumbai,ACTIVE,19.04727,72.898767,2025-07-06 18:22:00
+471,Manpreet Thakur,manpreet.thakur64@example.com,+91 00000 68140,USER,Mumbai,ACTIVE,19.157206,72.937609,2025-07-27 10:25:00
+134,Kritika Singh,kritika.singh63@example.com,+91 00000 32002,USER,Mumbai,ACTIVE,18.992469,72.851512,2025-07-13 18:18:00
+272,Dev Desai,dev.desai12@example.com,(+91) 00000 30761,USER,Mumbai,ACTIVE,19.057227,72.894715,2026-06-25 21:05:00
+366,Pranav Bhatia,pranav.bhatia39@example.com,+91-00000-27067,USER,Mumbai,ACTIVE,19.227707,72.876081,2025-08-20 23:04:00
+201,Aditya Chawla,aditya.chawla64@example.com,+91 00000 42894,USER,Kalyan-Dombivli,ACTIVE,19.246867,73.139741,2025-08-10 13:25:00
+263,Tejal Ansari,tejal.ansari81@example.com,+91 00000 75801,USER,Mumbai,ACTIVE,19.172442,72.936261,2026-05-18 00:26:00
+90,Jay Shah,jay.shah69@example.com,+91 00000 42411,USER,Navi Mumbai,ACTIVE,19.067149,72.997418,11/01/2026 10:14:00
+422,Mrunal Gomes,mrunal.gomes50@example.com,0000061701,USER,Navi Mumbai,ACTIVE,19.092703,72.990471,2025-07-04 14:20:00
+592,Chetan Menon,chetan.menon57@example.com,+91 00000 13907,USER,Mumbai,BLOCKED,19.169674,72.951047,2025-09-03 02:44:00
+280,Meera Siddiqui,meera.siddiqui52@example.com,+91 00000 73136,USER,Kalyan-Dombivli,ACTIVE,19.213702,73.090489,2026-03-21 18:51:00
+111,Nisha Jain,nisha.jain47@example.com,+91 00000 46939,USER,Mumbai,ACTIVE,19.077163,72.9003,2025-09-16 12:39:00
+540,Smita Tiwari,smita.tiwari63@example.com,+91 00000 55621,USER,Mumbai,ACTIVE,19.058892,72.915308,12/07/2025 02:16:00
+518,Chetan Jadhav,chetan.jadhav26@example.com,+91 00000 38245,USER,Navi Mumbai,ACTIVE,18.992167,73.119072,2025-07-19 20:01:00
+205,Vrushali Bhosale,vrushali.bhosale34@example.com,+91 00000 78645,USER,Mumbai,ACTIVE,19.075287,72.912415,28/12/2025 16:44:00
+377,Tarun Siddiqui,tarun.siddiqui98@example.com,+91 00000 53917,USER,Mumbai,ACTIVE,19.173321,72.923375,2025-08-06 15:49:00
+364,Sanya Iyer,sanya.iyer65@example.com,0000016371,USER,Navi Mumbai,ACTIVE,19.072689,73.016134,2025-09-13 10:46:00
+220,Bhakti Dubey,bhakti.dubey96@example.com,0000083602,USER,Mumbai,ACTIVE,19.234547,72.880338,2025-08-30 20:50:00
+292,Ankit Malhotra,ankit.malhotra20@example.com,+91 00000 24906,USER,Kalyan-Dombivli,ACTIVE,19.233956,73.139051,2025-07-08 16:54:00
+101,Swati Rao,swati.rao68@example.com,+91-00000-33376,USER,N/A,ACTIVE,19.034457,73.039054,2025-07-10 08:05:00
+338,Pratik Pereira,pratik.pereira42@example.com,+910000059039,USER,Thane,ACTIVE,19.212851,72.991776,2025-12-16 04:10:00
+158,Dev Pandya,dev.pandya34@example.com,+910000010400,USER,Mumbai,ACTIVE,19.15747,72.846091,2025-08-22 00:12:00
+651,Sana Subramanian,sana.subramanian73@example.com,+910000069030,USER,Navi Mumbai,ACTIVE,18.98543,73.11977,31/07/2025 15:01:00
+250,Nitin Desai,nitin.desai74@example.com,+91 00000 27404,USER,Mumbai,ACTIVE,19.156794,72.859397,2025-09-29 04:22:00
+311,Sapna Srivastava,sapna.srivastava85@example.com,+91 00000 70699,USER,Navi Mumbai,ACTIVE,19.061985,72.996101,2025-07-22 13:28:00
+308,Salman Dias,salman.dias10@example.com,+91 00000 81491,USER,Mumbai,ACTIVE,19.186524,72.941759,2025-07-13 00:27:00
+566,Kunal Bhatia,kunal.bhatia69@example.com,0000070249,USER,Navi Mumbai,ACTIVE,19.027957,73.029085,2026-05-15 02:18:00
+310,Dhruv Kaur,dhruv.kaur76@example.com,+91 00000 96268,USER,Mumbai,ACTIVE,19.198224,72.858407,2025-07-08 19:10:00
+591,Amit Pillai,amit.pillai31@example.com,+91 00000 29351,USER,Navi Mumbai,ACTIVE,19.005786,73.115266,25/08/2025 02:21:00
+527,Yogesh Dave,yogesh.dave77@example.com,+91 00000 16158,USER,Navi Mumbai,ACTIVE,18.992463,73.11059,2025-08-23 06:31:00
+161,Divya Ansari,divya.ansari13@example.com,+91 00000 24410,USER,Thane,active,19.218671,72.977546,2025-07-26 08:35:00
+509,Sonal Ghosh,sonal.ghosh48@example.com,+910000073609,USER,Navi Mumbai,ACTIVE,73.082859,19.061975,2026-04-08 00:11:00
+72,Vidya Sharma,vidya.sharma91@example.com,+91-00000-22895,USER,Kalyan-Dombivli,ACTIVE,19.217397,73.085771,2026-04-29 05:33:00
+212,Fatima Shah,fatima.shah69@example.com,+91 00000 83382,USER,Mumbai,ACTIVE,19.222749,72.866169,31/07/2025 11:27:00
+602,Mansi Sonawane,mansi.sonawane44@example.com,+91 00000 48563,user,Kalyan-Dombivli,ACTIVE,19.232123,73.083507,2025-07-11 23:10:00
+106,Rekha Hegde,rekha.hegde49@example.com,+91 00000 35902,USER,Mumbai,ACTIVE,19.192751,72.855848,2026-06-28 08:16:00
+363,Nikhil More,nikhil.more24@example.com,+91 00000 31932,USER,Navi Mumbai,ACTIVE,19.022748,73.029311,22/08/2025 12:33:00
+388,Vinay Khanna,vinay.khanna32@example.com,+910000067692,USER,Navi Mumbai,ACTIVE,19.047373,73.079076,12/07/2025 10:07:00
+122,Jay D'Souza,jay.dsouza39@example.com,+91 00000 23183,user,Thane,ACTIVE,19.21234,72.967206,2025-12-29 00:18:00
+52,REKHA SINGH,rekha.singh47@example.com,+91 00000 51600,USER,Navi Mumbai,ACTIVE,19.00072,73.127762,2025-07-25 08:44:00
+312,Sapna Agarwal,sapna.agarwal11@example.com,+910000073200,USER,Mumbai,ACTIVE,19.134772,72.913631,2026-05-28 04:07:00
+36,Supriya Shukla,supriya.shukla77@example.com,0000022282,USER,Kalyan-Dombivli,ACTIVE,19.239484,73.153598,2026-03-25 06:06:00
+4,Aarav Mehta,demo@voltslot.in,+91-00000-54273,USER,Thane,ACTIVE,19.221085,72.986933,2025-08-14 19:42:00
+159,Bhavesh Kulkarni,bhavesh.kulkarni54@example.com,,USER,Mumbai,ACTIVE,18.991958,72.839527,2025-12-07 18:31:00
+532,Gaurav Sonawane, Gaurav.sonawane89@example.com ,0000097598,USER,Mumbai,ACTIVE,19.181545,72.944378,2025-07-29 17:00:00
+406,Anil Joshi,anil.joshi13@example.com,0000054529,USER,Kalyan-Dombivli,active,19.244342,73.124954,07/08/2025 10:23:00
+168,Nisha Dalvi,nisha.dalvi43@example.com,+91-00000-72885,USER,Navi Mumbai,ACTIVE,18.986583,73.110134,2025-07-15 11:58:00
+417,Rashmi Rane,rashmi.rane83@example.com,+910000079722,USER,Mumbai,ACTIVE,19.077496,72.90111,2025-07-11 02:02:00
+628,Supriya Sheikh,supriya.sheikh51@example.com,+91 00000 33441,USER,Mumbai,ACTIVE,19.095742,72.905209,2025-07-03 00:08:00
+190,Rekha Trivedi,REKHA.TRIVEDI99@EXAMPLE.COM,+910000093911,USER,Mumbai,ACTIVE,19.048408,72.909307,2025-08-09 18:34:00
+137,Rohan Modi,rohan.modi58@example.com,+91 00000 51805,USER,Navi Mumbai,ACTIVE,19.056915,73.073308,2025-07-30 02:19:00
+98,Tarun Rane,tarun.rane75@example.com,+91-00000-89386,USER,Thane,ACTIVE,19.215009,72.990692,2025-08-22 04:28:00
+242,Varun Saxena,varun.saxena94@example.com,(+91) 00000 16204,USER,Navi Mumbai,ACTIVE,19.059058,72.987967,2025-11-10 03:39:00
+12,Harpreet Saxena,harpreet.saxena34@example.com,+91 00000 96805,OPERATOR ,Mumbai,ACTIVE,19.070459,72.874567,14/06/2025 16:31:00
+420,Urvi Tendulkar,urvi.tendulkar48@example.com,+91-00000-18266,USER,Mumbai,ACTIVE,19.008958,72.838497,2026-01-04 13:39:00
+413,Neha Waghmare,neha.waghmare33@example.com,,USER,Mumbai,ACTIVE,19.030905,72.825067,2025-11-28 01:21:00
+305,Nazia Salvi,nazia.salvi84@example.com,+91-00000-51327,USER,Navi Mumbai,ACTIVE,19.031809,73.025448,2026-03-10 22:36:00
+569,Aishwarya Waghmare,aishwarya.waghmare22@example.com,+91 00000 90252,USER,Thane,ACTIVE,19.212433,72.971918,30/09/2025 15:37:00
+26,Hemant Iyer,hemant.iyer79@example.com,+91-00000-64216,USER,N/A,ACTIVE,19.023574,73.022517,2026-07-16 05:21:00
+166,Aditya Kadam,aditya.kadam93@example.com,0000089864,USER,Navi Mumbai,ACTIVE,18.976754,73.126195,2026-02-23 22:25:00
+625,Lata Banerjee,lata.banerjee60@example.com,+91 00000 41490,USER,Mumbai,ACTIVE,19.030626,72.837282,2025-09-05 14:31:00
+332,Priya Kotian,priya.kotian89@example.com,+91-00000-85836,USER,Mumbai,ACTIVE,19.180213,72.854761,2025-08-04 08:52:00
+598,Payal Pandya,payal.pandya93@example.com,+91 00000 18119,USER,Kalyan-Dombivli,ACTIVE,19.249646,73.135361,2025-08-02 03:17:00
+304,Nazia Bhosale,nazia.bhosale91@example.com,+91 00000 68310,USER,Mumbai,ACTIVE,19.024425,72.833808,2025-07-02 18:20:00
+488,Salman Rao,salman.rao16@example.com,+91 00000 59941,USER,Navi Mumbai,ACTIVE,18.983932,73.102658,2025-07-11 22:26:00
+284,Vijay Parab,vijay.parab45@example.com,0000079497,USER,Thane,ACTIVE,19.218608,72.980806,2025-08-20 22:09:00
+120,DISHA SHINDE,disha.shinde85@example.com,(+91) 00000 99114,USER,Kalyan-Dombivli,ACTIVE,19.221868,73.08955,2025-12-19 20:54:00
+208,Namrata Khanna, Namrata.khanna41@example.com ,+91-00000-89047,USER,Thane,ACTIVE,19.230426,72.994309,2026-07-09 12:20:00
+79,Varun Phadke,varun.phadke80@example.com,+91 00000 83642,USER,Mumbai,ACTIVE,19.091212,72.833403,2025-08-30 00:51:00
+139, manpreet shukla  ,manpreet.shukla27@example.com,+91 00000 78474,USER,Mumbai,ACTIVE,19.185101,72.853147,2026-06-11 12:11:00
+175,Divya Ranade,divya.ranade16@example.com,0000057107,USER,Navi Mumbai,ACTIVE,18.994667,73.118077,2026-03-08 01:33:00
+368,Karan D'Souza,karan.dsouza33@example.com,+91 00000 94477,USER,Navi Mumbai,ACTIVE,19.078472,72.994661,2025-09-09 13:13:00
+66,Salman Subramanian,salman.subramanian79@example.com,+910000019973,USER,N/A,ACTIVE,18.974316,73.108652,2026-04-24 21:07:00
+118,Aarav Mistry,aarav.mistry64@example.com,+91 00000 32981,USER,Mumbai,ACTIVE,19.223649,72.884236,2025-07-06 12:27:00
+80,Rutuja Shukla,rutuja.shukla47@example.com,0000051106,USER,Mumbai,ACTIVE,19.18559,72.843616,2025-08-18 01:23:00
+419,Gurpreet Pandey,gurpreet.pandey68@example.com,+910000083564,USER,Mumbai,ACTIVE,19.122495,72.880424,2026-01-15 09:34:00
+140,Priya Sawant,priya.sawant94@example.com,+910000032966,USER,Thane,ACTIVE,19.210786,72.977452,2025-09-01 15:46:00
+521,Ashok Sharma,ashok.sharma75@example.com,0000069076,USER,Mumbai,ACTIVE,19.097574,72.906103,2025-08-30 11:10:00
+317,Manish Bhatia,manish.bhatia92@example.com,+91 00000 63127,USER,Navi Mumbai,ACTIVE,18.994013,73.119819,2025-07-08 06:35:00
+99,Rutuja D'Souza, Rutuja.dsouza68@example.com ,+91 00000 19046,USER,Mumbai,ACTIVE,19.162592,72.950018,2026-05-09 03:34:00
+484,Aditya Rane,aditya.rane16@example.com,+910000041353,USER,Mumbai,ACTIVE,19.187878,72.849821,2025-09-10 02:19:00
+390,Nisha Pillai,nisha.pillai21@example.com,+91-00000-75591,USER,Thane,ACTIVE,19.221523,72.959028,18/09/2025 16:29:00
+188,Tanmay Pandya,tanmay.pandya71@example.com,+91 00000 96315,USER,Mumbai,ACTIVE,19.059333,72.886054,2025-08-17 18:08:00
+329,Siddharth Sharma,siddharth.sharma73@example.com,+91 00000 74515,USER,Mumbai,ACTIVE,19.021813,72.846877,2025-10-28 20:11:00
+490,Rahul Shinde,rahul.shinde84@example.com,+91 00000 95388,USER ,Mumbai,ACTIVE,19.182788,72.93924,10/06/2026 14:37:00
+327,Ananya Shinde,ananya.shinde71@example.com,+91 00000 50928,USER,N/A,ACTIVE,19.180912,72.855837,2026-02-24 09:01:00
+489,Yogesh Dias,yogesh.dias87@example.com,+91 00000 73290,user,Mumbai,ACTIVE,19.019398,72.848002,2026-09-14 10:58:00
+318,Deepika Wagh,deepika.wagh79@example.com,+91 00000 67937,USER,Mumbai,ACTIVE,19.052732,72.894731,2025-10-27 01:10:00
+10,Riya Bhide,riya.bhide95@example.com,0000046258,OPERATOR,Mumbai,ACTIVE,19.056617,72.862345,2025-07-01 14:55:00
+278,Anjali Pereira,anjali.pereira86@example.com,+91 00000 12743,USER,Thane,ACTIVE,19.206315,72.966149,2025-09-16 12:42:00
+426,Ananya Pandey,ananya.pandey12@example.com,+91 00000 79699,USER ,Mumbai,ACTIVE,19.081485,72.909239,14/08/2026 07:08:00
+497,Sameer Iyer,sameer.iyer19@example.com,+91 00000 73475,USER,Mumbai,ACTIVE,19.054742,72.857548,2025-09-13 14:23:00
+266,Uday Das,uday.das52@example.com,(+91) 00000 10569,USER,Mumbai,ACTIVE,19.168504,72.862172,2025-07-05 21:54:00
+585,Rekha D'Souza,rekha.dsouza95@example.com,+91 00000 80925,USER,Mumbai,ACTIVE,19.015634,72.842697,2025-09-17 13:22:00
+170,Anil Pandey,anil.pandey60@example.com,+91-00000-87571,USER,Mumbai,ACTIVE,19.165935,72.951582,2025-09-01 08:53:00
+411,Amruta Joglekar,amruta.joglekar35@example.com,+91 00000 12807,USER,Mumbai,ACTIVE,19.089023,72.901374,14/09/2025 08:30:00
+470,Irfan Soni,irfan.soni12@example.com,,USER,Mumbai,ACTIVE,19.027127,72.852052,2025-08-09 05:29:00
+119,Gayatri Prabhu,gayatri.prabhu74@example.com,+91 00000 80839,USER,Mumbai,ACTIVE,19.224602,72.847037,2025-09-20 03:14:00
+176,Vinay Thakur,vinay.thakur55@example.com,+91-00000-69295,user,Mumbai,active,19.099506,72.845468,2025-09-11 13:56:00
+23,Vedant Menon,vedant.menon18@example.com,+91-00000-28190,USER,Mumbai,ACTIVE,19.167726,72.861802,2025-07-21 18:53:00
+517,Chaitali Ghosh,chaitali.ghosh25@example.com,+91 00000 55420,USER,Thane,ACTIVE,19.22722,72.970515,2025-09-11 20:02:00
+475,Tushar D'Souza,tushar.dsouza86@example.com,+91 00000 79942,USER,Mumbai,ACTIVE,19.055322,72.929701,2025-09-03 08:40:00
+549,Nazia Dubey,nazia.dubey14@example.com,+91 00000 61781,USER,Mumbai,ACTIVE,19.189192,72.845886,2025-09-20 18:31:00
+171,Tushar Surve,TUSHAR.SURVE39@EXAMPLE.COM,0000043496,USER,Mumbai,ACTIVE,19.171286,72.847353,2025-08-29 13:28:00
+443,Aryan Mishra,aryan.mishra89@example.com,0000065600,USER,Thane,ACTIVE,19.212894,72.98341,2026-05-07 03:54:00
+200, sapna mehta  ,sapna.mehta22@example.com,(+91) 00000 27905,USER,Mumbai,ACTIVE,19.100114,72.911463,2025-08-26 08:20:00
+409,Chaitali Apte,chaitali.apte73@example.com,+91 00000 43909,USER,Kalyan-Dombivli,ACTIVE,19.225904,73.147685,2025-08-23 13:59:00
+51,Sana Gill,sana.gill23@example.com,+91 00000 14657,USER,Mumbai,ACTIVE,19.198319,72.848503,2026-09-05 06:09:00
+261,Neha Bhatia,neha.bhatia65@example.com,+91 00000 64878,USER,Mumbai,ACTIVE,19.019558,72.851056,2026-07-25 03:48:00
+6,Rahul Deshmukh,rahul@voltslot.in,(+91) 00000 74162,USER,Mumbai,ACTIVE,19.179343,72.927314,2025-09-02 21:15:00
+237,Jyoti Modi,jyoti.modi56@example.com,+91 00000 87888,USER ,Mumbai,ACTIVE,19.068426,72.866104,13/09/2025 20:13:00
+577,Abhishek Menon,abhishek.menon63@example.com,+91 00000 15455,USER,Mumbai,ACTIVE,19.165614,72.85787,2025-07-29 01:36:00
+61,Kabir Mehta,kabir.mehta72@example.com,(+91) 00000 85430,USER,Mumbai,ACTIVE,18.989023,72.82835,19/08/2025 15:04:00
+154,Sagar Malhotra,sagar.malhotra26@example.com,0000098318,USER,Navi Mumbai,ACTIVE,19.036766,73.028494,19/11/2025 21:40:00
+9,Vaishnavi Dubey,vaishnavi.dubey48@example.com,+91-00000-99508,OPERATOR,Mumbai,ACTIVE,19.073961,72.87156,14/06/2025 18:51:00
+616,Fatima Parab,fatima.parab95@example.com,(+91) 00000 69880,USER,Mumbai,ACTIVE,19.044548,72.90133,2025-11-03 04:57:00
+444,Rekha Srivastava,rekha.srivastava87@example.com,+91-00000-56178,USER,Mumbai,ACTIVE,19.077492,72.903379,2025-07-11 09:58:00
+433,Aditya Hegde,aditya.hegde63@example.com,+91 00000 36104,USER,Mumbai,ACTIVE,19.184848,72.927711,2025-08-23 03:55:00
+165,Pallavi Soni,pallavi.soni18@example.com,+910000039408,USER,Mumbai,ACTIVE,19.117966,72.872733,2025-07-08 20:54:00
+294,Siddharth Fernandes,siddharth.fernandes84@example.com,(+91) 00000 58418,USER,Mumbai,ACTIVE,19.067826,72.871725,2025-09-05 06:03:00
+574,Kabir Subramanian,kabir.subramanian66@example.com,+91 00000 57261,USER,Navi Mumbai,ACTIVE,18.97963,73.115175,2026-06-23 14:55:00
+21,Zoya Pereira,zoya.pereira26@example.com,+910000011271,USER ,Navi Mumbai,ACTIVE,19.052176,73.068136,2025-08-01 23:39:00
+441,Harpreet Rodrigues,harpreet.rodrigues36@example.com,+91 00000 50713,USER,Mumbai,ACTIVE,19.178636,72.937705,2025-09-04 05:33:00
+580,Gayatri Tendulkar,gayatri.tendulkar12@example.com,(+91) 00000 53748,USER,Mumbai,ACTIVE,19.163549,72.858375,2025-09-15 13:11:00
+629,Pallavi Naidu,pallavi.naidu89@example.com,+91 00000 62803,USER,Mumbai,ACTIVE,19.01593,72.840951,2026-09-15 07:53:00
+435,Vedant Wagh,vedant.wagh23@example.com,+91 00000 42745,USER,Mumbai,ACTIVE,19.152733,72.855438,2026-01-02 02:19:00
+555,Ishaan Subramanian,ishaan.subramanian86@example.com,+91 00000 88788,USER,Mumbai,ACTIVE,19.203229,72.845721,2025-08-23 17:37:00
+465,Aryan Pillai,aryan.pillai83@example.com,+91-00000-67970,USER,Navi Mumbai,ACTIVE,19.032588,73.073346,17/08/2025 06:22:00
+649,Chaitali Arora,CHAITALI.ARORA59@EXAMPLE.COM,+91 00000 89012,USER,Mumbai,ACTIVE,19.024763,72.853768,2025-08-28 02:43:00
+636,Manish Ranade,manish.ranade79@example.com,0000095937,user,Mumbai,ACTIVE,19.086241,72.91755,06/05/2026 11:59:00
+472,Madhuri Bansal,madhuri.bansal29@example.com,+91 00000 60210,USER,Mumbai,ACTIVE,19.096874,72.87377,2025-07-18 22:52:00
+283,Neha Pandya,neha.pandya46@example.com,+910000057973,USER,Mumbai,ACTIVE,19.078718,72.890097,2025-09-30 18:22:00
+133,Sonal Thakur,sonal.thakur89@example.com,+91 00000 80454,USER,Mumbai,ACTIVE,19.218808,72.852676,2025-07-03 08:27:00
+25,Lata Trivedi,lata.trivedi37@example.com,+91-00000-18490,USER,Navi Mumbai,ACTIVE,19.061291,73.07221,2026-03-26 22:07:00
+407,Chetan Pereira,chetan.pereira92@example.com,,USER,Mumbai,ACTIVE,19.215839,72.854585,2026-05-05 05:12:00
+88,Rutuja Trivedi,rutuja.trivedi90@example.com,0000061733,USER,Mumbai,ACTIVE,19.070988,72.915413,06/09/2025 23:55:00
+19,Rohan Hegde,rohan.hegde34@example.com,(+91) 00000 32925,FLEET_MANAGER,Navi Mumbai,ACTIVE,18.990107,73.111397,2025-06-05 17:49:00
+71,Jay Saxena,jay.saxena14@example.com,+91 00000 32949,USER,Kalyan-Dombivli,ACTIVE,19.225415,73.137405,2026-08-20 23:51:00
+355,Sneha Waghmare,sneha.waghmare15@example.com,0000066045,USER,Navi Mumbai,ACTIVE,19.029865,73.040746,2025-07-21 07:41:00
+635,Mohit Sonawane,mohit.sonawane76@example.com,+91 00000 86769,USER,Mumbai,ACTIVE,19.033648,72.852501,03/07/2025 11:22:00
+583,Vijay Krishnan,vijay.krishnan39@example.com,+91 00000 62361,USER,Navi Mumbai,ACTIVE,18.98837,73.122087,26/05/2026 16:40:00
+459,PAYAL DAS,payal.das11@example.com,0000032223,USER,Mumbai,ACTIVE,19.146498,72.854066,2025-07-05 21:22:00
+251,Amruta Kamble,amruta.kamble64@example.com,+91 00000 45079,USER,Navi Mumbai,ACTIVE,19.046324,73.030737,2026-03-22 07:56:00
+491,Imran Gupta,imran.gupta81@example.com,+91 00000 61122,USER,Kalyan-Dombivli,ACTIVE,19.241587,73.142958,2025-07-14 22:55:00
+624, ananya dutta  ,ananya.dutta60@example.com,+91-00000-34258,USER,Navi Mumbai,active,19.072516,73.0019,13/07/2025 12:13:00
+503,Hemant Surve,hemant.surve40@example.com,+910000038605,USER,Mumbai,ACTIVE,19.228841,72.86304,2025-07-23 18:55:00
+276,Isha Subramanian,isha.subramanian88@example.com,+91 00000 80470,USER,Navi Mumbai,ACTIVE,19.00218,73.100931,2025-08-28 10:52:00
+376,Sagar Fernandes,sagar.fernandes66@example.com,+91 00000 34861,USER,N/A,ACTIVE,19.218072,73.094398,2025-08-05 14:09:00
+351,Harsh Chawla,harsh.chawla34@example.com,+91 00000 69598,USER,Mumbai,ACTIVE,19.006528,72.808544,2026-08-05 13:36:00
+48,Siddharth Chavan,siddharth.chavan48@example.com,+910000043261,USER,Navi Mumbai,ACTIVE,19.056139,73.055677,2026-07-26 20:28:00
+646,Tushar Bhatia,tushar.bhatia25@example.com,+91 00000 97373,USER,Mumbai,ACTIVE,19.16018,72.950084,2025-10-10 02:59:00
+559, uday fernandes  ,uday.fernandes32@example.com,+91 00000 49131,USER,Navi Mumbai,ACTIVE,19.064297,73.008979,2025-08-07 11:14:00
+184,Supriya Rodrigues,supriya.rodrigues46@example.com,+91 00000 48909,USER,Mumbai,ACTIVE,19.155876,72.938051,2025-09-02 09:17:00
+287,Gurpreet Dubey,gurpreet.dubey68@example.com,+910000088792,USER,Mumbai,ACTIVE,19.028864,72.853196,2025-09-25 10:53:00
+255,Isha Srivastava,isha.srivastava73@example.com,+910000062751,USER,Navi Mumbai,ACTIVE,19.033327,73.071875,2025-08-11 07:29:00
+358,Uday Gill,uday.gill69@example.com,+910000061499,USER,Mumbai,ACTIVE,19.094766,72.903843,15/07/2025 19:22:00
+146,Irfan Patil,irfan.patil92@example.com,+91-00000-98399,USER,Navi Mumbai,ACTIVE,19.039252,73.071287,2025-09-10 10:05:00
+78,Gaurav Parab,gaurav.parab41@example.com,+91-00000-88033,USER,Mumbai,ACTIVE,19.064122,72.878334,01/07/2025 08:35:00
+197,Anil Kotian,anil.kotian81@example.com,+91-00000-75022,USER,Navi Mumbai,ACTIVE,19.080223,72.987086,24/08/2025 05:43:00
+382,Bhavesh Agarwal,bhavesh.agarwal93@example.com,(+91) 00000 79002,USER,Thane,ACTIVE,19.225326,72.978548,2025-09-13 18:59:00
+361,Manpreet Pereira,manpreet.pereira82@example.com,0000080477,USER,Mumbai,ACTIVE,19.04999,72.912055,13/08/2025 14:35:00
+578,Chetan D'Souza, Chetan.dsouza50@example.com ,+91-00000-11514,USER,Navi Mumbai,ACTIVE,19.051141,73.068625,2025-07-18 03:44:00
+82,Hemant Qureshi,hemant.qureshi27@example.com,0000084075,USER,Mumbai,ACTIVE,19.169531,72.853015,2026-04-19 07:48:00
+7,Sneha Iyer,sneha@voltslot.in,+91-00000-30265,USER,Mumbai,ACTIVE,19.009428,72.861447,2025-09-09 08:30:00
+498,Vaishnavi Jadhav,vaishnavi.jadhav20@example.com,+91-00000-94813,USER,Thane,ACTIVE,19.224269,72.953092,22/08/2025 16:31:00
+340,Shreyas Rodrigues,shreyas.rodrigues13@example.com,+91 00000 68319,USER,Navi Mumbai,ACTIVE,19.025192,73.030334,29/08/2025 06:07:00
+631,Uday Surve,uday.surve15@example.com,+91 00000 37595,USER,Mumbai,ACTIVE,19.053051,72.901616,2026-03-26 21:10:00
+252,Meera Kulkarni,meera.kulkarni69@example.com,+910000057926,USER,Mumbai,ACTIVE,19.097771,72.89027,2026-01-21 11:36:00
+91,Zubin Subramanian,zubin.subramanian88@example.com,+91 00000 88735,USER,Thane,ACTIVE,19.224489,72.988967,2026-03-28 01:41:00
+86,Rizwan Mehta,rizwan.mehta25@example.com,0000025959,USER,Navi Mumbai,ACTIVE,19.039417,73.015226,2026-07-31 20:05:00
+370,Mihir Dias,mihir.dias54@example.com,+91 00000 63617,USER ,Mumbai,ACTIVE,19.15386,72.943135,2025-08-25 06:39:00
+548,Lalit Krishnan,lalit.krishnan62@example.com,+91 00000 39428,USER,Mumbai,ACTIVE,19.1973,72.848272,2025-10-25 07:42:00
+501,Radhika Kothari,radhika.kothari10@example.com,+91 00000 94327,USER,Kalyan-Dombivli,ACTIVE,19.211117,73.086035,2025-07-12 21:23:00
+445,Rohan Bansal,rohan.bansal66@example.com,+91 00000 34085,USER,Navi Mumbai,ACTIVE,19.00114,73.10363,2025-09-11 02:57:00
+634,Bhakti Arora,bhakti.arora93@example.com,+91 00000 32694,USER,Navi Mumbai,ACTIVE,19.065564,73.066072,26/07/2025 07:33:00
+607,Smita Joshi,smita.joshi78@example.com,+91 00000 79637,USER,Mumbai,ACTIVE,19.207112,72.857532,2025-09-22 10:32:00
+5,Priya Nair,priya@voltslot.in,0000046662,USER,N/A,ACTIVE,19.155817,72.870679,2025-08-21 11:05:00
+627,Namrata Sandhu,namrata.sandhu41@example.com,+91 00000 48309,USER,Navi Mumbai,ACTIVE,19.081163,72.991833,2025-08-11 08:02:00
+121,Karan Deshmukh,karan.deshmukh93@example.com,0000026909,USER,Kalyan-Dombivli,ACTIVE,19.214725,73.083808,2025-11-25 03:13:00
+371,Gurpreet Menon,gurpreet.menon80@example.com,+91 00000 75741,USER,Mumbai,ACTIVE,19.047583,72.899646,2025-08-10 00:13:00
+181,Rohan Menon,rohan.menon83@example.com,+91 00000 60331,USER,Kalyan-Dombivli,ACTIVE,19.218225,73.081326,13/09/2025 18:30:00
+642,Mansi More,mansi.more21@example.com,+91 00000 92217,USER,Navi Mumbai,ACTIVE,19.052641,73.074952,03/12/2025 15:45:00
+428,Pratik Dave,pratik.dave67@example.com,(+91) 00000 51989,USER,Mumbai,ACTIVE,19.06615,72.865743,2025-08-16 15:03:00
+324,Kiran Ranade,kiran.ranade14@example.com,+91 00000 72076,user,Kalyan-Dombivli,ACTIVE,19.220911,73.102948,2025-07-07 01:49:00
+610,Amit D'Souza,amit.dsouza13@example.com,+91 00000 55690,USER,Thane,ACTIVE,19.229752,72.989172,2026-04-17 15:51:00
+645,Amit Joshi,amit.joshi80@example.com,+91 00000 45510,USER,Navi Mumbai,ACTIVE,18.987684,73.11369,2025-07-16 16:51:00
+495,Irfan Tendulkar,irfan.tendulkar31@example.com,0000076630,USER,Mumbai,ACTIVE,19.056267,72.897853,2026-07-18 03:19:00
+40,Anjali Iyer,anjali.iyer17@example.com,+91-00000-63835,USER,Mumbai,ACTIVE,19.045285,72.901274,17/06/2026 17:05:00
+457,Amit Phadke,amit.phadke80@example.com,+91 00000 71204,USER,Kalyan-Dombivli,ACTIVE,19.251992,73.129271,2026-02-07 23:20:00
+512,Sandeep Dutta,sandeep.dutta99@example.com,+91 00000 54848,USER ,Kalyan-Dombivli,active,19.22389,73.092601,2025-08-08 19:50:00
+129,Payal Pereira,payal.pereira88@example.com,+91 00000 32389,USER,Mumbai,ACTIVE,19.192794,72.845349,2026-06-12 12:15:00
+330, uday reddy  ,uday.reddy35@example.com,+91 00000 87090,USER,Thane,ACTIVE,19.221563,72.970018,2025-08-08 17:57:00
+147,Aryan Surve,aryan.surve18@example.com,+91-00000-64371,USER,Mumbai,ACTIVE,19.197956,72.842092,2025-09-12 19:24:00
+504,Varun Ranade,varun.ranade75@example.com,+91 00000 39627,USER,Mumbai,ACTIVE,19.147185,72.8609,2025-07-26 07:59:00
+105,Simran More,SIMRAN.MORE14@EXAMPLE.COM,0000072414,USER,Thane,ACTIVE,19.221823,72.974557,2025-12-14 15:07:00
+38,Pranav Reddy,pranav.reddy58@example.com,+91 00000 44097,USER,Navi Mumbai,ACTIVE,19.038443,73.039428,2025-10-07 01:01:00
+49,Neha Parab,neha.parab35@example.com,+91 00000 15975,USER,Kalyan-Dombivli,ACTIVE,19.241453,73.08005,2025-10-01 13:19:00
+195,Sanjay Srivastava,sanjay.srivastava83@example.com,,USER,Mumbai,ACTIVE,19.172896,72.85499,2025-10-06 17:51:00
+116,Divya Subramanian,divya.subramanian68@example.com,(+91) 00000 15184,USER,Navi Mumbai,ACTIVE,19.039586,73.023719,2026-05-01 20:48:00
+246,Aditya Krishnan,aditya.krishnan16@example.com,+91-00000-52007,USER,Mumbai,ACTIVE,19.173687,72.864118,2025-07-13 08:13:00
+74,Yash Rodrigues,yash.rodrigues19@example.com,+91 00000 39319,USER,Mumbai,ACTIVE,19.063287,72.905478,2026-05-20 02:28:00
+349,Fatima Mehta,fatima.mehta63@example.com,+910000048540,USER ,Mumbai,ACTIVE,19.015174,72.867977,2025-07-13 16:28:00
+492,JASLEEN KAPOOR,jasleen.kapoor92@example.com,(+91) 00000 51520,USER,Thane,ACTIVE,19.223485,72.993166,2026-09-22 21:05:00
+239,Pratik Gomes,pratik.gomes84@example.com,+91-00000-91893,USER,Navi Mumbai,ACTIVE,19.031474,73.017255,2025-07-09 18:11:00
+316,Mohit Sharma,mohit.sharma59@example.com,0000037309,USER,Navi Mumbai,ACTIVE,19.074392,72.994966,16/08/2025 02:43:00
+393,Akash Arora,akash.arora88@example.com,0000078594,USER,Mumbai,ACTIVE,19.176918,72.930438,2025-12-27 23:47:00
+449,Vaishnavi Rodrigues,vaishnavi.rodrigues56@example.com,0000062024,USER,Mumbai,active,19.185414,72.863033,2025-09-29 20:42:00
+479,Suresh Kamat,suresh.kamat25@example.com,0000083553,USER,Mumbai,ACTIVE,19.172853,72.938517,2026-06-19 21:44:00
+430,Uday Bose,uday.bose65@example.com,+91 00000 35737,USER,Mumbai,ACTIVE,19.107848,72.862243,2025-08-22 10:58:00
+626,Rekha Iyer,rekha.iyer85@example.com,+91-00000-22849,USER,Kalyan-Dombivli,ACTIVE,19.204053,73.101287,2026-04-26 16:48:00
+149,Aarav Parekh,aarav.parekh12@example.com,0000094540,USER,Mumbai,ACTIVE,19.237716,72.859286,2025-07-06 07:23:00
+193,Kabir Agarwal,kabir.agarwal86@example.com,0000059787,USER,Mumbai,ACTIVE,19.172092,72.845271,2026-05-21 04:24:00
+589,Sana Arora,sana.arora73@example.com,+91-00000-75053,USER,Navi Mumbai,ACTIVE,19.065335,73.064118,2025-11-04 05:40:00
+505,Karan Bose,KARAN.BOSE27@EXAMPLE.COM,(+91) 00000 18629,USER,Navi Mumbai,ACTIVE,19.034828,73.017255,2025-09-10 22:06:00
+395,Riya Pandey,riya.pandey42@example.com,0000097747,USER,Mumbai,ACTIVE,19.015459,72.853279,2025-07-18 18:05:00
+216,Disha Parab,disha.parab81@example.com,+91 00000 29007,USER,Kalyan-Dombivli,ACTIVE,19.22391,73.089931,2025-08-29 08:59:00
+35,Salman Thakur,salman.thakur73@example.com,+91-00000-13487,USER,Mumbai,ACTIVE,19.162939,72.87169,24/08/2025 09:02:00
+244,Manish Das,manish.das22@example.com,0000023048,USER,Thane,ACTIVE,19.213902,72.99076,24/04/2026 16:38:00
+144,Imran Bhat,imran.bhat51@example.com,+910000034412,USER,Mumbai,ACTIVE,19.23257,72.84256,2025-09-30 15:11:00
+400,Kabir Chawla,kabir.chawla21@example.com,+91 00000 52653,USER,Mumbai,ACTIVE,19.099019,72.836264,2025-09-23 08:37:00
+593,Tushar Das,tushar.das41@example.com,0000012344,USER,Mumbai,ACTIVE,19.014706,72.855012,2025-09-25 15:53:00
+265,Arjun Subramanian,arjun.subramanian52@example.com,+91 00000 72136,USER,Mumbai,ACTIVE,19.057349,72.903882,2025-07-10 02:10:00
+350,Tushar Bansal,tushar.bansal17@example.com,+91-00000-51673,USER,Kalyan-Dombivli,ACTIVE,19.24327,73.133064,05/04/2026 12:35:00
+431,Manpreet Chopra,manpreet.chopra27@example.com,+91 00000 82949,USER,Mumbai,ACTIVE,19.097732,72.880395,14/08/2026 03:16:00
+429,Vaishnavi Sen,vaishnavi.sen69@example.com,+91 00000 75849,USER,Mumbai,ACTIVE,19.123914,72.858433,2025-08-19 10:06:00
+374,Pranav Phadke,pranav.phadke82@example.com,0000054002,USER,Kalyan-Dombivli,ACTIVE,19.233883,73.091627,2025-07-21 17:57:00
+547,Vinay Yadav,vinay.yadav69@example.com,+91 00000 24441,USER,Navi Mumbai,ACTIVE,19.045954,73.031182,2026-04-27 07:55:00
+560,Bhavesh Ramesh,bhavesh.ramesh11@example.com,(+91) 00000 34452,USER,Mumbai,ACTIVE,19.054051,72.908606,2025-09-30 20:27:00
+633,Sandeep Arora,sandeep.arora61@example.com,+91 00000 94758,USER,Mumbai,ACTIVE,19.219783,72.861709,2026-04-03 14:52:00
+342,Ritesh Soni,ritesh.soni38@example.com,0000022314,USER ,Mumbai,ACTIVE,19.064985,72.873024,2026-02-03 18:06:00
+438,Irfan Shukla,irfan.shukla76@example.com,+91 00000 28707,USER,Navi Mumbai,ACTIVE,19.05253,73.053196,2026-06-15 07:11:00
+395,Riya Pandey,riya.pandey42@example.com,0000097747,USER,Mumbai,ACTIVE,19.015459,72.853279,2025-07-18 18:05:00
+44,Anil Gill,anil.gill28@example.com,+91-00000-88509,USER,Kalyan-Dombivli,active,19.207658,73.089788,13/08/2025 09:22:00
+567,Sonal Saxena,sonal.saxena80@example.com,+91 00000 39919,user,Mumbai,active,19.051812,72.901562,2025-08-08 13:14:00
+231,Swati Das,swati.das11@example.com,+91-00000-89872,USER,Mumbai,ACTIVE,19.027614,72.839373,2025-08-13 05:40:00
+356,Sana Kothari,sana.kothari22@example.com,+91 00000 40630,USER,Kalyan-Dombivli,ACTIVE,19.261531,73.140713,2025-09-04 08:02:00
+20,Rakesh Dave,rakesh.dave66@example.com,(+91) 00000 33024,FLEET_MANAGER,Mumbai,ACTIVE,19.118797,72.870119,2025-06-16 23:13:00
+151,Amruta Kamat,amruta.kamat58@example.com,+910000083147,USER,Kalyan-Dombivli,ACTIVE,19.221627,73.092816,2026-07-01 09:09:00
+298,Rajesh Malhotra,rajesh.malhotra67@example.com,+91 00000 31597,USER,Mumbai,ACTIVE,19.011357,72.848701,2025-07-17 14:07:00
+84, shruti qureshi  ,shruti.qureshi89@example.com,+91 00000 56887,user,Navi Mumbai,ACTIVE,73.108826,18.982058,2025-09-03 07:16:00
+418,Varun Iyer,varun.iyer96@example.com,+91 00000 41806,USER,Mumbai,ACTIVE,19.018722,72.860957,05/07/2025 01:44:00
+34,Anjali Arora,anjali.arora68@example.com,+91 00000 39359,USER,Mumbai,ACTIVE,19.008102,72.845103,2025-09-26 04:02:00
+392,Vedant Vyas,vedant.vyas36@example.com,+91-00000-67688,USER,Mumbai,ACTIVE,19.228713,72.863092,2025-08-12 05:51:00
+92,Manpreet Mistry,manpreet.mistry71@example.com,+910000044907,USER,Navi Mumbai,ACTIVE,18.980675,73.108888,2025-07-03 06:42:00
+256,Vrushali Bajaj,vrushali.bajaj26@example.com,+91 00000 68240,USER,Kalyan-Dombivli,ACTIVE,19.250399,73.142477,07/08/2025 02:05:00
+655,Gaurav Qureshi,gaurav.qureshi28@example.com,+91 00000 30523,USER,Mumbai,BLOCKED,19.171926,72.844657,2025-07-02 07:22:00
+590,Bhavesh Mukherjee, Bhavesh.mukherjee28@example.com ,+91 00000 99602,USER,Navi Mumbai,active,19.060835,72.985343,02/02/2026 11:38:00
+586,Mansi Siddiqui,mansi.siddiqui27@example.com,+91 00000 27108,USER,Mumbai,ACTIVE,19.071051,72.915375,23/08/2025 20:57:00
+341,Aarav Khan,aarav.khan77@example.com,0000059615,USER,Mumbai,ACTIVE,19.040486,72.855771,2025-07-26 08:39:00
+446,Trisha Kapoor,trisha.kapoor98@example.com,0000076017,USER,Mumbai,ACTIVE,19.221812,72.862806,20/09/2025 06:29:00
+408,SHREYAS BOSE,shreyas.bose35@example.com,+91 00000 74825,USER,Mumbai,active,19.226767,72.861537,10/09/2025 08:31:00
+402,Lalit Subramanian,lalit.subramanian27@example.com,+910000080645,USER,Kalyan-Dombivli,ACTIVE,19.210153,73.080512,2025-07-17 09:42:00
+226,Shreyas Trivedi,shreyas.trivedi66@example.com,+91 00000 19627,USER,Navi Mumbai,ACTIVE,18.985008,73.1314,2025-09-09 16:52:00
+436,Trisha Tendulkar,trisha.tendulkar24@example.com,0000089130,USER,Kalyan-Dombivli,ACTIVE,19.246609,73.139853,22/08/2025 07:39:00
+573,Sandeep Das,sandeep.das62@example.com,(+91) 00000 23745,USER,Mumbai,ACTIVE,19.061686,72.896599,25/08/2025 17:59:00
+571,Tarun Lobo,tarun.lobo27@example.com,+910000043187,USER,Mumbai,ACTIVE,19.120985,72.91744,2026-08-17 08:43:00
+528,Payal Soni,payal.soni33@example.com,+91 00000 51404,USER,Mumbai,ACTIVE,19.095087,72.894937,09/08/2025 07:44:00
+401,Kedar Gill,kedar.gill92@example.com,+91 00000 76830,USER,Navi Mumbai,ACTIVE,19.041574,73.074354,2026-04-26 06:21:00
+13,Sapna Lobo,sapna.lobo64@example.com,+91 00000 62093,OPERATOR,Mumbai,ACTIVE,19.055918,72.856638,01/07/2025 20:58:00
+187,Ganesh Bhatt,ganesh.bhatt47@example.com,+910000010057,USER,Kalyan-Dombivli,ACTIVE,19.242662,73.145079,2025-08-05 10:12:00
+179,Lalit Mascarenhas,lalit.mascarenhas98@example.com,+91 00000 60574,USER,Kalyan-Dombivli,ACTIVE,19.234524,73.136991,14/07/2025 21:36:00
+153,Vijay Bhatt,vijay.bhatt32@example.com,+91 00000 83611,USER,Navi Mumbai,ACTIVE,19.04382,73.073251,2025-08-02 15:23:00
+502,Riya Chatterjee,riya.chatterjee78@example.com,+91 00000 21862,USER,Mumbai,ACTIVE,19.129341,72.906033,2025-08-31 08:36:00
+494,Nisha Das,nisha.das74@example.com,+91 00000 14921,USER,Mumbai,ACTIVE,19.06682,72.90233,2025-08-09 17:30:00
+458,Nitin Bhosale,nitin.bhosale78@example.com,(+91) 00000 39975,USER,Thane,ACTIVE,19.222554,73.000915,2026-02-15 07:10:00
+536,Suresh Mhatre,suresh.mhatre10@example.com,(+91) 00000 27521,USER,Mumbai,ACTIVE,19.031761,72.859098,2025-07-14 23:18:00
+596,Rizwan Hegde,rizwan.hegde95@example.com,+91 00000 57438,USER,Mumbai,ACTIVE,19.049221,72.888171,2025-09-10 17:49:00
+539,Harpreet Deshmukh,HARPREET.DESHMUKH20@EXAMPLE.COM,+91 00000 52003,USER,Mumbai,ACTIVE,19.016887,72.816176,12/07/2025 22:10:00
+50,Sana Patil,sana.patil86@example.com,(+91) 00000 59344,USER,Mumbai,ACTIVE,19.089324,72.903561,2025-08-13 06:29:00
+467,Jyoti Qureshi,jyoti.qureshi75@example.com,+91 00000 56617,USER,Mumbai,ACTIVE,19.243635,72.86263,23/07/2025 19:57:00
+214,Rutuja Fernandes,rutuja.fernandes86@example.com,+91 00000 83774,USER,Navi Mumbai,ACTIVE,19.035136,73.017585,2025-09-05 10:50:00
+425, mohit tiwari  ,mohit.tiwari15@example.com,+91 00000 18708,user,Navi Mumbai,ACTIVE,19.041923,73.022257,2025-07-12 19:15:00
+16,Yash Dalvi,yash.dalvi87@example.com,,FLEET_MANAGER,Mumbai,ACTIVE,19.092434,72.851402,22/06/2025 01:22:00
+412,Omkar Ghosh,omkar.ghosh80@example.com,0000038412,USER,Mumbai,ACTIVE,19.087265,72.937171,2025-10-09 09:53:00
+43,Lata Shenoy,lata.shenoy29@example.com,+91 00000 72469,USER,Navi Mumbai,ACTIVE,19.06026,72.991098,2025-07-29 07:14:00
+249,Sameer Singh,sameer.singh25@example.com,+91 00000 13870,USER,Kalyan-Dombivli,active,19.208385,73.092792,2026-04-16 12:35:00
+293,Mansi Arora,mansi.arora12@example.com,0000038809,USER,Mumbai,ACTIVE,19.177374,72.860676,10/09/2025 10:24:00
+474,Vikram Qureshi,vikram.qureshi13@example.com,+91 00000 24224,USER,Mumbai,active,19.088922,72.918054,2025-08-14 01:00:00
+145,Sanjay Gaikwad,SANJAY.GAIKWAD10@EXAMPLE.COM,+91 00000 41846,USER,N/A,ACTIVE,19.027232,72.843602,2025-07-28 16:06:00
+270,Tejal Joglekar,tejal.joglekar92@example.com,+91-00000-95296,USER,Mumbai,ACTIVE,19.022768,72.831918,2025-07-13 07:41:00
+319,Ankit Mhatre,ankit.mhatre29@example.com,(+91) 00000 49114,USER,Mumbai,active,19.179383,72.839272,08/08/2026 23:50:00
+389,Madhuri Chawla, Madhuri.chawla64@example.com ,+91 00000 97448,USER,Thane,ACTIVE,19.214792,72.978756,2025-07-01 09:27:00
+468,Sonal Apte,sonal.apte30@example.com,+91-00000-89799,USER,Mumbai,ACTIVE,19.062501,72.90589,2025-11-04 14:31:00
+100,Chetan Wagh,chetan.wagh85@example.com,+91 00000 24560,USER,Thane,ACTIVE,19.21728,72.977644,2026-01-11 01:22:00
+95,Meera Thakur,meera.thakur85@example.com,+91 00000 24372,user,Navi Mumbai,ACTIVE,19.044958,73.069721,2025-09-11 04:37:00
+211,Chetan Bhat,chetan.bhat53@example.com,+91 00000 77095,USER,Thane,ACTIVE,19.201625,72.985856,03/07/2025 06:42:00
+542,Vinay Poojary,vinay.poojary36@example.com,+91 00000 54174,USER,Mumbai,ACTIVE,19.018731,72.842767,23/09/2025 22:45:00
+482,Ankit Kotian,ANKIT.KOTIAN91@EXAMPLE.COM,+91 00000 55617,USER,Navi Mumbai,ACTIVE,19.029282,73.032153,2025-08-01 22:14:00
+290,Kavya Chawla,kavya.chawla72@example.com,+91 00000 38249,USER,Mumbai,ACTIVE,19.170363,72.858058,2026-04-04 07:03:00
+483,Anjali Shah,anjali.shah47@example.com,+91 00000 87409,USER,Mumbai,ACTIVE,19.015962,72.830787,31/08/2025 11:03:00
+375,Riya Sonawane,riya.sonawane98@example.com,(+91) 00000 60273,USER,Mumbai,ACTIVE,19.089335,72.903305,25/08/2025 10:37:00
+387,Nikhil Bhatia,nikhil.bhatia17@example.com,+91 00000 53722,USER,Mumbai,active,19.17265,72.935081,2026-01-17 08:02:00
+173,Chaitali Mascarenhas,chaitali.mascarenhas28@example.com,+91 00000 59407,USER,N/A,ACTIVE,19.081444,72.913829,2025-09-27 19:27:00
+595,Sagar Apte,sagar.apte38@example.com,0000028900,USER,Mumbai,ACTIVE,19.170438,72.831743,2025-09-08 16:59:00
+108,Aishwarya Shukla,aishwarya.shukla57@example.com,+91-00000-27114,USER,Navi Mumbai,ACTIVE,19.037189,73.020602,2025-08-04 04:43:00
+235,Divya Fernandes,divya.fernandes57@example.com,+91 00000 65806,USER,Navi Mumbai,ACTIVE,19.025514,73.031132,2026-09-06 23:23:00
+163,Isha Soni,isha.soni22@example.com,+91 00000 50145,USER,Mumbai,ACTIVE,19.17814,72.929425,2025-09-25 17:02:00
+644,Trisha Bajaj,trisha.bajaj67@example.com,+91 00000 69371,USER,Mumbai,ACTIVE,19.230191,72.861348,2025-09-08 02:49:00
+321,Dev Srivastava,dev.srivastava87@example.com,+91 00000 70764,USER,Mumbai,ACTIVE,19.222446,72.86215,2025-07-07 18:16:00
+202,Pranav Kapoor,pranav.kapoor50@example.com,0000070159,USER,Navi Mumbai,ACTIVE,19.050568,73.068514,2026-02-22 14:11:00
+481,Jyoti Bhide,jyoti.bhide81@example.com,+91 00000 90293,USER,Navi Mumbai,active,19.073151,72.992739,2025-11-23 00:49:00
+609,Pratik Mehta,pratik.mehta57@example.com,+91 00000 97887,USER,Navi Mumbai,ACTIVE,19.073568,73.013768,2025-09-23 11:21:00
+107,Namrata Patil,namrata.patil84@example.com,+91 00000 21642,USER,Mumbai,ACTIVE,19.180031,72.949429,2026-07-19 16:38:00
+434,Sana Malhotra,sana.malhotra15@example.com,+91 00000 25848,USER ,Kalyan-Dombivli,ACTIVE,19.216695,73.086439,2025-08-26 19:14:00
+456,Rekha Arora,rekha.arora24@example.com,+91 00000 65146,USER,Navi Mumbai,ACTIVE,19.053096,73.073306,2026-08-23 02:52:00
+336,Yogesh Shetty,YOGESH.SHETTY71@EXAMPLE.COM,+91 00000 21808,USER,Navi Mumbai,ACTIVE,19.048007,73.077515,2025-08-01 22:39:00
+69,Shweta Ranade,shweta.ranade51@example.com,0000020750,USER,Mumbai,ACTIVE,19.081751,72.836665,2025-09-19 05:37:00
+622,Sana Bhosale,sana.bhosale68@example.com,+91-00000-10610,user,Mumbai,ACTIVE,19.177096,72.870199,2025-08-29 04:07:00
+37,Farhan Patil,farhan.patil43@example.com,0000044732,USER,Mumbai,ACTIVE,19.155893,72.940877,2025-08-31 03:24:00
+423,Kunal Gaikwad,kunal.gaikwad68@example.com,+910000071677,USER,Thane,ACTIVE,19.208759,72.985261,2025-08-28 23:13:00
+57,Aisha Menon,aisha.menon93@example.com,0000097712,USER,Mumbai,active,19.04903,72.904823,22/09/2025 14:13:00
+127,Suresh Chavan,suresh.chavan77@example.com,+910000067616,USER,Mumbai,ACTIVE,19.206044,72.840797,2025-11-05 05:03:00
+68,Vaishnavi Waghmare,vaishnavi.waghmare95@example.com,+91 00000 34947,USER,Navi Mumbai,ACTIVE,19.043772,73.07477,15/06/2026 03:33:00
+229,Supriya Joshi,supriya.joshi13@example.com,+91 00000 43666,USER,Navi Mumbai,ACTIVE,19.078073,72.981719,2025-09-27 05:40:00
+174,Abhishek Kamble,abhishek.kamble97@example.com,+91-00000-76639,USER,Mumbai,ACTIVE,19.196217,72.854965,2025-07-23 17:45:00
+618,Tarun Phadke,tarun.phadke78@example.com,+91 00000 34440,USER,Navi Mumbai,ACTIVE,19.042064,73.076065,2025-12-16 10:39:00
+654,Bhavesh Apte,bhavesh.apte66@example.com,+91 00000 57396,USER ,Mumbai,ACTIVE,19.092883,72.90176,2025-09-25 22:32:00
+18,Mansi Jadhav,mansi.jadhav26@example.com,(+91) 00000 51744,FLEET_MANAGER,Mumbai,ACTIVE,19.022373,72.849557,2025-06-17 03:23:00
+185,Sagar Bose,sagar.bose73@example.com,+91 00000 72997,USER,Mumbai,ACTIVE,19.18134,72.857041,2025-08-20 08:22:00
+233,Aishwarya Mukherjee,aishwarya.mukherjee10@example.com,+91 00000 47672,USER,Mumbai,ACTIVE,19.244639,72.853327,2025-09-14 01:52:00
+439,Rutuja Gokhale,rutuja.gokhale61@example.com,+91 00000 31786,USER,Navi Mumbai,ACTIVE,18.980623,73.121875,2025-07-01 20:50:00
+300,Simran Trivedi,simran.trivedi37@example.com,+91 00000 51147,USER,Navi Mumbai,ACTIVE,18.985162,73.117761,28/07/2025 06:25:00
+337, vinay malhotra  ,vinay.malhotra16@example.com,+91-00000-49885,USER,Mumbai,ACTIVE,19.036361,72.886414,2025-08-18 08:33:00
+572,Anjali Prabhu,anjali.prabhu92@example.com,+91 00000 53216,USER,Mumbai,ACTIVE,19.064901,72.889957,2025-07-22 12:53:00
+365,Arnav Khan,arnav.khan28@example.com,+91 00000 92259,USER,Mumbai,ACTIVE,19.08399,72.893636,2026-01-17 10:11:00
+473,Sameer Rodrigues,sameer.rodrigues49@example.com,+91 00000 98446,USER,Navi Mumbai,ACTIVE,19.080383,73.002486,2025-12-03 07:52:00
+182,Sanjay Pandey,sanjay.pandey91@example.com,+91 00000 81265,USER,Mumbai,ACTIVE,19.247605,72.85068,08/07/2025 06:12:00
+538,Tushar Mhatre,tushar.mhatre89@example.com,+91 00000 40711,USER,Mumbai,ACTIVE,19.012732,72.852094,2025-07-11 20:43:00
+582,Radhika Shenoy,radhika.shenoy36@example.com,0000017665,USER,Navi Mumbai,ACTIVE,19.084438,72.992489,2025-07-06 14:20:00
+414,Ritesh Sawant,ritesh.sawant31@example.com,+91 00000 17739,USER,Mumbai,ACTIVE,19.02573,72.822474,2026-05-26 13:40:00
+314,Disha Waghmare,disha.waghmare10@example.com,+91 00000 32533,USER,Mumbai,ACTIVE,19.179082,72.845778,2025-08-01 17:44:00
+315, vinay sonawane  ,vinay.sonawane99@example.com,+91 00000 34681,USER,Navi Mumbai,ACTIVE,19.027818,73.031609,01/07/2025 21:06:00
+196,Omkar Bhatia,omkar.bhatia50@example.com,+91 00000 44831,USER,Kalyan-Dombivli,ACTIVE,19.256667,73.135124,2025-08-25 00:38:00
+396,Tejal Bhat,tejal.bhat75@example.com,(+91) 00000 73374,USER,Navi Mumbai,ACTIVE,19.08173,72.996001,2025-07-17 22:34:00
+397,Shreyas Arora,shreyas.arora98@example.com,(+91) 00000 13954,USER,Mumbai,ACTIVE,19.181406,72.861336,2025-08-12 09:21:00
+164,Rajesh Sethi,rajesh.sethi20@example.com,+91-00000-57771,user,Mumbai,ACTIVE,19.127476,72.912672,01/09/2026 02:04:00
+141,Jay More,jay.more70@example.com,+91 00000 34554,USER,Navi Mumbai,ACTIVE,19.051768,73.074606,2025-09-30 18:41:00
+285,Tarun Dias,tarun.dias35@example.com,+91 00000 49937,USER,N/A,ACTIVE,18.993697,73.132972,2025-07-01 06:45:00
+619,Pooja Vyas,pooja.vyas79@example.com,+91 00000 53098,USER,Mumbai,ACTIVE,19.185236,72.929697,2025-08-26 19:58:00
+224,Prasad Siddiqui,prasad.siddiqui34@example.com,+91 00000 50762,USER,Mumbai,ACTIVE,19.231116,72.862968,02/07/2025 20:28:00
+27,IRFAN SHARMA,irfan.sharma50@example.com,+91 00000 45345,USER,Navi Mumbai,ACTIVE,19.030667,73.030264,2025-09-28 08:22:00
+579,Imran Shah, Imran.shah81@example.com ,+91 00000 47229,USER ,Mumbai,ACTIVE,19.101464,72.915077,10/01/2026 23:13:00
+331,Supriya Bhatt,supriya.bhatt45@example.com,+91 00000 46018,USER,Mumbai,ACTIVE,19.184193,72.939843,2025-08-08 14:21:00
+64,Shruti Saxena,shruti.saxena75@example.com,+91 00000 13224,USER,Navi Mumbai,ACTIVE,19.071973,73.011749,10/03/2026 04:53:00
+264,Vedant Deshmukh,vedant.deshmukh55@example.com,+91-00000-73833,USER,Mumbai,ACTIVE,19.016456,72.846313,2026-06-30 08:55:00
+561,NIKHIL RODRIGUES,nikhil.rodrigues37@example.com,+91 00000 47077,USER,Mumbai,ACTIVE,19.018099,72.863294,2025-10-04 15:04:00
+323,Vidya Bhide,vidya.bhide86@example.com,+91-00000-33851,USER,Mumbai,ACTIVE,19.186674,72.857353,17/07/2025 09:47:00
+469,Meera Gokhale,meera.gokhale23@example.com,+910000073371,USER,Mumbai,ACTIVE,19.193805,72.819813,15/03/2026 22:57:00
+563,Rohan Apte,rohan.apte28@example.com,+91 00000 56950,USER,Thane,ACTIVE,19.229899,72.986829,22/09/2025 16:48:00
+63,Sonal Kaur,sonal.kaur59@example.com,+91-00000-45885,USER,Kalyan-Dombivli,ACTIVE,19.228375,73.122528,2025-09-01 11:20:00
+29, rajesh rodrigues  ,rajesh.rodrigues53@example.com,+91-00000-70252,USER,Mumbai,ACTIVE,19.082598,72.910917,14/09/2025 19:11:00
+348,Ashok Banerjee,ashok.banerjee83@example.com,+91 00000 11383,USER,Thane,ACTIVE,19.21509,72.980324,2025-07-12 07:31:00
+415,Shreyas Ramesh,shreyas.ramesh98@example.com,+91 00000 49035,USER,Navi Mumbai,ACTIVE,18.982622,73.125352,2025-07-11 23:05:00
+54,Sakshi Mehta,sakshi.mehta14@example.com,+91-00000-98845,USER,Mumbai,ACTIVE,19.025311,72.857245,2025-12-03 15:22:00
+656, mrunal hegde  ,mrunal.hegde27@example.com,+91 00000 42041,USER,Kalyan-Dombivli,ACTIVE,19.223492,73.085154,09/09/2025 18:41:00
+273,Manish Salvi,manish.salvi15@example.com,+91 00000 60391,USER,Mumbai,ACTIVE,19.159698,72.84679,2025-08-11 08:09:00
+499,Deepak Iyer,deepak.iyer71@example.com,0000014581,USER,Navi Mumbai,ACTIVE,19.026941,73.076158,2025-07-07 02:30:00
+8,Kavita Rao,KAVITA.RAO20@EXAMPLE.COM,+91 00000 90090,ADMIN,Mumbai,ACTIVE,19.125159,72.908133,20/06/2025 09:00:00
+191,Jay Deshmukh,jay.deshmukh10@example.com,+91 00000 36835,USER,Mumbai,ACTIVE,19.185756,72.934885,29/11/2025 00:17:00
+103,Ashok Dutta,ashok.dutta82@example.com,(+91) 00000 57500,USER,Navi Mumbai,ACTIVE,19.043775,73.0614,2025-09-16 21:16:00
+87,Mohit Ramesh,mohit.ramesh60@example.com,+91 00000 85661,USER,Mumbai,ACTIVE,19.085209,72.909842,2025-07-29 23:23:00
+221,Urvi Poojary,urvi.poojary96@example.com,+91-00000-85249,USER ,Mumbai,ACTIVE,19.010692,72.841507,2025-08-15 04:59:00
+93,Nilesh Rao,nilesh.rao60@example.com,+91 00000 16624,USER,Mumbai,ACTIVE,19.05192,72.879579,2026-05-19 18:23:00
+614,Nitin Kaur,nitin.kaur39@example.com,+91 00000 98842,USER,Kalyan-Dombivli,active,19.218309,73.087891,21/07/2025 08:27:00
+247,Madhuri Shah,madhuri.shah39@example.com,+91 00000 18570,USER,Navi Mumbai,ACTIVE,19.011417,73.103146,2025-08-31 12:13:00
+496,Vidya Shukla,vidya.shukla37@example.com,+91 00000 12131,USER,Mumbai,ACTIVE,19.09807,72.856062,2025-08-14 18:40:00
+546,Tanmay Sandhu,tanmay.sandhu81@example.com,+91 00000 76166,USER,Kalyan-Dombivli,ACTIVE,19.244624,73.130973,2026-06-21 20:07:00
+117,Neha Pereira,neha.pereira70@example.com,+910000031970,USER,Mumbai,ACTIVE,19.243016,72.858891,2025-09-14 15:40:00
+442,Lata Shinde,lata.shinde17@example.com,0000098185,USER,Mumbai,ACTIVE,19.163727,72.936001,2025-09-15 21:03:00
+516,Nilesh Das,nilesh.das18@example.com,+91-00000-84314,USER,Mumbai,ACTIVE,19.182608,72.846429,2025-07-07 21:47:00
+55,Vedant Poojary,vedant.poojary42@example.com,+91 00000 63566,USER,Navi Mumbai,ACTIVE,18.980672,73.115913,2025-07-29 03:56:00
+462,Neha Salvi,neha.salvi76@example.com,+91 00000 83319,USER,Mumbai,ACTIVE,19.004928,72.854794,2026-09-14 17:23:00
+262,Nitin Sethi,nitin.sethi53@example.com,,USER,Mumbai,ACTIVE,19.053968,72.889481,2026-05-02 19:43:00
+447,Supriya Trivedi,supriya.trivedi21@example.com,,USER,Mumbai,ACTIVE,19.232653,72.854651,24/06/2026 08:09:00
+73,Yogesh D'Souza,yogesh.dsouza84@example.com,+91 00000 89854,USER,Mumbai,active,19.025138,72.841484,2025-07-23 23:36:00
+257,Shreyas Joglekar,shreyas.joglekar61@example.com,+91 00000 50561,USER,Mumbai,ACTIVE,19.175884,72.851959,2025-09-24 17:55:00
+464,Sana Mukherjee,sana.mukherjee64@example.com,+91 00000 60791,USER,Navi Mumbai,ACTIVE,18.987724,73.111679,2026-06-22 04:50:00
+328,Vedant Ramesh,vedant.ramesh72@example.com,+91 00000 50413,USER,Kalyan-Dombivli,ACTIVE,19.246566,73.133453,2025-07-26 04:19:00
+148,Gayatri Pillai,gayatri.pillai21@example.com,+91-00000-72803,USER,Thane,ACTIVE,19.218702,72.984925,18/09/2025 18:20:00
+451,Pallavi Shah,pallavi.shah31@example.com,+91 00000 24862,USER ,Mumbai,ACTIVE,19.021507,72.870203,2026-04-10 20:33:00
+306,Sagar Menon,sagar.menon26@example.com,+910000078886,USER,Navi Mumbai,ACTIVE,19.04485,73.075399,2025-07-11 07:30:00
+248,Rohan Rao,rohan.rao86@example.com,+91 00000 26572,USER,Kalyan-Dombivli,ACTIVE,19.198168,73.084603,2025-08-22 03:26:00
+398,Meera Joglekar,meera.joglekar45@example.com,+91-00000-50020,USER,Thane,active,19.218417,72.965796,2026-01-01 15:58:00
+381,Sanjay Bhatt, Sanjay.bhatt84@example.com ,,USER,Mumbai,ACTIVE,19.238145,72.842657,2025-07-27 12:04:00
+623,Tushar Trivedi,tushar.trivedi85@example.com,+91 00000 97735,USER,Mumbai,ACTIVE,19.170753,72.942128,2025-09-17 07:33:00
+608,Neha Dalvi,neha.dalvi76@example.com,0000057571,USER,Mumbai,ACTIVE,19.087851,72.916284,2025-07-18 10:10:00
+1,VoltSlot Admin,admin@voltslot.in,(+91) 00000 35624,ADMIN,Mumbai,ACTIVE,19.067305,72.86418,2025-06-02 09:00:00
+186,Sneha Mehta,sneha.mehta87@example.com,0000021622,USER,Kalyan-Dombivli,ACTIVE,19.215077,73.076847,03/08/2025 23:10:00
+550,MIHIR SHINDE,mihir.shinde52@example.com,+91 00000 68611,USER ,Thane,ACTIVE,19.232304,72.9764,2026-08-22 02:27:00
+476,Mihir Parekh,mihir.parekh12@example.com,+91 00000 81803,USER,Mumbai,ACTIVE,19.067068,72.899555,2025-09-10 22:57:00
+225,Chaitali Vyas,chaitali.vyas89@example.com,+91 00000 74792,USER,Mumbai,active,19.020339,72.850023,2025-08-21 21:27:00
+581,Sandeep Patil,sandeep.patil57@example.com,+91 00000 14967,USER,Mumbai,ACTIVE,19.029701,72.890765,2025-08-05 10:27:00
+544,Prasad Bhatt,prasad.bhatt32@example.com,+910000095856,USER,Mumbai,ACTIVE,19.070144,72.904885,2026-05-10 23:48:00
+299,Nilesh Pawar,nilesh.pawar35@example.com,+91 00000 82414,USER,Mumbai,active,19.191116,72.832059,2025-07-03 17:52:00
+24,Supriya Pereira,supriya.pereira38@example.com,+910000078827,USER,Kalyan-Dombivli,ACTIVE,19.223965,73.087987,2025-10-25 09:55:00
+115,Chetan Ramesh,chetan.ramesh46@example.com,0000060630,user,Kalyan-Dombivli,active,19.217332,73.091789,19/07/2025 18:27:00
+39,Supriya Rao,supriya.rao99@example.com,+91 00000 82041,USER,Thane,ACTIVE,19.234305,72.970302,2026-06-08 16:42:00
+380,Vinay Gokhale,vinay.gokhale97@example.com,+91 00000 83692,USER,Navi Mumbai,active,18.991162,73.102096,2025-09-18 06:53:00
+271,Simran Kapoor,simran.kapoor56@example.com,0000089614,USER,Kalyan-Dombivli,ACTIVE,19.211297,73.103454,2025-07-09 23:07:00
+260,Shruti Tendulkar,shruti.tendulkar60@example.com,+91 00000 91666,USER,Mumbai,ACTIVE,19.174908,72.948683,2025-07-29 20:20:00
+507,Radhika Sen,radhika.sen13@example.com,0000093833,USER,Mumbai,ACTIVE,19.043386,72.909733,28/07/2025 19:53:00
+96, abhishek iyer  ,abhishek.iyer63@example.com,+91-00000-15139,USER,Mumbai,ACTIVE,19.180392,72.857178,2025-08-12 07:45:00
+157,Tanvi Kothari,tanvi.kothari52@example.com,+91 00000 59770,USER,Mumbai,ACTIVE,19.167894,72.858244,2026-04-02 18:13:00
+309,Prasad Lobo,prasad.lobo87@example.com,+91 00000 63206,USER,Mumbai,ACTIVE,19.050984,72.907218,2025-09-19 17:20:00
+493,Harpreet Rego,harpreet.rego77@example.com,+91-00000-80402,USER ,Thane,ACTIVE,19.216841,72.979319,2026-07-07 18:02:00
+289,Rahul Kotian,rahul.kotian88@example.com,(+91) 00000 84907,USER,Mumbai,ACTIVE,19.166954,72.955691,10/08/2025 19:51:00
+357,Fatima Naik,fatima.naik13@example.com,+910000088475,USER,Mumbai,ACTIVE,19.169452,72.860216,2026-02-17 01:46:00
+416,Deepak Sharma,deepak.sharma71@example.com,+91-00000-23188,USER,Mumbai,ACTIVE,19.048239,72.918278,2025-09-06 17:13:00
+113,Pooja Mehta,pooja.mehta24@example.com,+91-00000-59470,USER,Mumbai,ACTIVE,19.120376,72.877289,2025-07-29 22:42:00
+63,Sonal Kaur,sonal.kaur59@example.com,+91-00000-45885,USER,Kalyan-Dombivli,ACTIVE,19.228375,73.122528,2025-09-01 11:20:00
+562,Rajesh Chopra,rajesh.chopra26@example.com,+91 00000 11489,USER,Mumbai,ACTIVE,19.083103,72.910985,17/09/2025 08:25:00
+523,Harpreet Shukla,harpreet.shukla67@example.com,+91 00000 38452,USER,Kalyan-Dombivli,ACTIVE,19.213669,73.080702,2025-11-17 06:31:00
+17,Pranav Mishra,pranav.mishra16@example.com,+91 00000 99368,FLEET_MANAGER,Thane,ACTIVE,19.217806,72.988294,10/06/2025 20:02:00
+152,Gurpreet Bhosale,gurpreet.bhosale29@example.com,+91-00000-66419,USER,Thane,ACTIVE,19.227891,72.982937,2025-07-11 01:44:00
+554,Arjun Mascarenhas,arjun.mascarenhas74@example.com,+91 00000 87713,USER,Thane,ACTIVE,19.23167,72.964554,2025-07-28 01:55:00
+617,Urvi Rane,urvi.rane99@example.com,+91-00000-96029,USER ,Mumbai,ACTIVE,19.176796,72.934973,2025-07-27 04:00:00
+62,Sakshi Reddy,sakshi.reddy65@example.com,+91 00000 35692,USER,Navi Mumbai,ACTIVE,19.025207,73.014873,2025-09-05 06:13:00
+288,Disha Rego,disha.rego62@example.com,+910000011608,USER,Mumbai,ACTIVE,19.042109,72.892863,2025-09-13 15:59:00
+75,Sameer Mistry,sameer.mistry83@example.com,+91 00000 20386,USER,Thane,ACTIVE,19.221529,72.986247,26/08/2025 19:48:00
+281,Nazia Malhotra,nazia.malhotra73@example.com,+91-00000-41982,USER,Navi Mumbai,ACTIVE,19.095702,72.99754,28/09/2025 21:15:00
+508,Sagar Chawla,sagar.chawla68@example.com,+91-00000-41112,USER,Navi Mumbai,ACTIVE,18.994922,73.105472,2025-09-28 05:10:00
+94,Pratik D'Souza,pratik.dsouza46@example.com,+91 00000 56519,USER,Kalyan-Dombivli,ACTIVE,19.222348,73.077725,2025-07-02 02:48:00
+240,Swati Qureshi,swati.qureshi33@example.com,+91 00000 54792,USER,Thane,ACTIVE,19.226097,72.970802,2025-08-07 04:49:00
+526,Jay Kothari,jay.kothari67@example.com,+91-00000-31503,USER,Mumbai,ACTIVE,19.185049,72.864535,2025-08-25 05:30:00
+109,Sonal Krishnan,sonal.krishnan89@example.com,+91-00000-16788,USER,Navi Mumbai,ACTIVE,19.074597,72.997292,2025-07-22 09:28:00
+59,Jay Arora,jay.arora75@example.com,+91 00000 72265,USER,Kalyan-Dombivli,ACTIVE,19.218684,73.08602,06/07/2025 02:44:00
+487,Ritesh Sheikh,ritesh.sheikh19@example.com,(+91) 00000 91714,USER,Navi Mumbai,ACTIVE,19.040017,73.029508,17/03/2026 09:08:00
+76,Payal Parab,payal.parab51@example.com,+91 00000 43949,USER,Mumbai,ACTIVE,19.012521,72.847899,2026-05-24 03:26:00
+124,Sakshi Yadav,sakshi.yadav94@example.com,+91 00000 27483,USER,Kalyan-Dombivli,ACTIVE,19.239335,73.152491,31/03/2026 13:19:00
+215,Dev Poojary,dev.poojary94@example.com,+91 00000 61616,USER,Mumbai,ACTIVE,19.098808,72.904463,10/03/2026 20:00:00
+343,Kritika Sethi,kritika.sethi26@example.com,+91 00000 85837,USER,Mumbai,ACTIVE,19.186908,72.842391,2025-09-01 11:37:00
+558,Vrushali Shukla,vrushali.shukla64@example.com,+91 00000 40929,USER,Mumbai,ACTIVE,19.051342,72.900176,2025-09-07 22:30:00
+653,Harpreet Joshi,harpreet.joshi36@example.com,+91 00000 15647,USER,Navi Mumbai,ACTIVE,18.996897,73.125121,2025-08-20 10:46:00
+648,Bhavesh Kothari,bhavesh.kothari42@example.com,+91 00000 45013,USER,Mumbai,ACTIVE,19.174863,72.943735,2025-08-21 19:15:00

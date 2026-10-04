@@ -1,0 +1,50 @@
+[
+  {
+    "stageNo": 1,
+    "stage": "SEARCH",
+    "sessions": 3963,
+    "pctOfFirst": 100.0,
+    "stepConversionPct": null,
+    "dropOffPct": 0.0
+  },
+  {
+    "stageNo": 2,
+    "stage": "VIEW_STATION",
+    "sessions": 3607,
+    "pctOfFirst": 91.0,
+    "stepConversionPct": 91.0,
+    "dropOffPct": 9.0
+  },
+  {
+    "stageNo": 3,
+    "stage": "SELECT_SLOT",
+    "sessions": 3058,
+    "pctOfFirst": 77.2,
+    "stepConversionPct": 84.8,
+    "dropOffPct": 15.2
+  },
+  {
+    "stageNo": 4,
+    "stage": "BOOK",
+    "sessions": 2308,
+    "pctOfFirst": 58.2,
+    "stepConversionPct": 75.5,
+    "dropOffPct": 24.5
+  },
+  {
+    "stageNo": 5,
+    "stage": "CHECK_IN",
+    "sessions": 1751,
+    "pctOfFirst": 44.2,
+    "stepConversionPct": 75.9,
+    "dropOffPct": 24.1
+  },
+  {
+    "stageNo": 6,
+    "stage": "COMPLETE",
+    "sessions": 1750,
+    "pctOfFirst": 44.2,
+    "stepConversionPct": 99.9,
+    "dropOffPct": 0.1
+  }
+]

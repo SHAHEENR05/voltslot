@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "code": "CCS2",
+    "displayName": "CCS Combo 2",
+    "currentType": "DC",
+    "typicalKw": 60.0
+  },
+  {
+    "id": 2,
+    "code": "TYPE2",
+    "displayName": "Type 2",
+    "currentType": "AC",
+    "typicalKw": 7.4
+  },
+  {
+    "id": 3,
+    "code": "CHADEMO",
+    "displayName": "CHAdeMO",
+    "currentType": "DC",
+    "typicalKw": 50.0
+  },
+  {
+    "id": 4,
+    "code": "LECCS",
+    "displayName": "LECCS (Light EV)",
+    "currentType": "DC",
+    "typicalKw": 3.0
+  },
+  {
+    "id": 5,
+    "code": "BHARAT_DC",
+    "displayName": "Bharat DC-001",
+    "currentType": "DC",
+    "typicalKw": 15.0
+  }
+]

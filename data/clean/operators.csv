@@ -1,0 +1,9 @@
+id,name,brand_color,contact_email,created_at
+1,VoltGrid,#22d3ee,support@voltgrid.example.com,2024-03-05 10:00:00
+2,ChargeNest,#a78bfa,support@chargenest.example.com,2024-04-06 10:00:00
+3,AmpereHub,#f59e0b,support@amperehub.example.com,2024-05-07 10:00:00
+4,GreenPlug,#34d399,support@greenplug.example.com,2024-06-08 10:00:00
+5,UrjaCharge,#f472b6,support@urjacharge.example.com,2024-07-09 10:00:00
+6,ZapStation,#facc15,support@zapstation.example.com,2024-08-10 10:00:00
+7,MetroCharge,#60a5fa,support@metrocharge.example.com,2024-03-11 10:00:00
+8,EcoJuice,#fb923c,support@ecojuice.example.com,2024-04-12 10:00:00
