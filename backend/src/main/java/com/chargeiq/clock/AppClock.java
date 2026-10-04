@@ -55,6 +55,18 @@ public class AppClock {
         offsetSeconds = 0;
     }
 
+    /** Sets the offset so that now() equals the real wall-clock time (India time). Lost on restart, like any offset. */
+    public void syncToReal() {
+        LocalDateTime base;
+        if ("SYSTEM".equals(mode)) {
+            base = LocalDateTime.now(ZONE);
+        } else {
+            long elapsedMillis = Duration.between(startedAt, Instant.now()).toMillis();
+            base = anchor.plusNanos(elapsedMillis * 1_000_000L);
+        }
+        offsetSeconds = Duration.between(base, LocalDateTime.now(ZONE)).getSeconds();
+    }
+
     public String getMode() { return mode; }
 
     public LocalDateTime getAnchor() { return anchor; }

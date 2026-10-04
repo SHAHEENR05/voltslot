@@ -209,6 +209,14 @@ public class AdminService {
         return clock();
     }
 
+    /** Makes the app clock show the real time (India time) and runs the background jobs once. */
+    @Transactional(propagation = Propagation.NOT_SUPPORTED)
+    public ClockDto syncClockToReal() {
+        clock.syncToReal();
+        jobs.runAllNow();
+        return clock();
+    }
+
     /** Puts the demo clock back to its anchor. */
     @Transactional(propagation = Propagation.NOT_SUPPORTED)
     public ClockDto resetClock() {

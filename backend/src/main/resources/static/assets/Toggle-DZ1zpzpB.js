@@ -1,0 +1,1 @@
+import{j as i}from"./index-DW2PwF-5.js";function a({checked:t,onChange:r,disabled:o,label:s}){return i.jsx("button",{type:"button",role:"switch","aria-checked":!!t,"aria-label":s,disabled:o,className:`toggle ${t?"on":""}`,onClick:()=>r==null?void 0:r(!t)})}export{a as T};

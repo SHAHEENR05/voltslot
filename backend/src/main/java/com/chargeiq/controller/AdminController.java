@@ -89,6 +89,12 @@ public class AdminController {
         return ResponseEntity.ok(service.advanceClock(body));
     }
 
+    @PostMapping("/clock/sync")
+    @Operation(summary = "Set the app clock to the real time (India time)")
+    public ResponseEntity<ClockDto> syncClock() {
+        return ResponseEntity.ok(service.syncClockToReal());
+    }
+
     @PostMapping("/clock/reset")
     @Operation(summary = "Reset the demo clock to its anchor")
     public ResponseEntity<ClockDto> reset() {

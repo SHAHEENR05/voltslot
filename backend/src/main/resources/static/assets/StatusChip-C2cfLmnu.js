@@ -1,0 +1,1 @@
+import{j as l,b1 as e}from"./index-DW2PwF-5.js";function r({status:s}){const a=e[s]||{cls:"grey",label:s};return l.jsxs("span",{className:`pill ${a.cls}`,children:[l.jsx("span",{className:"dot"}),a.label]})}export{r as S};
